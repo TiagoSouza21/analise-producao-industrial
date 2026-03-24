@@ -1,0 +1,1936 @@
+﻿data,mes,dia_semana,maquina,tipo_maquina,turno,operador,producao,capacidade_maxima,tempo_parado_min,motivo_parada,temperatura_celsius
+24/02/2025,February 2025,Monday,M5,Solda Robotica,Manhã,Maria Lima,129.0,120,0,Sem parada,82.2
+26/03/2025,March 2025,Wednesday,M1,Torno CNC,Tarde,Carlos Silva,150.0,160,0,Sem parada,67.4
+26/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Ana Souza,136.0,140,0,Sem parada,85.5
+12/06/2025,June 2025,Thursday,M5,Solda Robotica,Tarde,Maria Lima,123.0,120,0,Sem parada,69.7
+16/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Noite,Ana Souza,138.0,140,0,Sem parada,91.1
+25/04/2025,April 2025,Friday,M2,Fresadora,Tarde,Ana Souza,189.0,180,0,Sem parada,84.0
+22/04/2025,April 2025,Tuesday,M1,Torno CNC,Manhã,Ana Souza,158.0,160,0,Sem parada,72.3
+21/03/2025,March 2025,Friday,M1,Torno CNC,Manhã,Pedro Santos,174.0,160,0,Sem parada,74.4
+25/04/2025,April 2025,Friday,M1,Torno CNC,Manhã,Carlos Silva,160.0,160,0,Sem parada,78.7
+27/03/2025,March 2025,Thursday,M4,Injetora,Noite,Maria Lima,180.0,200,0,Sem parada,99.6
+22/04/2025,April 2025,Tuesday,M2,Fresadora,Noite,Ana Souza,166.0,180,0,Sem parada,80.2
+10/06/2025,June 2025,Tuesday,M2,Fresadora,Manhã,Maria Lima,183.0,180,-4,Sem parada,91.9
+29/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Tarde,João Pereira,167.0,140,0,Sem parada,90.6
+21/05/2025,May 2025,Wednesday,M5,Solda Robotica,Manhã,Pedro Santos,102.0,120,0,Sem parada,68.1
+17/06/2025,June 2025,Tuesday,M2,Fresadora,Tarde,Pedro Santos,168.0,180,0,Sem parada,79.7
+01/05/2025,May 2025,Thursday,M1,Torno CNC,Manhã,Carlos Silva,164.0,160,0,Sem parada,76.9
+18/03/2025,March 2025,Tuesday,M1,Torno CNC,Manhã,João Pereira,161.0,160,0,Sem parada,67.8
+11/04/2025,April 2025,Friday,M1,Torno CNC,Manhã,Carlos Silva,145.0,160,0,Sem parada,76.2
+06/02/2025,February 2025,Thursday,M2,Fresadora,Tarde,Carlos Silva,177.0,180,5,Setup de máquina,76.7
+13/03/2025,March 2025,Thursday,M5,Solda Robotica,Manhã,Ana Souza,106.0,120,45,Manutenção preventiva,71.8
+09/01/2025,January 2025,Thursday,M4,Injetora,Manhã,Pedro Santos,200.0,200,0,Sem parada,89.3
+09/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Ana Souza,148.0,140,0,Sem parada,87.4
+04/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,151.0,140,0,Sem parada,132.4
+23/01/2025,January 2025,Thursday,M4,Injetora,Noite,Ana Souza,177.0,200,0,Sem parada,97.8
+07/05/2025,May 2025,Wednesday,M5,Solda Robotica,Noite,Ana Souza,112.0,120,0,Sem parada,67.6
+23/01/2025,January 2025,Thursday,M5,Solda Robotica,Noite,João Pereira,120.0,120,0,Sem parada,65.8
+25/04/2025,April 2025,Friday,M5,Solda Robotica,Noite,João Pereira,120.0,120,0,Sem parada,60.4
+20/05/2025,May 2025,Tuesday,M4,Injetora,Manhã,Ana Souza,181.0,200,0,Sem parada,107.1
+16/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,147.0,140,0,Sem parada,96.0
+03/02/2025,February 2025,Monday,M2,Fresadora,Noite,Maria Lima,172.0,180,0,Sem parada,90.2
+22/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Noite,Pedro Santos,146.0,140,0,Sem parada,93.8
+17/06/2025,June 2025,Tuesday,M4,Injetora,Manhã,Pedro Santos,219.0,200,0,Sem parada,93.0
+06/05/2025,May 2025,Tuesday,M5,Solda Robotica,Manhã,Maria Lima,123.0,120,0,Sem parada,77.2
+26/05/2025,May 2025,Monday,M1,Torno CNC,Noite,Carlos Silva,148.0,160,0,Sem parada,81.4
+28/01/2025,January 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,129.0,120,0,Sem parada,67.4
+02/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Noite,Ana Souza,130.0,140,0,Sem parada,86.4
+04/03/2025,March 2025,Tuesday,M5,Solda Robotica,Noite,Ana Souza,106.0,120,0,Sem parada,68.9
+17/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Tarde,Maria Lima,134.0,140,0,Sem parada,85.2
+13/06/2025,June 2025,Friday,M1,Torno CNC,Noite,Carlos Silva,165.0,160,0,Sem parada,77.4
+04/03/2025,March 2025,Tuesday,M4,Injetora,Tarde,João Pereira,202.0,200,0,Sem parada,95.0
+20/01/2025,January 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,134.0,160,28,Falha mecânica,84.2
+16/05/2025,May 2025,Friday,M4,Injetora,Manhã,Carlos Silva,216.0,200,19,Setup de máquina,99.9
+10/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Manhã,Carlos Silva,147.0,140,0,Sem parada,81.9
+27/01/2025,January 2025,Monday,M1,Torno CNC,Manhã,Ana Souza,170.0,160,0,Sem parada,69.4
+22/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Tarde,João Pereira,126.0,140,49,Falha mecânica,86.2
+17/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Noite,Pedro Santos,149.0,140,0,Sem parada,90.9
+29/05/2025,May 2025,Thursday,M5,Solda Robotica,Tarde,João Pereira,112.0,120,0,Sem parada,74.2
+21/01/2025,January 2025,Tuesday,M1,Torno CNC,Noite,João Pereira,168.0,160,0,Sem parada,81.8
+25/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Noite,Ana Souza,128.0,140,0,Sem parada,88.9
+23/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,157.0,140,0,Sem parada,92.7
+03/04/2025,April 2025,Thursday,M2,Fresadora,Manhã,Ana Souza,190.0,180,0,Sem parada,87.6
+05/05/2025,May 2025,Monday,M4,Injetora,Noite,Ana Souza,209.0,200,0,Sem parada,90.3
+08/05/2025,May 2025,Thursday,M2,Fresadora,Manhã,Maria Lima,175.0,180,0,Sem parada,86.7
+20/02/2025,February 2025,Thursday,M2,Fresadora,Tarde,João Pereira,176.0,180,0,Sem parada,84.0
+20/03/2025,March 2025,Thursday,M2,Fresadora,Noite,João Pereira,188.0,180,0,Sem parada,82.6
+05/06/2025,June 2025,Thursday,M1,Torno CNC,Noite,Carlos Silva,177.0,160,0,Sem parada,68.3
+27/01/2025,January 2025,Monday,M2,Fresadora,Noite,Pedro Santos,181.0,180,0,Sem parada,84.2
+07/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Tarde,João Pereira,124.0,140,0,Sem parada,85.9
+26/06/2025,June 2025,Thursday,M2,Fresadora,Tarde,Ana Souza,182.0,180,0,Sem parada,91.5
+15/05/2025,May 2025,Thursday,M4,Injetora,Manhã,Pedro Santos,195.0,200,0,Sem parada,96.4
+16/05/2025,May 2025,Friday,M1,Torno CNC,Tarde,Pedro Santos,150.0,160,0,Sem parada,78.8
+24/06/2025,June 2025,Tuesday,M1,Torno CNC,Noite,Pedro Santos,152.0,160,0,Sem parada,117.9
+06/05/2025,May 2025,Tuesday,M1,Torno CNC,Manhã,Pedro Santos,151.0,160,0,Sem parada,77.9
+17/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Pedro Santos,140.0,140,0,Sem parada,83.5
+13/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Manhã,Maria Lima,147.0,140,0,Sem parada,89.5
+23/04/2025,April 2025,Wednesday,M1,Torno CNC,Tarde,João Pereira,153.0,160,0,Sem parada,73.6
+12/02/2025,February 2025,Wednesday,M2,Fresadora,Manhã,Pedro Santos,160.0,180,0,Sem parada,88.7
+24/06/2025,June 2025,Tuesday,M2,Fresadora,Manhã,João Pereira,187.0,180,0,Sem parada,90.3
+07/01/2025,January 2025,Tuesday,M4,Injetora,Tarde,Maria Lima,203.0,200,0,Sem parada,101.5
+18/06/2025,June 2025,Wednesday,M5,Solda Robotica,Tarde,Maria Lima,111.0,120,0,Sem parada,73.8
+27/02/2025,February 2025,Thursday,M2,Fresadora,Manhã,Carlos Silva,204.0,180,0,Sem parada,82.2
+03/04/2025,April 2025,Thursday,M4,Injetora,Tarde,Carlos Silva,189.0,200,0,Sem parada,94.3
+09/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Manhã,Ana Souza,138.0,140,0,Sem parada,82.3
+10/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,145.0,140,0,Sem parada,89.5
+26/02/2025,February 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,129.0,120,0,Sem parada,81.1
+05/06/2025,June 2025,Thursday,M4,Injetora,Noite,Maria Lima,,200,0,Sem parada,95.4
+24/04/2025,April 2025,Thursday,M5,Solda Robotica,Tarde,Maria Lima,114.0,120,-3,Sem parada,71.2
+28/01/2025,January 2025,Tuesday,M5,Solda Robotica,Tarde,Maria Lima,117.0,120,0,Sem parada,65.1
+07/01/2025,January 2025,Tuesday,M2,Fresadora,Noite,Ana Souza,157.0,180,0,Sem parada,85.3
+02/04/2025,April 2025,Wednesday,M2,Fresadora,Manhã,Ana Souza,149.0,180,0,Sem parada,100.7
+29/04/2025,April 2025,Tuesday,M1,Torno CNC,Noite,Ana Souza,171.0,160,0,Sem parada,77.4
+27/02/2025,February 2025,Thursday,M2,Fresadora,Noite,Pedro Santos,174.0,180,0,Sem parada,84.0
+13/01/2025,January 2025,Monday,M1,Torno CNC,Manhã,João Pereira,149.0,160,0,Sem parada,74.4
+02/01/2025,January 2025,Thursday,M5,Solda Robotica,Noite,Carlos Silva,108.0,120,59,Falha mecânica,74.9
+14/01/2025,January 2025,Tuesday,M1,Torno CNC,Manhã,Maria Lima,157.0,160,56,Falta de insumo,67.8
+12/05/2025,May 2025,Monday,M2,Fresadora,Tarde,Carlos Silva,174.0,180,0,Sem parada,86.5
+30/05/2025,May 2025,Friday,M4,Injetora,Tarde,Carlos Silva,193.0,200,0,Sem parada,84.9
+22/05/2025,May 2025,Thursday,M1,Torno CNC,Tarde,Ana Souza,165.0,160,0,Sem parada,70.1
+24/02/2025,February 2025,Monday,M1,Torno CNC,Manhã,Pedro Santos,156.0,160,0,Sem parada,81.9
+24/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Ana Souza,117.0,140,0,Sem parada,90.7
+29/05/2025,May 2025,Thursday,M4,Injetora,Noite,Ana Souza,203.0,200,0,Sem parada,101.4
+31/01/2025,January 2025,Friday,M5,Solda Robotica,Manhã,Maria Lima,108.0,120,0,Sem parada,73.6
+27/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Noite,Carlos Silva,154.0,140,0,Sem parada,85.7
+30/01/2025,January 2025,Thursday,M4,Injetora,Manhã,Pedro Santos,196.0,200,0,Sem parada,98.5
+13/05/2025,May 2025,Tuesday,M5,Solda Robotica,Noite,Pedro Santos,114.0,120,0,Sem parada,67.3
+09/05/2025,May 2025,Friday,M4,Injetora,Noite,Maria Lima,180.0,200,0,Sem parada,89.8
+25/02/2025,February 2025,Tuesday,M5,Solda Robotica,Noite,Carlos Silva,122.0,120,0,Sem parada,76.8
+17/02/2025,February 2025,Monday,M5,Solda Robotica,Manhã,João Pereira,136.0,120,0,Sem parada,71.0
+21/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,125.0,140,0,Sem parada,83.0
+01/05/2025,May 2025,Thursday,M4,Injetora,Noite,Ana Souza,189.0,200,0,Sem parada,89.1
+25/03/2025,March 2025,Tuesday,M1,Torno CNC,Noite,João Pereira,150.0,160,0,Sem parada,68.4
+23/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Manhã,Pedro Santos,142.0,140,0,Sem parada,98.2
+05/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Pedro Santos,152.0,140,0,Sem parada,86.5
+07/03/2025,March 2025,Friday,M2,Fresadora,Noite,João Pereira,187.0,180,0,Sem parada,90.4
+04/04/2025,April 2025,Friday,M2,Fresadora,Noite,Pedro Santos,180.0,180,0,Sem parada,86.4
+22/05/2025,May 2025,Thursday,M2,Fresadora,Manhã,Maria Lima,175.0,180,0,Sem parada,85.9
+28/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Tarde,Pedro Santos,153.0,140,0,Sem parada,90.7
+10/03/2025,March 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,159.0,160,8,Falta de insumo,68.5
+01/04/2025,April 2025,Tuesday,M1,Torno CNC,Noite,Pedro Santos,186.0,160,0,Sem parada,70.4
+19/02/2025,February 2025,Wednesday,M4,Injetora,Manhã,João Pereira,192.0,200,0,Sem parada,96.7
+11/06/2025,June 2025,Wednesday,M2,Fresadora,Tarde,João Pereira,180.0,180,0,Sem parada,79.1
+14/05/2025,May 2025,Wednesday,M4,Injetora,Tarde,Carlos Silva,189.0,200,0,Sem parada,97.3
+15/04/2025,April 2025,Tuesday,M1,Torno CNC,Tarde,Ana Souza,169.0,160,0,Sem parada,74.1
+26/05/2025,May 2025,Monday,M5,Solda Robotica,Manhã,João Pereira,123.0,120,0,Sem parada,71.3
+10/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Manhã,Carlos Silva,132.0,140,0,Sem parada,95.9
+12/05/2025,May 2025,Monday,M5,Solda Robotica,Manhã,Pedro Santos,137.0,120,0,Sem parada,74.1
+25/06/2025,June 2025,Wednesday,M4,Injetora,Tarde,Maria Lima,216.0,200,0,Sem parada,92.5
+10/01/2025,January 2025,Friday,M2,Fresadora,Tarde,Ana Souza,173.0,180,0,Sem parada,85.4
+20/05/2025,May 2025,Tuesday,M2,Fresadora,Tarde,Maria Lima,187.0,180,0,Sem parada,86.0
+29/04/2025,April 2025,Tuesday,M4,Injetora,Tarde,Ana Souza,188.0,200,0,Sem parada,88.7
+12/05/2025,May 2025,Monday,M1,Torno CNC,Manhã,João Pereira,167.0,160,0,Sem parada,72.2
+18/04/2025,April 2025,Friday,M4,Injetora,Tarde,Ana Souza,195.0,200,0,Sem parada,94.6
+18/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Noite,Maria Lima,126.0,140,0,Sem parada,82.7
+13/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Noite,João Pereira,154.0,140,0,Sem parada,86.5
+26/05/2025,May 2025,Monday,M5,Solda Robotica,Noite,João Pereira,130.0,120,-4,Sem parada,78.3
+25/04/2025,April 2025,Friday,M2,Fresadora,Manhã,Ana Souza,169.0,180,0,Sem parada,85.2
+09/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Tarde,João Pereira,134.0,140,0,Sem parada,88.6
+17/02/2025,February 2025,Monday,M1,Torno CNC,Manhã,João Pereira,162.0,160,0,Sem parada,64.8
+09/04/2025,April 2025,Wednesday,M5,Solda Robotica,Tarde,Ana Souza,108.0,120,0,Sem parada,75.6
+02/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Manhã,Ana Souza,147.0,140,0,Sem parada,95.3
+13/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Manhã,Pedro Santos,129.0,140,0,Sem parada,98.1
+21/05/2025,May 2025,Wednesday,M5,Solda Robotica,Noite,Carlos Silva,115.0,120,0,Sem parada,70.2
+22/01/2025,January 2025,Wednesday,M5,Solda Robotica,Manhã,Maria Lima,135.0,120,0,Sem parada,68.8
+30/01/2025,January 2025,Thursday,M1,Torno CNC,Tarde,Maria Lima,157.0,160,0,Sem parada,72.9
+26/06/2025,June 2025,Thursday,M4,Injetora,Noite,Ana Souza,180.0,200,0,Sem parada,95.8
+03/02/2025,February 2025,Monday,M4,Injetora,Manhã,Maria Lima,166.0,200,0,Sem parada,103.5
+10/02/2025,February 2025,Monday,M1,Torno CNC,Manhã,João Pereira,159.0,160,0,Sem parada,78.4
+04/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Tarde,João Pereira,135.0,140,0,Sem parada,92.1
+04/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Ana Souza,144.0,140,0,Sem parada,81.5
+12/02/2025,February 2025,Wednesday,M1,Torno CNC,Manhã,Carlos Silva,158.0,160,19,Falha mecânica,73.0
+30/06/2025,June 2025,Monday,M2,Fresadora,Noite,Carlos Silva,172.0,180,0,Sem parada,87.5
+14/05/2025,May 2025,Wednesday,M4,Injetora,Noite,Pedro Santos,166.0,200,0,Sem parada,92.1
+27/02/2025,February 2025,Thursday,M5,Solda Robotica,Tarde,Carlos Silva,134.0,120,6,Falha mecânica,42.1
+11/03/2025,March 2025,Tuesday,M1,Torno CNC,Tarde,Ana Souza,158.0,160,0,Sem parada,75.1
+05/05/2025,May 2025,Monday,M5,Solda Robotica,Noite,Pedro Santos,,120,0,Sem parada,73.1
+09/04/2025,April 2025,Wednesday,M2,Fresadora,Manhã,Ana Souza,167.0,180,0,Sem parada,88.2
+03/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Tarde,Ana Souza,122.0,140,0,Sem parada,93.0
+14/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Noite,Carlos Silva,130.0,140,0,Sem parada,85.6
+27/03/2025,March 2025,Thursday,M1,Torno CNC,Tarde,Carlos Silva,172.0,160,0,Sem parada,76.4
+06/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Tarde,João Pereira,143.0,140,0,Sem parada,91.6
+17/06/2025,June 2025,Tuesday,M5,Solda Robotica,Tarde,,110.0,120,0,Sem parada,75.0
+22/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,132.0,140,0,Sem parada,91.1
+25/04/2025,April 2025,Friday,M1,Torno CNC,Tarde,Pedro Santos,166.0,160,0,Sem parada,68.8
+23/06/2025,June 2025,Monday,M4,Injetora,Tarde,Ana Souza,177.0,200,0,Sem parada,88.4
+29/01/2025,January 2025,Wednesday,M2,Fresadora,Noite,Ana Souza,189.0,180,0,Sem parada,84.7
+23/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Noite,Pedro Santos,146.0,140,0,Sem parada,91.7
+05/03/2025,March 2025,Wednesday,M2,Fresadora,Manhã,Pedro Santos,172.0,180,0,Sem parada,87.0
+08/05/2025,May 2025,Thursday,M5,Solda Robotica,Noite,João Pereira,109.0,120,0,Sem parada,73.1
+02/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Noite,Carlos Silva,134.0,140,0,Sem parada,95.3
+12/02/2025,February 2025,Wednesday,M5,Solda Robotica,Manhã,Pedro Santos,131.0,120,0,Sem parada,62.4
+07/01/2025,January 2025,Tuesday,M2,Fresadora,Manhã,Maria Lima,165.0,180,0,Sem parada,82.2
+10/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Tarde,Carlos Silva,155.0,140,0,Sem parada,87.1
+20/02/2025,February 2025,Thursday,M2,Fresadora,Manhã,,192.0,180,5,Falha mecânica,86.2
+21/03/2025,March 2025,Friday,M4,Injetora,Tarde,João Pereira,196.0,200,0,Sem parada,93.3
+10/03/2025,March 2025,Monday,M5,Solda Robotica,Tarde,João Pereira,136.0,120,0,Sem parada,72.0
+26/05/2025,May 2025,Monday,M2,Fresadora,Manhã,Pedro Santos,195.0,180,0,Sem parada,127.9
+28/01/2025,January 2025,Tuesday,M2,Fresadora,Tarde,Maria Lima,158.0,180,0,Sem parada,90.7
+28/03/2025,March 2025,Friday,M5,Solda Robotica,Tarde,Maria Lima,112.0,120,0,Sem parada,72.1
+09/06/2025,June 2025,Monday,M5,Solda Robotica,Manhã,João Pereira,114.0,120,0,Sem parada,69.3
+09/01/2025,January 2025,Thursday,M4,Injetora,Tarde,Ana Souza,205.0,200,0,Sem parada,97.8
+24/04/2025,April 2025,Thursday,M5,Solda Robotica,Noite,Pedro Santos,124.0,120,0,Sem parada,72.4
+24/06/2025,June 2025,Tuesday,M5,Solda Robotica,Noite,Ana Souza,133.0,120,0,Sem parada,62.6
+19/02/2025,February 2025,Wednesday,M4,Injetora,Tarde,Pedro Santos,199.0,200,0,Sem parada,97.4
+04/04/2025,April 2025,Friday,M2,Fresadora,Tarde,Carlos Silva,189.0,180,0,Sem parada,78.8
+29/01/2025,January 2025,Wednesday,M2,Fresadora,Manhã,Pedro Santos,168.0,180,0,Sem parada,78.8
+30/04/2025,April 2025,Wednesday,M4,Injetora,Tarde,Maria Lima,200.0,200,0,Sem parada,87.8
+19/02/2025,February 2025,Wednesday,M1,Torno CNC,Noite,Ana Souza,139.0,160,43,Manutenção preventiva,71.6
+06/03/2025,March 2025,Thursday,M2,Fresadora,Tarde,Pedro Santos,180.0,180,0,Sem parada,81.2
+02/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,146.0,140,0,Sem parada,90.4
+21/05/2025,May 2025,Wednesday,M2,Fresadora,Noite,Maria Lima,178.0,180,0,Sem parada,91.6
+05/03/2025,March 2025,Wednesday,M2,Fresadora,Tarde,Pedro Santos,158.0,180,0,Sem parada,85.9
+10/01/2025,January 2025,Friday,M4,Injetora,Tarde,Ana Souza,188.0,200,0,Sem parada,96.1
+16/05/2025,May 2025,Friday,M1,Torno CNC,Noite,João Pereira,168.0,160,0,Sem parada,84.2
+15/05/2025,May 2025,Thursday,M2,Fresadora,Tarde,Carlos Silva,174.0,180,0,Sem parada,86.9
+03/04/2025,April 2025,Thursday,M5,Solda Robotica,Noite,Maria Lima,126.0,120,0,Sem parada,74.7
+26/02/2025,February 2025,Wednesday,M4,Injetora,Tarde,Pedro Santos,180.0,200,0,Sem parada,96.5
+11/02/2025,February 2025,Tuesday,M2,Fresadora,Manhã,Carlos Silva,172.0,180,0,Sem parada,86.1
+02/06/2025,June 2025,Monday,M5,Solda Robotica,Manhã,Ana Souza,126.0,120,0,Sem parada,79.7
+30/04/2025,April 2025,Wednesday,M2,Fresadora,Noite,João Pereira,165.0,180,0,Sem parada,85.4
+04/02/2025,February 2025,Tuesday,M5,Solda Robotica,Noite,João Pereira,114.0,120,0,Sem parada,63.0
+06/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Pedro Santos,136.0,140,0,Sem parada,93.7
+23/06/2025,June 2025,Monday,M2,Fresadora,Tarde,Carlos Silva,193.0,180,0,Sem parada,83.9
+16/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Noite,Ana Souza,123.0,140,0,Sem parada,83.0
+14/02/2025,February 2025,Friday,M2,Fresadora,Manhã,Ana Souza,170.0,180,0,Sem parada,94.0
+24/04/2025,April 2025,Thursday,M2,Fresadora,Noite,Maria Lima,205.0,180,0,Sem parada,91.9
+01/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Ana Souza,134.0,140,0,Sem parada,89.5
+26/02/2025,February 2025,Wednesday,M4,Injetora,Noite,Ana Souza,210.0,200,0,Sem parada,97.1
+18/02/2025,February 2025,Tuesday,M2,Fresadora,Tarde,Ana Souza,188.0,180,0,Sem parada,79.9
+03/04/2025,April 2025,Thursday,M2,Fresadora,Tarde,Pedro Santos,162.0,180,23,Falha mecânica,87.2
+30/05/2025,May 2025,Friday,M5,Solda Robotica,Manhã,João Pereira,107.0,120,0,Sem parada,70.9
+03/01/2025,January 2025,Friday,M1,Torno CNC,Noite,Carlos Silva,170.0,160,0,Sem parada,81.8
+16/06/2025,June 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,,160,0,Sem parada,69.6
+07/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Tarde,Maria Lima,128.0,140,0,Sem parada,80.2
+23/04/2025,April 2025,Wednesday,M1,Torno CNC,Noite,Maria Lima,181.0,160,0,Sem parada,81.7
+02/04/2025,April 2025,Wednesday,M4,Injetora,Noite,Maria Lima,210.0,200,0,Sem parada,96.0
+13/01/2025,January 2025,Monday,M2,Fresadora,Tarde,Ana Souza,205.0,180,0,Sem parada,87.0
+07/03/2025,March 2025,Friday,M1,Torno CNC,Manhã,Carlos Silva,177.0,160,-4,Sem parada,77.8
+15/01/2025,January 2025,Wednesday,M5,Solda Robotica,Tarde,Carlos Silva,131.0,120,0,Sem parada,74.0
+20/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Noite,Carlos Silva,128.0,140,0,Sem parada,89.3
+28/03/2025,March 2025,Friday,M5,Solda Robotica,Manhã,Carlos Silva,119.0,120,0,Sem parada,71.4
+16/06/2025,June 2025,Monday,M5,Solda Robotica,Noite,Ana Souza,122.0,120,0,Sem parada,74.5
+18/04/2025,April 2025,Friday,M2,Fresadora,Tarde,Pedro Santos,171.0,180,0,Sem parada,79.5
+09/05/2025,May 2025,Friday,M5,Solda Robotica,Manhã,Pedro Santos,115.0,120,0,Sem parada,68.2
+06/01/2025,January 2025,Monday,M2,Fresadora,Tarde,João Pereira,180.0,180,0,Sem parada,83.8
+10/02/2025,February 2025,Monday,M5,Solda Robotica,Manhã,Maria Lima,114.0,120,0,Sem parada,68.1
+30/06/2025,June 2025,Monday,M1,Torno CNC,Noite,Carlos Silva,180.0,160,0,Sem parada,79.1
+17/03/2025,March 2025,Monday,M5,Solda Robotica,Manhã,Carlos Silva,118.0,120,0,Sem parada,86.0
+24/06/2025,June 2025,Tuesday,M4,Injetora,Tarde,Pedro Santos,188.0,200,0,Sem parada,97.6
+27/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Noite,João Pereira,150.0,140,0,Sem parada,84.9
+11/04/2025,April 2025,Friday,M4,Injetora,Manhã,Ana Souza,232.0,200,0,Sem parada,95.0
+08/04/2025,April 2025,Tuesday,M5,Solda Robotica,Manhã,Maria Lima,129.0,120,0,Sem parada,69.6
+16/05/2025,May 2025,Friday,M4,Injetora,Tarde,Pedro Santos,213.0,200,0,Sem parada,92.7
+02/06/2025,June 2025,Monday,M1,Torno CNC,Noite,João Pereira,157.0,160,0,Sem parada,78.9
+07/05/2025,May 2025,Wednesday,M4,Injetora,Manhã,João Pereira,190.0,200,0,Sem parada,95.6
+06/03/2025,March 2025,Thursday,M2,Fresadora,Manhã,Carlos Silva,198.0,180,0,Sem parada,92.8
+21/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Noite,Maria Lima,154.0,140,12,Falta de insumo,83.1
+14/02/2025,February 2025,Friday,M5,Solda Robotica,Noite,Ana Souza,117.0,120,0,Sem parada,70.1
+07/02/2025,February 2025,Friday,M4,Injetora,Noite,Pedro Santos,183.0,200,0,Sem parada,91.2
+17/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Manhã,Carlos Silva,140.0,140,0,Sem parada,86.0
+17/03/2025,March 2025,Monday,M2,Fresadora,Manhã,Pedro Santos,188.0,180,0,Sem parada,95.3
+26/06/2025,June 2025,Thursday,M4,Injetora,Tarde,João Pereira,177.0,200,0,Sem parada,87.0
+21/01/2025,January 2025,Tuesday,M4,Injetora,Tarde,João Pereira,206.0,200,0,Sem parada,94.8
+29/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Manhã,João Pereira,143.0,140,0,Sem parada,84.4
+06/06/2025,June 2025,Friday,M5,Solda Robotica,Manhã,Ana Souza,130.0,120,0,Sem parada,67.2
+08/01/2025,January 2025,Wednesday,M2,Fresadora,Manhã,Ana Souza,206.0,180,0,Sem parada,87.4
+06/01/2025,January 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,130.0,120,0,Sem parada,73.8
+22/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Noite,Ana Souza,137.0,140,0,Sem parada,85.4
+04/02/2025,February 2025,Tuesday,M1,Torno CNC,Tarde,João Pereira,142.0,160,0,Sem parada,78.7
+24/02/2025,February 2025,Monday,M2,Fresadora,Noite,,165.0,180,0,Sem parada,74.2
+26/03/2025,March 2025,Wednesday,M4,Injetora,Tarde,Ana Souza,197.0,200,0,Sem parada,95.4
+24/01/2025,January 2025,Friday,M1,Torno CNC,Tarde,Maria Lima,156.0,160,0,Sem parada,70.5
+07/01/2025,January 2025,Tuesday,M5,Solda Robotica,Tarde,João Pereira,108.0,120,0,Sem parada,63.4
+02/04/2025,April 2025,Wednesday,M5,Solda Robotica,Tarde,Carlos Silva,130.0,120,0,Sem parada,74.7
+10/06/2025,June 2025,Tuesday,M4,Injetora,Manhã,Ana Souza,179.0,200,0,Sem parada,96.5
+21/01/2025,January 2025,Tuesday,M1,Torno CNC,Manhã,João Pereira,172.0,160,36,Setup de máquina,83.8
+07/01/2025,January 2025,Tuesday,M4,Injetora,Manhã,Maria Lima,213.0,200,0,Sem parada,88.8
+22/01/2025,January 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,149.0,120,0,Sem parada,75.6
+15/01/2025,January 2025,Wednesday,M5,Solda Robotica,Manhã,João Pereira,110.0,120,0,Sem parada,63.9
+01/04/2025,April 2025,Tuesday,M5,Solda Robotica,Noite,João Pereira,114.0,120,59,Setup de máquina,69.7
+10/04/2025,April 2025,Thursday,M1,Torno CNC,Noite,João Pereira,155.0,160,0,Sem parada,72.1
+06/05/2025,May 2025,Tuesday,M2,Fresadora,Noite,Maria Lima,189.0,180,0,Sem parada,83.5
+29/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Manhã,Ana Souza,165.0,140,0,Sem parada,86.9
+14/03/2025,March 2025,Friday,M1,Torno CNC,Tarde,Maria Lima,128.0,160,0,Sem parada,79.4
+07/04/2025,April 2025,Monday,M2,Fresadora,Manhã,Carlos Silva,180.0,180,0,Sem parada,85.0
+27/05/2025,May 2025,Tuesday,M2,Fresadora,Noite,Ana Souza,178.0,180,0,Sem parada,84.8
+26/03/2025,March 2025,Wednesday,M1,Torno CNC,Manhã,Pedro Santos,184.0,160,0,Sem parada,74.7
+03/04/2025,April 2025,Thursday,M4,Injetora,Manhã,João Pereira,197.0,200,0,Sem parada,91.3
+25/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Maria Lima,150.0,140,0,Sem parada,82.1
+02/05/2025,May 2025,Friday,M4,Injetora,Noite,Pedro Santos,203.0,200,0,Sem parada,96.6
+06/01/2025,January 2025,Monday,M1,Torno CNC,Manhã,Ana Souza,154.0,160,20,Falha mecânica,79.8
+13/06/2025,June 2025,Friday,M2,Fresadora,Manhã,Pedro Santos,168.0,180,0,Sem parada,87.1
+27/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Tarde,Maria Lima,141.0,140,0,Sem parada,84.9
+20/05/2025,May 2025,Tuesday,M2,Fresadora,Noite,Carlos Silva,183.0,180,0,Sem parada,91.4
+08/01/2025,January 2025,Wednesday,M1,Torno CNC,Tarde,João Pereira,151.0,160,0,Sem parada,76.2
+23/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Tarde,Pedro Santos,138.0,140,0,Sem parada,91.5
+08/05/2025,May 2025,Thursday,M1,Torno CNC,Tarde,Pedro Santos,167.0,160,0,Sem parada,70.6
+30/05/2025,May 2025,Friday,M2,Fresadora,Tarde,Ana Souza,169.0,180,0,Sem parada,88.6
+05/05/2025,May 2025,Monday,M5,Solda Robotica,Tarde,Ana Souza,128.0,120,0,Sem parada,63.8
+16/06/2025,June 2025,Monday,M2,Fresadora,Manhã,Ana Souza,189.0,180,0,Sem parada,92.3
+24/03/2025,March 2025,Monday,M2,Fresadora,Manhã,Carlos Silva,194.0,180,0,Sem parada,87.5
+15/04/2025,April 2025,Tuesday,M2,Fresadora,Tarde,Pedro Santos,153.0,180,0,Sem parada,90.0
+03/01/2025,January 2025,Friday,M1,Torno CNC,Manhã,Maria Lima,153.0,160,0,Sem parada,74.1
+09/04/2025,April 2025,Wednesday,M2,Fresadora,Noite,Pedro Santos,172.0,180,0,Sem parada,54.2
+13/03/2025,March 2025,Thursday,M4,Injetora,Manhã,Ana Souza,212.0,200,0,Sem parada,101.1
+25/02/2025,February 2025,Tuesday,M1,Torno CNC,Manhã,Pedro Santos,169.0,160,0,Sem parada,76.4
+21/04/2025,April 2025,Monday,M4,Injetora,Noite,Maria Lima,175.0,200,0,Sem parada,100.6
+28/03/2025,March 2025,Friday,M4,Injetora,Noite,Pedro Santos,180.0,200,0,Sem parada,92.0
+16/04/2025,April 2025,Wednesday,M4,Injetora,Manhã,Ana Souza,191.0,200,0,Sem parada,94.6
+25/06/2025,June 2025,Wednesday,M1,Torno CNC,Tarde,João Pereira,176.0,160,0,Sem parada,72.8
+22/05/2025,May 2025,Thursday,M1,Torno CNC,Noite,Pedro Santos,160.0,160,0,Sem parada,77.2
+14/02/2025,February 2025,Friday,M2,Fresadora,Noite,Carlos Silva,181.0,180,0,Sem parada,81.6
+22/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Noite,Ana Souza,152.0,140,0,Sem parada,88.3
+03/01/2025,January 2025,Friday,M5,Solda Robotica,Noite,Carlos Silva,110.0,120,18,Falha mecânica,72.6
+31/01/2025,January 2025,Friday,M1,Torno CNC,Tarde,Maria Lima,159.0,160,0,Sem parada,72.3
+16/01/2025,January 2025,Thursday,M2,Fresadora,Manhã,Carlos Silva,168.0,180,0,Sem parada,83.4
+21/02/2025,February 2025,Friday,M5,Solda Robotica,Manhã,Carlos Silva,105.0,120,51,Falta de insumo,74.8
+04/02/2025,February 2025,Tuesday,M2,Fresadora,Noite,Ana Souza,182.0,180,0,Sem parada,80.1
+24/06/2025,June 2025,Tuesday,M1,Torno CNC,Manhã,João Pereira,172.0,160,0,Sem parada,83.5
+29/04/2025,April 2025,Tuesday,M5,Solda Robotica,Tarde,Maria Lima,106.0,120,0,Sem parada,67.2
+27/02/2025,February 2025,Thursday,M2,Fresadora,Tarde,João Pereira,188.0,180,0,Sem parada,93.1
+18/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Tarde,João Pereira,147.0,140,0,Sem parada,93.7
+03/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Manhã,Carlos Silva,132.0,140,0,Sem parada,83.0
+31/03/2025,March 2025,Monday,M2,Fresadora,Tarde,João Pereira,188.0,180,0,Sem parada,83.5
+25/02/2025,February 2025,Tuesday,M2,Fresadora,Noite,Pedro Santos,167.0,180,39,Falta de insumo,92.0
+19/02/2025,February 2025,Wednesday,M2,Fresadora,Tarde,Pedro Santos,187.0,180,0,Sem parada,83.1
+03/04/2025,April 2025,Thursday,M4,Injetora,Noite,Maria Lima,187.0,200,0,Sem parada,93.5
+08/04/2025,April 2025,Tuesday,M2,Fresadora,Noite,Pedro Santos,180.0,180,-4,Sem parada,88.0
+17/01/2025,January 2025,Friday,M2,Fresadora,Noite,Ana Souza,180.0,180,0,Sem parada,87.5
+25/03/2025,March 2025,Tuesday,M2,Fresadora,Manhã,Pedro Santos,171.0,180,0,Sem parada,84.8
+18/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Noite,Carlos Silva,127.0,140,0,Sem parada,88.1
+24/04/2025,April 2025,Thursday,m1,Torno CNC,Tarde,Maria Lima,159.0,160,0,Sem parada,74.1
+24/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Noite,Pedro Santos,,140,0,Sem parada,89.2
+02/05/2025,May 2025,Friday,M5,Solda Robotica,Noite,Ana Souza,110.0,120,0,Sem parada,72.0
+03/06/2025,June 2025,Tuesday,M4,Injetora,Manhã,Pedro Santos,189.0,200,0,Sem parada,93.6
+26/05/2025,May 2025,Monday,M2,Fresadora,Noite,Carlos Silva,169.0,180,0,Sem parada,89.3
+02/05/2025,May 2025,Friday,M2,Fresadora,Tarde,Pedro Santos,186.0,180,0,Sem parada,92.3
+02/05/2025,May 2025,Friday,M5,Solda Robotica,Manhã,Ana Souza,136.0,120,0,Sem parada,75.4
+21/04/2025,April 2025,Monday,M4,Injetora,Manhã,Carlos Silva,171.0,200,0,Sem parada,97.0
+12/02/2025,February 2025,Wednesday,M5,Solda Robotica,Noite,Carlos Silva,119.0,120,56,Setup de máquina,69.7
+19/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,154.0,140,0,Sem parada,89.9
+27/05/2025,May 2025,Tuesday,M1,Torno CNC,Manhã,Carlos Silva,153.0,160,0,Sem parada,71.9
+13/01/2025,January 2025,Monday,M2,Fresadora,Manhã,João Pereira,173.0,180,0,Sem parada,81.7
+05/06/2025,June 2025,Thursday,M2,Fresadora,Tarde,Ana Souza,187.0,180,0,Sem parada,94.0
+09/05/2025,May 2025,Friday,M5,Solda Robotica,Noite,Maria Lima,115.0,120,0,Sem parada,70.9
+29/04/2025,April 2025,Tuesday,M2,Fresadora,Noite,Ana Souza,186.0,180,0,Sem parada,80.4
+31/03/2025,March 2025,Monday,M2,Fresadora,Manhã,Maria Lima,176.0,180,-1,Sem parada,93.0
+31/01/2025,January 2025,Friday,M5,Solda Robotica,Noite,Ana Souza,126.0,120,0,Sem parada,72.2
+05/05/2025,May 2025,Monday,M4,Injetora,Tarde,Carlos Silva,181.0,200,0,Sem parada,90.5
+09/06/2025,June 2025,Monday,M5,Solda Robotica,Noite,João Pereira,106.0,120,7,Setup de máquina,67.3
+17/01/2025,January 2025,Friday,M5,Solda Robotica,Noite,João Pereira,129.0,120,0,Sem parada,67.1
+12/06/2025,June 2025,Thursday,M1,Torno CNC,Noite,Pedro Santos,147.0,160,0,Sem parada,72.4
+17/06/2025,June 2025,Tuesday,M1,Torno CNC,Noite,João Pereira,143.0,160,0,Sem parada,76.4
+04/06/2025,June 2025,Wednesday,M4,Injetora,Tarde,Carlos Silva,203.0,200,0,Sem parada,90.5
+30/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Tarde,Ana Souza,137.0,140,0,Sem parada,88.6
+07/05/2025,May 2025,Wednesday,M1,Torno CNC,Manhã,Maria Lima,164.0,160,0,Sem parada,80.5
+24/01/2025,January 2025,Friday,M4,Injetora,Noite,João Pereira,198.0,200,0,Sem parada,88.9
+14/04/2025,April 2025,Monday,M2,Fresadora,Noite,Ana Souza,205.0,180,0,Sem parada,84.0
+07/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Maria Lima,129.0,140,0,Sem parada,97.7
+20/06/2025,June 2025,Friday,M1,Torno CNC,Noite,Maria Lima,175.0,160,0,Sem parada,68.7
+26/06/2025,June 2025,Thursday,M1,Torno CNC,Tarde,Maria Lima,146.0,160,0,Sem parada,69.1
+14/04/2025,April 2025,Monday,M1,Torno CNC,Tarde,Ana Souza,185.0,160,0,Sem parada,68.2
+23/04/2025,April 2025,Wednesday,M2,Fresadora,Tarde,Carlos Silva,191.0,180,0,Sem parada,79.3
+07/02/2025,February 2025,Friday,M4,Injetora,Manhã,Ana Souza,193.0,200,0,Sem parada,93.6
+19/06/2025,June 2025,Thursday,M4,Injetora,Noite,Maria Lima,207.0,200,0,Sem parada,90.9
+26/02/2025,February 2025,Wednesday,M4,Injetora,Manhã,Pedro Santos,186.0,200,0,Sem parada,105.7
+28/03/2025,March 2025,Friday,M1,Torno CNC,Noite,Ana Souza,176.0,160,0,Sem parada,66.7
+21/03/2025,March 2025,Friday,M1,Torno CNC,Noite,João Pereira,153.0,160,0,Sem parada,74.5
+22/04/2025,April 2025,Tuesday,M5,Solda Robotica,Tarde,Ana Souza,111.0,120,0,Sem parada,65.0
+28/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Noite,João Pereira,135.0,140,0,Sem parada,90.8
+03/03/2025,March 2025,Monday,M2,Fresadora,Noite,Pedro Santos,170.0,180,0,Sem parada,90.0
+03/03/2025,March 2025,Monday,M4,Injetora,Manhã,João Pereira,217.0,200,0,Sem parada,97.4
+03/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Noite,Carlos Silva,125.0,140,0,Sem parada,98.8
+30/06/2025,June 2025,Monday,M1,Torno CNC,Tarde,Carlos Silva,172.0,160,0,Sem parada,68.1
+11/06/2025,June 2025,Wednesday,M5,Solda Robotica,Tarde,João Pereira,129.0,120,0,Sem parada,59.5
+30/05/2025,May 2025,Friday,M1,Torno CNC,Noite,Pedro Santos,169.0,160,0,Sem parada,83.9
+10/02/2025,February 2025,Monday,M5,Solda Robotica,Tarde,Pedro Santos,122.0,120,0,Sem parada,71.7
+11/03/2025,March 2025,Tuesday,M4,Injetora,Manhã,Pedro Santos,175.0,200,0,Sem parada,101.3
+14/02/2025,February 2025,Friday,M1,Torno CNC,Noite,Carlos Silva,158.0,160,0,Sem parada,82.2
+10/03/2025,March 2025,Monday,M4,Injetora,Tarde,João Pereira,197.0,200,0,Sem parada,88.9
+26/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,136.0,140,0,Sem parada,96.2
+15/04/2025,April 2025,Tuesday,M1,Torno CNC,Noite,Maria Lima,151.0,160,0,Sem parada,81.6
+24/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Manhã,Maria Lima,128.0,140,16,Manutenção preventiva,92.9
+02/04/2025,April 2025,Wednesday,M1,Torno CNC,Tarde,Maria Lima,148.0,160,0,Sem parada,71.7
+23/01/2025,January 2025,Thursday,M1,Torno CNC,Manhã,Pedro Santos,158.0,160,0,Sem parada,70.2
+08/05/2025,May 2025,Thursday,M4,Injetora,Tarde,João Pereira,228.0,200,-3,Sem parada,102.9
+25/06/2025,June 2025,Wednesday,M1,Torno CNC,Manhã,Ana Souza,152.0,160,0,Sem parada,76.6
+19/02/2025,February 2025,Wednesday,M5,Solda Robotica,Tarde,João Pereira,105.0,120,0,Sem parada,67.9
+09/04/2025,April 2025,Wednesday,M1,Torno CNC,Manhã,Maria Lima,164.0,160,-4,Sem parada,70.5
+20/02/2025,February 2025,Thursday,M5,Solda Robotica,Manhã,Pedro Santos,130.0,120,0,Sem parada,64.8
+31/03/2025,March 2025,Monday,M2,Fresadora,Noite,João Pereira,190.0,180,0,Sem parada,83.3
+20/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Noite,Ana Souza,140.0,140,0,Sem parada,80.0
+27/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,140.0,140,0,Sem parada,92.2
+11/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Pedro Santos,159.0,140,0,Sem parada,88.0
+09/06/2025,June 2025,Monday,M4,Injetora,Noite,Maria Lima,231.0,200,0,Sem parada,90.8
+07/01/2025,January 2025,Tuesday,M4,Injetora,Noite,Ana Souza,160.0,200,39,Manutenção preventiva,95.9
+14/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Manhã,Maria Lima,149.0,140,0,Sem parada,86.7
+24/01/2025,January 2025,Friday,M2,Fresadora,Tarde,Maria Lima,181.0,180,0,Sem parada,88.8
+06/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Manhã,João Pereira,136.0,140,0,Sem parada,86.0
+08/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,117.0,140,25,Setup de máquina,78.5
+06/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Noite,Maria Lima,139.0,140,0,Sem parada,93.4
+24/03/2025,March 2025,Monday,M4,Injetora,Manhã,Ana Souza,225.0,200,0,Sem parada,101.6
+31/01/2025,January 2025,Friday,M1,Torno CNC,Noite,Carlos Silva,150.0,160,0,Sem parada,75.5
+21/05/2025,May 2025,Wednesday,M2,Fresadora,Manhã,João Pereira,186.0,180,0,Sem parada,77.3
+23/05/2025,May 2025,Friday,M5,Solda Robotica,Noite,Carlos Silva,101.0,120,0,Sem parada,70.7
+05/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Noite,Carlos Silva,139.0,140,0,Sem parada,98.9
+07/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Manhã,Pedro Santos,165.0,140,0,Sem parada,88.2
+25/03/2025,March 2025,Tuesday,M1,Torno CNC,Tarde,Carlos Silva,148.0,160,12,Setup de máquina,76.0
+19/03/2025,March 2025,Wednesday,M5,Solda Robotica,Tarde,Ana Souza,131.0,120,0,Sem parada,77.6
+24/02/2025,February 2025,Monday,M5,Solda Robotica,Noite,Maria Lima,125.0,120,0,Sem parada,74.3
+19/02/2025,February 2025,Wednesday,M1,Torno CNC,Tarde,João Pereira,166.0,160,0,Sem parada,76.3
+21/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Noite,Carlos Silva,135.0,140,0,Sem parada,90.7
+09/05/2025,May 2025,Friday,m2,Fresadora,Noite,Maria Lima,177.0,180,0,Sem parada,81.3
+23/06/2025,June 2025,Monday,M5,Solda Robotica,Noite,Maria Lima,118.0,120,0,Sem parada,69.5
+27/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Manhã,Carlos Silva,139.0,140,0,Sem parada,90.9
+30/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Manhã,João Pereira,140.0,140,43,Falha mecânica,84.5
+17/04/2025,April 2025,Thursday,M2,Fresadora,Tarde,Carlos Silva,171.0,180,0,Sem parada,92.1
+19/02/2025,February 2025,Wednesday,M2,Fresadora,Noite,João Pereira,191.0,180,0,Sem parada,70.8
+17/01/2025,January 2025,Friday,M5,Solda Robotica,Manhã,Maria Lima,112.0,120,0,Sem parada,70.8
+21/03/2025,March 2025,Friday,M4,Injetora,Manhã,João Pereira,205.0,200,0,Sem parada,104.2
+28/04/2025,April 2025,Monday,M1,Torno CNC,Noite,Maria Lima,143.0,160,0,Sem parada,79.1
+02/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Tarde,Maria Lima,144.0,140,0,Sem parada,90.7
+12/03/2025,March 2025,Wednesday,M1,Torno CNC,Noite,João Pereira,157.0,160,0,Sem parada,72.7
+25/02/2025,February 2025,Tuesday,M5,Solda Robotica,Tarde,Pedro Santos,110.0,120,36,Falha mecânica,72.8
+16/04/2025,April 2025,Wednesday,M1,Torno CNC,Manhã,Ana Souza,158.0,160,0,Sem parada,82.6
+14/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Manhã,João Pereira,157.0,140,0,Sem parada,83.8
+01/01/2025,January 2025,Wednesday,M1,Torno CNC,Noite,Pedro Santos,157.0,160,0,Sem parada,73.8
+20/06/2025,June 2025,Friday,M4,Injetora,Noite,João Pereira,202.0,200,0,Sem parada,101.1
+18/06/2025,June 2025,Wednesday,M4,Injetora,Manhã,Carlos Silva,219.0,200,0,Sem parada,99.5
+13/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Noite,João Pereira,161.0,140,0,Sem parada,98.1
+31/01/2025,January 2025,Friday,M4,Injetora,Manhã,Maria Lima,214.0,200,0,Sem parada,101.4
+25/02/2025,February 2025,Tuesday,M2,Fresadora,Manhã,João Pereira,155.0,180,0,Sem parada,84.5
+14/02/2025,February 2025,Friday,M1,Torno CNC,Manhã,Ana Souza,168.0,160,0,Sem parada,81.6
+23/04/2025,April 2025,Wednesday,M1,Torno CNC,Manhã,Ana Souza,150.0,160,0,Sem parada,75.9
+29/04/2025,April 2025,Tuesday,M4,Injetora,Noite,Carlos Silva,196.0,200,0,Sem parada,93.5
+20/05/2025,May 2025,Tuesday,M2,Fresadora,Manhã,Maria Lima,198.0,180,0,Sem parada,80.8
+27/01/2025,January 2025,Monday,M1,Torno CNC,Tarde,Pedro Santos,166.0,160,0,Sem parada,82.2
+17/01/2025,January 2025,Friday,M2,Fresadora,Tarde,Maria Lima,181.0,180,0,Sem parada,81.1
+24/03/2025,March 2025,Monday,M2,Fresadora,Tarde,João Pereira,182.0,180,0,Sem parada,90.0
+23/01/2025,January 2025,Thursday,M2,Fresadora,Tarde,João Pereira,204.0,180,0,Sem parada,89.4
+26/02/2025,February 2025,Wednesday,M1,Torno CNC,Noite,Maria Lima,151.0,160,26,Falta de insumo,75.2
+11/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Noite,Pedro Santos,135.0,140,0,Sem parada,90.7
+12/03/2025,March 2025,Wednesday,M5,Solda Robotica,Noite,Carlos Silva,115.0,120,0,Sem parada,64.4
+11/02/2025,February 2025,Tuesday,M2,Fresadora,Tarde,Pedro Santos,179.0,180,0,Sem parada,90.9
+07/05/2025,May 2025,Wednesday,M5,Solda Robotica,Manhã,Ana Souza,123.0,120,53,Falta de insumo,70.0
+10/02/2025,February 2025,Monday,M4,Injetora,Manhã,Ana Souza,191.0,200,0,Sem parada,98.2
+27/05/2025,May 2025,Tuesday,M5,Solda Robotica,Manhã,Ana Souza,124.0,120,0,Sem parada,72.4
+07/02/2025,February 2025,Friday,M4,Injetora,Tarde,Ana Souza,178.0,200,0,Sem parada,90.4
+27/01/2025,January 2025,Monday,M2,Fresadora,Manhã,Pedro Santos,188.0,180,0,Sem parada,84.0
+09/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Noite,João Pereira,147.0,140,0,Sem parada,90.6
+27/06/2025,June 2025,Friday,M2,Fresadora,Tarde,Maria Lima,174.0,180,0,Sem parada,79.1
+12/05/2025,May 2025,Monday,M4,Injetora,Noite,Ana Souza,227.0,200,0,Sem parada,93.4
+23/01/2025,January 2025,Thursday,M4,Injetora,Tarde,Carlos Silva,214.0,200,0,Sem parada,104.5
+07/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Noite,Carlos Silva,157.0,140,0,Sem parada,87.4
+15/04/2025,April 2025,Tuesday,M4,Injetora,Noite,João Pereira,231.0,200,0,Sem parada,87.2
+13/05/2025,May 2025,Tuesday,M2,Fresadora,Tarde,Carlos Silva,193.0,180,0,Sem parada,83.2
+27/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Tarde,Carlos Silva,119.0,140,47,Falha mecânica,95.9
+05/06/2025,June 2025,Thursday,M4,Injetora,Tarde,João Pereira,191.0,200,0,Sem parada,93.3
+05/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Maria Lima,168.0,140,0,Sem parada,89.5
+19/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,135.0,140,0,Sem parada,84.4
+10/02/2025,February 2025,Monday,M2,Fresadora,Noite,Maria Lima,171.0,180,0,Sem parada,82.2
+13/02/2025,February 2025,Thursday,M5,Solda Robotica,Noite,Maria Lima,125.0,120,0,Sem parada,72.2
+06/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Manhã,Pedro Santos,156.0,140,0,Sem parada,99.0
+07/03/2025,March 2025,Friday,M4,Injetora,Tarde,Maria Lima,204.0,200,0,Sem parada,69.1
+10/06/2025,June 2025,Tuesday,M2,Fresadora,Noite,Pedro Santos,186.0,180,0,Sem parada,91.7
+07/02/2025,February 2025,Friday,M2,Fresadora,Manhã,Ana Souza,183.0,180,0,Sem parada,89.4
+26/06/2025,June 2025,Thursday,M1,Torno CNC,Noite,Carlos Silva,165.0,160,0,Sem parada,72.2
+24/02/2025,February 2025,Monday,M5,Solda Robotica,Tarde,Maria Lima,133.0,120,0,Sem parada,72.8
+02/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Noite,Ana Souza,155.0,140,0,Sem parada,93.5
+14/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Noite,João Pereira,121.0,140,0,Sem parada,95.8
+12/06/2025,June 2025,Thursday,M1,Torno CNC,Tarde,Pedro Santos,155.0,160,0,Sem parada,74.7
+08/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Noite,Carlos Silva,134.0,140,0,Sem parada,89.3
+17/01/2025,January 2025,Friday,M1,Torno CNC,Noite,João Pereira,168.0,160,0,Sem parada,73.0
+23/05/2025,May 2025,Friday,M1,Torno CNC,Noite,Ana Souza,137.0,160,-1,Falha mecânica,76.6
+16/01/2025,January 2025,Thursday,M2,Fresadora,Noite,João Pereira,168.0,180,0,Sem parada,86.2
+28/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,142.0,140,0,Sem parada,91.2
+26/02/2025,February 2025,Wednesday,M5,Solda Robotica,Tarde,Maria Lima,120.0,120,0,Sem parada,69.3
+27/02/2025,February 2025,Thursday,M1,Torno CNC,Noite,Maria Lima,149.0,160,0,Sem parada,83.2
+29/01/2025,January 2025,Wednesday,M1,Torno CNC,Manhã,João Pereira,169.0,160,0,Sem parada,70.4
+19/06/2025,June 2025,Thursday,M1,Torno CNC,Manhã,Carlos Silva,167.0,160,0,Sem parada,71.8
+18/02/2025,February 2025,Tuesday,M4,Injetora,Manhã,Ana Souza,183.0,200,48,Falta de insumo,100.2
+29/05/2025,May 2025,Thursday,M4,Injetora,Tarde,Maria Lima,202.0,200,0,Sem parada,97.1
+14/03/2025,March 2025,Friday,M5,Solda Robotica,Manhã,Carlos Silva,124.0,120,0,Sem parada,73.5
+24/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Tarde,João Pereira,148.0,140,0,Sem parada,89.4
+04/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Noite,João Pereira,160.0,140,0,Sem parada,96.2
+13/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,137.0,140,0,Sem parada,88.5
+18/03/2025,March 2025,Tuesday,M4,Injetora,Manhã,Pedro Santos,233.0,200,0,Sem parada,89.7
+20/03/2025,March 2025,Thursday,M1,Torno CNC,Tarde,João Pereira,148.0,160,0,Sem parada,76.6
+10/02/2025,February 2025,Monday,M1,Torno CNC,Noite,Pedro Santos,162.0,160,0,Sem parada,77.5
+04/02/2025,February 2025,Tuesday,M4,Injetora,Noite,Ana Souza,190.0,200,0,Sem parada,95.1
+28/03/2025,March 2025,Friday,M5,Solda Robotica,Noite,Carlos Silva,115.0,120,0,Sem parada,69.9
+12/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Maria Lima,131.0,140,0,Sem parada,80.7
+11/04/2025,April 2025,Friday,M4,Injetora,Noite,Carlos Silva,197.0,200,0,Sem parada,101.9
+25/06/2025,June 2025,Wednesday,M5,Solda Robotica,Noite,João Pereira,100.0,120,0,Sem parada,69.6
+27/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Manhã,Ana Souza,133.0,140,0,Sem parada,90.5
+16/01/2025,January 2025,Thursday,M4,Injetora,Tarde,Pedro Santos,204.0,200,0,Sem parada,102.4
+21/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Manhã,Carlos Silva,147.0,140,0,Sem parada,84.3
+10/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Tarde,Pedro Santos,146.0,140,0,Sem parada,81.2
+01/04/2025,April 2025,Tuesday,M2,Fresadora,Manhã,Maria Lima,143.0,180,0,Sem parada,83.6
+27/03/2025,March 2025,Thursday,M1,Torno CNC,Manhã,Maria Lima,169.0,160,0,Sem parada,76.2
+31/01/2025,January 2025,Friday,M2,Fresadora,Tarde,Pedro Santos,141.0,180,0,Sem parada,90.5
+14/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Tarde,Ana Souza,129.0,140,0,Sem parada,92.4
+26/03/2025,March 2025,Wednesday,M2,Fresadora,Manhã,Carlos Silva,183.0,180,0,Sem parada,87.5
+28/05/2025,May 2025,Wednesday,M5,Solda Robotica,Tarde,Carlos Silva,105.0,120,0,Sem parada,67.5
+09/05/2025,May 2025,Friday,M5,Solda Robotica,Tarde,Maria Lima,112.0,120,0,Sem parada,63.5
+30/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Tarde,João Pereira,135.0,140,0,Sem parada,89.2
+27/06/2025,June 2025,Friday,M2,Fresadora,Noite,João Pereira,174.0,180,0,Sem parada,86.3
+10/06/2025,June 2025,Tuesday,M1,Torno CNC,Tarde,João Pereira,165.0,160,0,Sem parada,77.1
+06/06/2025,June 2025,Friday,M4,Injetora,Tarde,Ana Souza,232.0,200,5,Falha mecânica,101.0
+20/01/2025,January 2025,Monday,M2,Fresadora,Manhã,Pedro Santos,155.0,180,0,Sem parada,91.8
+02/01/2025,January 2025,Thursday,m1,Torno CNC,Manhã,João Pereira,152.0,160,0,Sem parada,84.3
+24/01/2025,January 2025,Friday,M4,Injetora,Tarde,Pedro Santos,210.0,200,0,Sem parada,86.7
+28/02/2025,February 2025,Friday,M1,Torno CNC,Tarde,Maria Lima,166.0,160,0,Sem parada,70.4
+19/05/2025,May 2025,Monday,M2,Fresadora,Manhã,Pedro Santos,181.0,180,0,Sem parada,70.0
+27/03/2025,March 2025,Thursday,M4,Injetora,Tarde,João Pereira,189.0,200,0,Sem parada,103.9
+19/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Noite,Ana Souza,142.0,140,0,Sem parada,91.1
+06/05/2025,May 2025,Tuesday,M4,Injetora,Tarde,Maria Lima,183.0,200,0,Sem parada,93.8
+26/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Tarde,João Pereira,140.0,140,0,Sem parada,88.4
+19/06/2025,June 2025,Thursday,M5,Solda Robotica,Tarde,Maria Lima,120.0,120,0,Sem parada,59.6
+25/06/2025,June 2025,Wednesday,M1,Torno CNC,Noite,Maria Lima,151.0,160,0,Sem parada,65.2
+16/06/2025,June 2025,Monday,M2,Fresadora,Tarde,João Pereira,163.0,180,0,Sem parada,84.8
+13/02/2025,February 2025,Thursday,M1,Torno CNC,Manhã,João Pereira,143.0,160,30,Setup de máquina,84.4
+04/04/2025,April 2025,Friday,M1,Torno CNC,Manhã,Maria Lima,139.0,160,0,Sem parada,71.2
+20/01/2025,January 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,178.0,180,0,Sem parada,91.2
+18/03/2025,March 2025,Tuesday,M5,Solda Robotica,Noite,Carlos Silva,131.0,120,0,Sem parada,82.9
+11/06/2025,June 2025,Wednesday,M1,Torno CNC,Noite,Ana Souza,122.0,160,0,Sem parada,85.3
+30/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Manhã,João Pereira,129.0,140,0,Sem parada,91.3
+04/04/2025,April 2025,Friday,M5,Solda Robotica,Tarde,João Pereira,123.0,120,0,Sem parada,67.5
+12/03/2025,March 2025,Wednesday,M2,Fresadora,Noite,Ana Souza,163.0,180,0,Sem parada,84.0
+05/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Noite,João Pereira,136.0,140,0,Sem parada,98.0
+21/02/2025,February 2025,Friday,M1,Torno CNC,Manhã,João Pereira,157.0,160,0,Sem parada,76.1
+13/02/2025,February 2025,Thursday,M5,Solda Robotica,Tarde,Maria Lima,123.0,120,0,Sem parada,72.3
+19/05/2025,May 2025,Monday,M1,Torno CNC,Noite,Ana Souza,164.0,160,0,Sem parada,69.3
+29/04/2025,April 2025,Tuesday,M2,Fresadora,Manhã,João Pereira,186.0,180,0,Sem parada,88.0
+05/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Manhã,Ana Souza,128.0,140,0,Sem parada,96.2
+24/04/2025,April 2025,Thursday,M4,Injetora,Noite,Carlos Silva,198.0,200,0,Sem parada,91.4
+05/03/2025,March 2025,Wednesday,M2,Fresadora,Noite,João Pereira,179.0,180,0,Sem parada,87.9
+07/05/2025,May 2025,Wednesday,M1,Torno CNC,Noite,Pedro Santos,163.0,160,0,Sem parada,80.2
+26/05/2025,May 2025,Monday,M4,Injetora,Tarde,Ana Souza,181.0,200,0,Sem parada,93.6
+10/06/2025,June 2025,Tuesday,M5,Solda Robotica,Tarde,Maria Lima,112.0,120,26,Falta de insumo,66.0
+29/01/2025,January 2025,Wednesday,M4,Injetora,Tarde,Pedro Santos,187.0,200,0,Sem parada,97.4
+06/01/2025,January 2025,Monday,M4,Injetora,Noite,Ana Souza,200.0,200,0,Sem parada,107.3
+12/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Maria Lima,139.0,140,0,Sem parada,89.4
+13/03/2025,March 2025,Thursday,M1,Torno CNC,Noite,Ana Souza,154.0,160,0,Sem parada,67.0
+03/01/2025,January 2025,Friday,M5,Solda Robotica,Tarde,Pedro Santos,128.0,120,0,Sem parada,71.6
+27/01/2025,January 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,185.0,180,0,Sem parada,82.0
+09/01/2025,January 2025,Thursday,M4,Injetora,Noite,Carlos Silva,217.0,200,0,Sem parada,100.3
+17/03/2025,March 2025,Monday,M5,Solda Robotica,Tarde,Maria Lima,122.0,120,0,Sem parada,66.2
+18/06/2025,June 2025,Wednesday,M5,Solda Robotica,Manhã,Maria Lima,138.0,120,0,Sem parada,65.3
+25/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,140.0,140,0,Sem parada,82.7
+10/01/2025,January 2025,Friday,m1,Torno CNC,Noite,João Pereira,155.0,160,0,Sem parada,78.8
+25/03/2025,March 2025,Tuesday,M2,Fresadora,Tarde,Pedro Santos,173.0,180,0,Sem parada,81.5
+17/02/2025,February 2025,Monday,M1,Torno CNC,Noite,Pedro Santos,147.0,160,0,Sem parada,73.6
+27/06/2025,June 2025,Friday,M4,Injetora,Tarde,Maria Lima,196.0,200,0,Sem parada,92.4
+28/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Tarde,João Pereira,127.0,140,0,Sem parada,81.2
+07/03/2025,March 2025,Friday,M1,Torno CNC,Tarde,Maria Lima,165.0,160,-5,Sem parada,85.8
+24/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Manhã,Ana Souza,132.0,140,0,Sem parada,83.4
+10/04/2025,April 2025,Thursday,M2,Fresadora,Manhã,Pedro Santos,181.0,180,0,Sem parada,92.7
+29/05/2025,May 2025,Thursday,M1,Torno CNC,Tarde,João Pereira,145.0,160,0,Sem parada,43.3
+24/02/2025,February 2025,Monday,M1,Torno CNC,Noite,Maria Lima,157.0,160,0,Sem parada,75.1
+20/02/2025,February 2025,Thursday,M5,Solda Robotica,Noite,Pedro Santos,114.0,120,0,Sem parada,79.6
+07/01/2025,January 2025,Tuesday,M5,Solda Robotica,Manhã,Maria Lima,122.0,120,0,Sem parada,73.9
+06/03/2025,March 2025,Thursday,m5,Solda Robotica,Noite,Maria Lima,116.0,120,0,Sem parada,68.7
+30/04/2025,April 2025,Wednesday,M5,Solda Robotica,Manhã,Pedro Santos,132.0,120,43,Falta de insumo,64.4
+16/04/2025,April 2025,Wednesday,M2,Fresadora,Manhã,João Pereira,192.0,180,0,Sem parada,82.9
+21/03/2025,March 2025,Friday,M5,Solda Robotica,Noite,Pedro Santos,124.0,120,16,Falta de insumo,78.6
+14/02/2025,February 2025,Friday,M1,Torno CNC,Tarde,Maria Lima,162.0,160,0,Sem parada,78.5
+07/04/2025,April 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,133.0,120,-1,Sem parada,74.6
+17/02/2025,February 2025,Monday,M4,Injetora,Noite,Maria Lima,233.0,200,0,Sem parada,91.6
+19/03/2025,March 2025,Wednesday,M4,Injetora,Manhã,Maria Lima,213.0,200,0,Sem parada,97.7
+10/03/2025,March 2025,Monday,M1,Torno CNC,Manhã,Carlos Silva,168.0,160,0,Sem parada,80.9
+30/06/2025,June 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,177.0,180,0,Sem parada,77.8
+04/06/2025,June 2025,Wednesday,M1,Torno CNC,Noite,Pedro Santos,174.0,160,0,Sem parada,80.3
+28/05/2025,May 2025,Wednesday,M2,Fresadora,Manhã,Carlos Silva,162.0,180,0,Sem parada,85.5
+29/01/2025,January 2025,Wednesday,M4,Injetora,Noite,Carlos Silva,230.0,200,0,Sem parada,101.7
+15/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Tarde,João Pereira,139.0,140,21,Falha mecânica,109.6
+07/02/2025,February 2025,Friday,M1,Torno CNC,Manhã,João Pereira,154.0,160,9,Manutenção preventiva,72.8
+29/04/2025,April 2025,Tuesday,M5,Solda Robotica,Noite,Carlos Silva,129.0,120,0,Sem parada,80.4
+06/06/2025,June 2025,Friday,M1,Torno CNC,Tarde,Carlos Silva,137.0,160,0,Sem parada,68.2
+29/01/2025,January 2025,Wednesday,M4,Injetora,Manhã,João Pereira,207.0,200,0,Sem parada,96.1
+22/01/2025,January 2025,Wednesday,M1,Torno CNC,Tarde,Carlos Silva,147.0,160,0,Sem parada,77.5
+03/06/2025,June 2025,Tuesday,M4,Injetora,Tarde,João Pereira,222.0,200,0,Sem parada,82.6
+07/03/2025,March 2025,Friday,M1,Torno CNC,Noite,Ana Souza,151.0,160,0,Sem parada,79.6
+19/05/2025,May 2025,Monday,M4,Injetora,Tarde,João Pereira,186.0,200,0,Sem parada,92.0
+13/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Manhã,Maria Lima,158.0,140,-4,Sem parada,87.7
+11/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Noite,Carlos Silva,124.0,140,0,Sem parada,81.2
+14/01/2025,January 2025,Tuesday,M5,Solda Robotica,Tarde,João Pereira,128.0,120,0,Sem parada,71.5
+01/04/2025,April 2025,Tuesday,M5,Solda Robotica,Tarde,Ana Souza,123.0,120,0,Sem parada,69.9
+20/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Noite,Maria Lima,138.0,140,0,Sem parada,90.5
+03/04/2025,April 2025,Thursday,M1,Torno CNC,Manhã,Carlos Silva,132.0,160,50,Falta de insumo,68.1
+14/04/2025,April 2025,Monday,M5,Solda Robotica,Manhã,Carlos Silva,115.0,120,0,Sem parada,71.3
+14/03/2025,March 2025,Friday,M1,Torno CNC,Manhã,João Pereira,159.0,160,0,Sem parada,71.3
+21/02/2025,February 2025,Friday,M1,Torno CNC,Noite,Ana Souza,161.0,160,0,Sem parada,76.8
+03/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Manhã,Carlos Silva,138.0,140,0,Sem parada,86.2
+15/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Manhã,João Pereira,117.0,140,0,Sem parada,94.5
+01/05/2025,May 2025,Thursday,M4,Injetora,Manhã,Carlos Silva,219.0,200,0,Sem parada,92.5
+28/04/2025,April 2025,Monday,M2,Fresadora,Tarde,João Pereira,191.0,180,0,Sem parada,86.7
+30/04/2025,April 2025,Wednesday,M5,Solda Robotica,Tarde,Carlos Silva,118.0,120,54,Setup de máquina,75.0
+28/01/2025,January 2025,Tuesday,M1,Torno CNC,Tarde,João Pereira,164.0,160,0,Sem parada,73.9
+26/05/2025,May 2025,Monday,M4,Injetora,Manhã,Maria Lima,207.0,200,0,Sem parada,85.7
+23/06/2025,June 2025,Monday,M1,Torno CNC,Tarde,João Pereira,162.0,160,36,Falta de insumo,80.3
+02/04/2025,April 2025,Wednesday,M5,Solda Robotica,Manhã,Maria Lima,119.0,120,0,Sem parada,68.1
+28/05/2025,May 2025,Wednesday,M4,Injetora,Noite,Pedro Santos,178.0,200,0,Sem parada,98.9
+23/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Tarde,Ana Souza,131.0,140,0,Sem parada,99.1
+15/05/2025,May 2025,Thursday,M5,Solda Robotica,Noite,Carlos Silva,115.0,120,0,Sem parada,76.3
+22/04/2025,April 2025,Tuesday,M2,Fresadora,Tarde,Ana Souza,174.0,180,0,Sem parada,86.3
+25/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Tarde,Carlos Silva,143.0,140,0,Sem parada,93.6
+20/03/2025,March 2025,Thursday,M2,Fresadora,Manhã,Maria Lima,173.0,180,0,Sem parada,86.0
+25/02/2025,February 2025,Tuesday,M4,Injetora,Noite,Pedro Santos,190.0,200,0,Sem parada,96.6
+03/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Tarde,,143.0,140,0,Sem parada,95.4
+01/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Noite,Ana Souza,133.0,140,0,Sem parada,91.1
+03/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Noite,Pedro Santos,139.0,140,0,Sem parada,85.6
+11/03/2025,March 2025,Tuesday,M4,Injetora,Tarde,Carlos Silva,191.0,200,0,Sem parada,107.8
+08/05/2025,May 2025,Thursday,M4,Injetora,Manhã,João Pereira,206.0,200,0,Sem parada,94.0
+28/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Noite,Carlos Silva,133.0,140,0,Sem parada,89.0
+14/02/2025,February 2025,Friday,M5,Solda Robotica,Tarde,Maria Lima,134.0,120,0,Sem parada,74.4
+29/04/2025,April 2025,Tuesday,M5,Solda Robotica,Manhã,João Pereira,143.0,120,0,Sem parada,72.2
+27/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Tarde,Carlos Silva,133.0,140,35,Manutenção preventiva,87.9
+17/06/2025,June 2025,Tuesday,M2,Fresadora,Manhã,Ana Souza,168.0,180,0,Sem parada,81.8
+03/02/2025,February 2025,Monday,M5,Solda Robotica,Tarde,Maria Lima,121.0,120,0,Sem parada,70.8
+23/05/2025,May 2025,Friday,M5,Solda Robotica,Manhã,Maria Lima,118.0,120,0,Sem parada,71.5
+22/01/2025,January 2025,Wednesday,M4,Injetora,Noite,João Pereira,157.0,200,51,Falta de insumo,101.8
+20/02/2025,February 2025,Thursday,M4,Injetora,Noite,João Pereira,233.0,200,0,Sem parada,94.3
+18/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Noite,Pedro Santos,120.0,140,31,Falha mecânica,88.6
+19/03/2025,March 2025,Wednesday,M4,Injetora,Noite,Maria Lima,193.0,200,0,Sem parada,90.4
+20/01/2025,January 2025,Monday,M5,Solda Robotica,Tarde,Maria Lima,134.0,120,0,Sem parada,70.6
+06/05/2025,May 2025,Tuesday,M2,Fresadora,Manhã,Maria Lima,185.0,180,0,Sem parada,77.2
+21/05/2025,May 2025,Wednesday,M4,Injetora,Tarde,João Pereira,219.0,200,0,Sem parada,92.7
+06/01/2025,January 2025,Monday,M5,Solda Robotica,Tarde,Pedro Santos,119.0,120,0,Sem parada,64.2
+06/06/2025,June 2025,Friday,M2,Fresadora,Tarde,Carlos Silva,185.0,180,0,Sem parada,85.7
+18/06/2025,June 2025,Wednesday,M1,Torno CNC,Manhã,João Pereira,149.0,160,0,Sem parada,71.4
+27/05/2025,May 2025,Tuesday,M5,Solda Robotica,Noite,Maria Lima,118.0,120,0,Sem parada,65.5
+04/02/2025,February 2025,Tuesday,M2,Fresadora,Manhã,Carlos Silva,180.0,180,0,Sem parada,86.7
+17/02/2025,February 2025,Monday,M4,Injetora,Tarde,Ana Souza,221.0,200,0,Sem parada,96.0
+11/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Maria Lima,141.0,140,0,Sem parada,83.3
+11/04/2025,April 2025,Friday,M2,Fresadora,Manhã,Pedro Santos,168.0,180,0,Sem parada,78.7
+26/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Noite,Pedro Santos,125.0,140,0,Sem parada,92.9
+21/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Manhã,João Pereira,147.0,140,0,Sem parada,83.2
+14/03/2025,March 2025,Friday,M2,Fresadora,Noite,Pedro Santos,191.0,180,0,Sem parada,78.7
+23/06/2025,June 2025,Monday,M2,Fresadora,Noite,Maria Lima,195.0,180,0,Sem parada,92.3
+15/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,126.0,140,0,Sem parada,93.7
+10/01/2025,January 2025,Friday,M5,Solda Robotica,Tarde,Pedro Santos,95.0,120,26,Manutenção preventiva,70.9
+05/06/2025,June 2025,Thursday,M2,Fresadora,Noite,Maria Lima,190.0,180,0,Sem parada,83.8
+25/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Tarde,João Pereira,142.0,140,0,Sem parada,90.1
+18/02/2025,February 2025,Tuesday,M5,Solda Robotica,Manhã,Maria Lima,118.0,120,0,Sem parada,74.4
+18/02/2025,February 2025,Tuesday,M2,Fresadora,Manhã,Pedro Santos,180.0,180,0,Sem parada,85.6
+08/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Maria Lima,152.0,140,0,Sem parada,85.9
+05/03/2025,March 2025,Wednesday,M1,Torno CNC,Noite,Maria Lima,152.0,160,0,Sem parada,62.0
+31/03/2025,March 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,147.0,160,20,Setup de máquina,74.5
+05/02/2025,February 2025,Wednesday,M2,Fresadora,Noite,Pedro Santos,171.0,180,0,Sem parada,85.6
+03/06/2025,June 2025,Tuesday,M1,Torno CNC,Manhã,Maria Lima,,160,0,Sem parada,70.6
+08/01/2025,January 2025,Wednesday,M4,Injetora,Manhã,Maria Lima,196.0,200,0,Sem parada,91.2
+02/06/2025,June 2025,Monday,M2,Fresadora,Noite,Pedro Santos,188.0,180,0,Sem parada,86.5
+30/01/2025,January 2025,Thursday,M5,Solda Robotica,Noite,Maria Lima,121.0,120,0,Sem parada,69.3
+01/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Ana Souza,142.0,140,0,Sem parada,80.4
+12/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Manhã,Maria Lima,143.0,140,0,Sem parada,85.0
+16/05/2025,May 2025,Friday,M4,Injetora,Noite,João Pereira,185.0,200,0,Sem parada,99.8
+19/05/2025,May 2025,Monday,M1,Torno CNC,Manhã,Maria Lima,172.0,160,0,Sem parada,72.7
+18/03/2025,March 2025,Tuesday,M2,Fresadora,Manhã,Ana Souza,173.0,180,0,Sem parada,91.4
+12/02/2025,February 2025,Wednesday,M1,Torno CNC,Tarde,Pedro Santos,160.0,160,0,Sem parada,81.4
+14/02/2025,February 2025,Friday,m4,Injetora,Tarde,João Pereira,212.0,200,0,Sem parada,97.1
+14/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Ana Souza,144.0,140,0,Sem parada,88.5
+28/01/2025,January 2025,Tuesday,M1,Torno CNC,Noite,Pedro Santos,170.0,160,0,Sem parada,63.9
+20/03/2025,March 2025,Thursday,M4,Injetora,Manhã,Maria Lima,208.0,200,0,Sem parada,95.9
+30/06/2025,June 2025,Monday,M1,Torno CNC,Manhã,Pedro Santos,152.0,160,0,Sem parada,71.5
+05/05/2025,May 2025,Monday,M1,Torno CNC,Manhã,Ana Souza,183.0,160,0,Sem parada,73.9
+30/05/2025,May 2025,Friday,M5,Solda Robotica,Tarde,Maria Lima,119.0,120,36,Falha mecânica,63.7
+13/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,133.0,140,0,Sem parada,92.3
+10/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Noite,Maria Lima,111.0,140,41,Falha mecânica,85.9
+06/06/2025,June 2025,Friday,M2,Fresadora,Manhã,Maria Lima,168.0,180,12,Setup de máquina,85.9
+11/03/2025,March 2025,Tuesday,M4,Injetora,Noite,Carlos Silva,190.0,200,0,Sem parada,95.9
+18/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Noite,Maria Lima,129.0,140,0,Sem parada,92.1
+21/03/2025,March 2025,Friday,M2,Fresadora,Tarde,Ana Souza,190.0,180,0,Sem parada,82.8
+09/04/2025,April 2025,Wednesday,M1,Torno CNC,Noite,Ana Souza,,160,0,Sem parada,83.2
+29/05/2025,May 2025,Thursday,M4,Injetora,Manhã,Carlos Silva,194.0,200,0,Sem parada,97.2
+30/01/2025,January 2025,Thursday,M5,Solda Robotica,Manhã,Maria Lima,144.0,120,0,Sem parada,70.3
+05/05/2025,May 2025,Monday,M1,Torno CNC,Noite,Maria Lima,146.0,160,0,Sem parada,71.1
+05/06/2025,June 2025,Thursday,M4,Injetora,Manhã,Maria Lima,210.0,200,0,Sem parada,94.3
+27/05/2025,May 2025,Tuesday,M1,Torno CNC,Noite,João Pereira,158.0,160,0,Sem parada,78.7
+21/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Tarde,Pedro Santos,129.0,140,0,Sem parada,95.4
+18/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Pedro Santos,124.0,140,41,Manutenção preventiva,88.0
+16/01/2025,January 2025,Thursday,M5,Solda Robotica,Manhã,João Pereira,119.0,120,0,Sem parada,65.0
+06/03/2025,March 2025,Thursday,M1,Torno CNC,Noite,Maria Lima,169.0,160,0,Sem parada,76.5
+23/05/2025,May 2025,Friday,M5,Solda Robotica,Tarde,Carlos Silva,119.0,120,0,Sem parada,76.1
+08/01/2025,January 2025,Wednesday,M4,Injetora,Noite,Ana Souza,198.0,200,0,Sem parada,96.7
+07/05/2025,May 2025,Wednesday,M4,Injetora,Tarde,Pedro Santos,231.0,200,0,Sem parada,92.5
+20/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Tarde,João Pereira,139.0,140,0,Sem parada,90.4
+12/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Maria Lima,138.0,140,0,Sem parada,91.4
+16/06/2025,June 2025,Monday,M1,Torno CNC,Manhã,João Pereira,,160,0,Sem parada,82.3
+06/01/2025,January 2025,Monday,M4,Injetora,Manhã,João Pereira,204.0,200,0,Sem parada,94.6
+15/05/2025,May 2025,Thursday,M5,Solda Robotica,Tarde,Carlos Silva,116.0,120,0,Sem parada,64.3
+28/02/2025,February 2025,Friday,M5,Solda Robotica,Tarde,Pedro Santos,102.0,120,0,Sem parada,72.5
+21/01/2025,January 2025,Tuesday,M4,Injetora,Noite,Ana Souza,166.0,200,0,Sem parada,94.6
+10/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Noite,Pedro Santos,140.0,140,0,Sem parada,84.6
+12/06/2025,June 2025,Thursday,M5,Solda Robotica,Manhã,Pedro Santos,115.0,120,0,Sem parada,63.1
+22/04/2025,April 2025,Tuesday,M1,Torno CNC,Noite,Carlos Silva,160.0,160,38,Falta de insumo,82.2
+17/06/2025,June 2025,Tuesday,M1,Torno CNC,Tarde,Pedro Santos,164.0,160,0,Sem parada,76.0
+16/01/2025,January 2025,Thursday,M4,Injetora,Manhã,Maria Lima,188.0,200,0,Sem parada,93.9
+28/03/2025,March 2025,Friday,M4,Injetora,Tarde,João Pereira,215.0,200,0,Sem parada,103.1
+25/02/2025,February 2025,Tuesday,M2,Fresadora,Tarde,Carlos Silva,165.0,180,0,Sem parada,79.5
+21/05/2025,May 2025,Wednesday,M4,Injetora,Manhã,Pedro Santos,192.0,200,0,Sem parada,97.8
+02/01/2025,January 2025,Thursday,M2,Fresadora,Manhã,Maria Lima,183.0,180,0,Sem parada,75.2
+10/02/2025,February 2025,Monday,M2,Fresadora,Manhã,Ana Souza,,180,0,Sem parada,97.3
+13/05/2025,May 2025,Tuesday,M1,Torno CNC,Noite,João Pereira,156.0,160,9,Setup de máquina,83.5
+28/01/2025,January 2025,Tuesday,M1,Torno CNC,Manhã,Ana Souza,160.0,160,0,Sem parada,83.4
+06/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Noite,Pedro Santos,136.0,140,0,Sem parada,85.2
+10/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Noite,Ana Souza,120.0,140,36,Setup de máquina,92.4
+16/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Manhã,Maria Lima,131.0,140,23,Manutenção preventiva,89.7
+06/03/2025,March 2025,Thursday,M4,Injetora,Noite,Maria Lima,218.0,200,0,Sem parada,98.6
+04/03/2025,March 2025,Tuesday,M4,Injetora,Manhã,Maria Lima,193.0,200,0,Sem parada,95.9
+03/01/2025,January 2025,Friday,M1,Torno CNC,Tarde,Pedro Santos,145.0,160,0,Sem parada,69.0
+30/04/2025,April 2025,Wednesday,M2,Fresadora,Manhã,Pedro Santos,142.0,180,0,Sem parada,85.0
+18/06/2025,June 2025,Wednesday,M4,Injetora,Noite,Carlos Silva,168.0,200,0,Sem parada,95.2
+21/01/2025,January 2025,Tuesday,M2,Fresadora,Tarde,Maria Lima,195.0,180,0,Sem parada,76.2
+10/04/2025,April 2025,Thursday,M5,Solda Robotica,Tarde,João Pereira,116.0,120,0,Sem parada,68.4
+30/01/2025,January 2025,Thursday,M4,Injetora,Noite,João Pereira,195.0,200,0,Sem parada,89.5
+21/02/2025,February 2025,Friday,M2,Fresadora,Noite,João Pereira,195.0,180,0,Sem parada,90.9
+10/04/2025,April 2025,Thursday,M4,Injetora,Manhã,Maria Lima,198.0,200,0,Sem parada,86.8
+06/03/2025,March 2025,Thursday,M4,Injetora,Tarde,João Pereira,183.0,200,0,Sem parada,97.7
+25/04/2025,April 2025,Friday,M4,Injetora,Tarde,Pedro Santos,190.0,200,0,Sem parada,103.6
+31/01/2025,January 2025,Friday,M4,Injetora,Noite,Carlos Silva,191.0,200,0,Sem parada,97.4
+27/02/2025,February 2025,Thursday,M5,Solda Robotica,Noite,Ana Souza,113.0,120,0,Sem parada,69.7
+14/01/2025,January 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,123.0,120,0,Sem parada,66.5
+18/04/2025,April 2025,Friday,M1,Torno CNC,Noite,Carlos Silva,168.0,160,0,Sem parada,77.1
+04/02/2025,February 2025,Tuesday,M1,Torno CNC,Manhã,Pedro Santos,163.0,160,0,Sem parada,66.4
+08/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Noite,Carlos Silva,149.0,140,0,Sem parada,99.5
+06/01/2025,January 2025,Monday,M2,Fresadora,Manhã,Ana Souza,184.0,180,0,Sem parada,86.3
+13/02/2025,February 2025,Thursday,M2,Fresadora,Manhã,Pedro Santos,165.0,180,0,Sem parada,88.5
+15/01/2025,January 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,176.0,180,0,Sem parada,90.5
+10/03/2025,March 2025,Monday,M1,Torno CNC,Noite,João Pereira,165.0,160,0,Sem parada,71.7
+01/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Noite,Maria Lima,142.0,140,0,Sem parada,92.3
+18/04/2025,April 2025,Friday,M2,Fresadora,Noite,Pedro Santos,186.0,180,0,Sem parada,88.9
+30/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Noite,Ana Souza,124.0,140,0,Sem parada,93.0
+18/06/2025,June 2025,Wednesday,M1,Torno CNC,Noite,Pedro Santos,170.0,160,0,Sem parada,71.0
+11/06/2025,June 2025,Wednesday,M1,Torno CNC,Tarde,Carlos Silva,158.0,160,0,Sem parada,72.2
+17/02/2025,February 2025,Monday,M2,Fresadora,Noite,Pedro Santos,200.0,180,0,Sem parada,89.6
+16/01/2025,January 2025,Thursday,M5,Solda Robotica,Noite,Ana Souza,114.0,120,33,Manutenção preventiva,65.9
+23/06/2025,June 2025,Monday,M4,Injetora,Noite,João Pereira,204.0,200,0,Sem parada,84.3
+23/06/2025,June 2025,Monday,M5,Solda Robotica,Tarde,João Pereira,151.0,120,0,Sem parada,81.5
+24/06/2025,June 2025,Tuesday,M4,Injetora,Noite,Carlos Silva,205.0,200,0,Sem parada,95.8
+26/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Manhã,Maria Lima,142.0,140,0,Sem parada,88.8
+27/05/2025,May 2025,Tuesday,M4,Injetora,Manhã,Maria Lima,207.0,200,0,Sem parada,93.7
+19/02/2025,February 2025,Wednesday,M2,Fresadora,Manhã,Pedro Santos,179.0,180,0,Sem parada,90.9
+03/02/2025,February 2025,Monday,M1,Torno CNC,Tarde,Ana Souza,146.0,160,0,Sem parada,78.1
+06/05/2025,May 2025,Tuesday,M2,Fresadora,Tarde,Carlos Silva,181.0,180,0,Sem parada,83.7
+26/06/2025,June 2025,Thursday,M2,Fresadora,Noite,Maria Lima,188.0,180,0,Sem parada,82.9
+30/05/2025,May 2025,Friday,M2,Fresadora,Manhã,Maria Lima,156.0,180,0,Sem parada,82.4
+27/06/2025,June 2025,Friday,M1,Torno CNC,Noite,Carlos Silva,143.0,160,0,Sem parada,66.0
+28/03/2025,March 2025,Friday,M4,Injetora,Manhã,João Pereira,173.0,200,0,Sem parada,91.0
+26/02/2025,February 2025,Wednesday,M1,Torno CNC,Tarde,Maria Lima,161.0,160,0,Sem parada,77.7
+04/04/2025,April 2025,Friday,M1,Torno CNC,Noite,João Pereira,170.0,160,0,Sem parada,74.0
+23/01/2025,January 2025,Thursday,M2,Fresadora,Manhã,João Pereira,170.0,180,0,Sem parada,79.6
+08/04/2025,April 2025,Tuesday,M5,Solda Robotica,Noite,Maria Lima,105.0,120,0,Sem parada,74.1
+07/04/2025,April 2025,Monday,M5,Solda Robotica,Tarde,Maria Lima,96.0,120,0,Sem parada,69.3
+14/05/2025,May 2025,Wednesday,M1,Torno CNC,Noite,Carlos Silva,175.0,160,0,Sem parada,72.4
+29/01/2025,January 2025,Wednesday,M5,Solda Robotica,Manhã,Maria Lima,128.0,120,24,Falha mecânica,67.4
+11/02/2025,February 2025,Tuesday,M1,Torno CNC,Manhã,Carlos Silva,157.0,160,0,Sem parada,71.0
+20/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Manhã,Ana Souza,127.0,140,0,Sem parada,94.1
+13/06/2025,June 2025,Friday,M4,Injetora,Manhã,João Pereira,167.0,200,8,Setup de máquina,89.7
+29/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Noite,Maria Lima,141.0,140,0,Sem parada,93.6
+10/02/2025,February 2025,Monday,M4,Injetora,Tarde,Carlos Silva,203.0,200,0,Sem parada,87.4
+04/03/2025,March 2025,Tuesday,M1,Torno CNC,Manhã,João Pereira,160.0,160,0,Sem parada,77.6
+04/02/2025,February 2025,Tuesday,M4,Injetora,Tarde,Ana Souza,170.0,200,0,Sem parada,88.6
+21/02/2025,February 2025,Friday,M4,Injetora,Noite,Pedro Santos,225.0,200,0,Sem parada,97.3
+26/03/2025,March 2025,Wednesday,M4,Injetora,Manhã,Maria Lima,196.0,200,0,Sem parada,90.1
+17/01/2025,January 2025,Friday,M1,Torno CNC,Tarde,João Pereira,158.0,160,0,Sem parada,77.0
+17/03/2025,March 2025,Monday,M4,Injetora,Noite,Carlos Silva,214.0,200,0,Sem parada,94.6
+27/02/2025,February 2025,Thursday,m3,Prensa Hidráulica,Manhã,Carlos Silva,133.0,140,0,Sem parada,84.9
+13/03/2025,March 2025,Thursday,M1,Torno CNC,Manhã,Carlos Silva,161.0,160,0,Sem parada,66.2
+25/06/2025,June 2025,Wednesday,M5,Solda Robotica,Tarde,Pedro Santos,102.0,120,0,Sem parada,63.9
+02/05/2025,May 2025,Friday,m5,Solda Robotica,Tarde,Maria Lima,121.0,120,0,Sem parada,74.7
+16/06/2025,June 2025,Monday,M5,Solda Robotica,Manhã,Carlos Silva,129.0,120,0,Sem parada,70.3
+14/05/2025,May 2025,Wednesday,M2,Fresadora,Tarde,Carlos Silva,196.0,180,0,Sem parada,86.0
+28/01/2025,January 2025,Tuesday,M4,Injetora,Noite,Carlos Silva,207.0,200,0,Sem parada,96.7
+24/06/2025,June 2025,Tuesday,M5,Solda Robotica,Tarde,João Pereira,99.0,120,0,Sem parada,70.9
+12/02/2025,February 2025,Wednesday,M4,Injetora,Noite,Pedro Santos,202.0,200,0,Sem parada,91.5
+28/04/2025,April 2025,Monday,M4,Injetora,Tarde,Carlos Silva,207.0,200,0,Sem parada,97.7
+16/04/2025,April 2025,Wednesday,M5,Solda Robotica,Manhã,Carlos Silva,109.0,120,0,Sem parada,64.6
+05/02/2025,February 2025,Wednesday,M1,Torno CNC,Noite,Carlos Silva,147.0,160,0,Sem parada,88.2
+10/06/2025,June 2025,Tuesday,M1,Torno CNC,Manhã,Maria Lima,152.0,160,0,Sem parada,74.6
+10/01/2025,January 2025,Friday,M1,Torno CNC,Manhã,Maria Lima,155.0,160,35,Falta de insumo,80.7
+13/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Manhã,Pedro Santos,163.0,140,0,Sem parada,95.2
+01/05/2025,May 2025,Thursday,M2,Fresadora,Manhã,Maria Lima,161.0,180,0,Sem parada,84.0
+14/03/2025,March 2025,Friday,M1,Torno CNC,Noite,Pedro Santos,169.0,160,0,Sem parada,73.6
+03/02/2025,February 2025,Monday,M4,Injetora,Tarde,João Pereira,203.0,200,0,Sem parada,94.5
+27/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Manhã,,120.0,140,0,Sem parada,97.5
+05/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Pedro Santos,138.0,140,48,Falha mecânica,89.2
+12/03/2025,March 2025,Wednesday,M4,Injetora,Manhã,Carlos Silva,183.0,200,0,Sem parada,104.3
+02/06/2025,June 2025,Monday,M2,Fresadora,Manhã,Pedro Santos,186.0,180,0,Sem parada,81.3
+20/01/2025,January 2025,Monday,M5,Solda Robotica,Noite,João Pereira,131.0,120,0,Sem parada,70.3
+23/05/2025,May 2025,Friday,M4,Injetora,Tarde,Pedro Santos,219.0,200,0,Sem parada,95.7
+14/01/2025,January 2025,Tuesday,M2,Fresadora,Noite,Ana Souza,181.0,180,0,Sem parada,88.3
+09/05/2025,May 2025,Friday,M4,Injetora,Manhã,Pedro Santos,199.0,200,0,Sem parada,97.4
+07/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Pedro Santos,144.0,140,0,Sem parada,79.5
+07/04/2025,April 2025,Monday,M4,Injetora,Manhã,Maria Lima,204.0,200,0,Sem parada,96.0
+22/05/2025,May 2025,Thursday,M4,Injetora,Manhã,João Pereira,206.0,200,0,Sem parada,101.0
+09/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Noite,João Pereira,125.0,140,41,Falta de insumo,85.0
+04/06/2025,June 2025,Wednesday,M2,Fresadora,Tarde,João Pereira,205.0,180,0,Sem parada,85.0
+07/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Manhã,Maria Lima,135.0,140,0,Sem parada,85.8
+24/04/2025,April 2025,Thursday,m3,Prensa Hidráulica,Manhã,Ana Souza,125.0,140,0,Sem parada,93.4
+26/03/2025,March 2025,Wednesday,M2,Fresadora,Tarde,Maria Lima,157.0,180,0,Sem parada,89.5
+27/03/2025,March 2025,Thursday,m1,Torno CNC,Noite,João Pereira,136.0,160,48,Manutenção preventiva,76.8
+01/01/2025,January 2025,Wednesday,M4,Injetora,Tarde,João Pereira,223.0,200,0,Sem parada,93.9
+03/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Ana Souza,115.0,140,0,Sem parada,94.4
+11/04/2025,April 2025,Friday,M2,Fresadora,Noite,João Pereira,194.0,180,0,Sem parada,84.6
+27/01/2025,January 2025,Monday,M5,Solda Robotica,Manhã,Carlos Silva,131.0,120,0,Sem parada,68.0
+28/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Manhã,João Pereira,147.0,140,0,Sem parada,101.4
+12/03/2025,March 2025,Wednesday,M2,Fresadora,Tarde,Ana Souza,181.0,180,0,Sem parada,92.4
+27/02/2025,February 2025,Thursday,M4,Injetora,Noite,João Pereira,168.0,200,0,Sem parada,96.9
+26/05/2025,May 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,178.0,180,0,Sem parada,87.9
+08/05/2025,May 2025,Thursday,M5,Solda Robotica,Tarde,Maria Lima,121.0,120,0,Sem parada,66.2
+13/01/2025,January 2025,Monday,M4,Injetora,Manhã,Pedro Santos,207.0,200,0,Sem parada,98.9
+27/06/2025,June 2025,Friday,M4,Injetora,Manhã,Carlos Silva,218.0,200,0,Sem parada,97.4
+30/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Noite,Maria Lima,109.0,140,0,Sem parada,89.7
+09/04/2025,April 2025,Wednesday,M2,Fresadora,Tarde,Carlos Silva,175.0,180,0,Sem parada,88.0
+14/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Tarde,João Pereira,145.0,140,0,Sem parada,89.8
+25/04/2025,April 2025,Friday,M1,Torno CNC,Noite,Ana Souza,171.0,160,0,Sem parada,79.4
+18/06/2025,June 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,162.0,180,47,Falta de insumo,85.6
+23/06/2025,June 2025,Monday,M2,Fresadora,Manhã,Ana Souza,171.0,180,-3,Sem parada,86.7
+18/03/2025,March 2025,Tuesday,M1,Torno CNC,Noite,Ana Souza,183.0,160,0,Sem parada,80.4
+06/03/2025,March 2025,Thursday,M2,Fresadora,Noite,Carlos Silva,186.0,180,0,Sem parada,81.6
+21/01/2025,January 2025,Tuesday,M2,Fresadora,Noite,Maria Lima,162.0,180,0,Sem parada,74.8
+20/06/2025,June 2025,Friday,M2,Fresadora,Noite,Maria Lima,191.0,180,8,Falta de insumo,89.4
+15/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Noite,Carlos Silva,147.0,140,0,Sem parada,88.4
+07/05/2025,May 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,168.0,180,0,Sem parada,92.7
+28/02/2025,February 2025,Friday,M2,Fresadora,Tarde,Carlos Silva,169.0,180,0,Sem parada,91.2
+18/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Manhã,João Pereira,140.0,140,13,Falha mecânica,93.2
+09/05/2025,May 2025,Friday,M1,Torno CNC,Manhã,Maria Lima,168.0,160,0,Sem parada,71.0
+25/02/2025,February 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,104.0,120,0,Sem parada,72.2
+20/01/2025,January 2025,Monday,M1,Torno CNC,Manhã,Ana Souza,148.0,160,0,Sem parada,77.5
+29/05/2025,May 2025,Thursday,M1,Torno CNC,Noite,Carlos Silva,150.0,160,0,Sem parada,81.7
+17/03/2025,March 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,115.0,120,0,Sem parada,75.7
+07/02/2025,February 2025,Friday,M2,Fresadora,Noite,Pedro Santos,172.0,180,0,Sem parada,92.0
+09/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Manhã,Pedro Santos,135.0,140,24,Manutenção preventiva,83.8
+28/03/2025,March 2025,Friday,M1,Torno CNC,Manhã,Ana Souza,158.0,160,0,Sem parada,79.1
+24/03/2025,March 2025,Monday,M4,Injetora,Noite,Maria Lima,201.0,200,0,Sem parada,87.0
+15/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Pedro Santos,149.0,140,0,Sem parada,94.1
+07/02/2025,February 2025,Friday,M5,Solda Robotica,Noite,Ana Souza,129.0,120,0,Sem parada,68.9
+13/05/2025,May 2025,Tuesday,M5,Solda Robotica,Tarde,Pedro Santos,101.0,120,56,Manutenção preventiva,65.8
+13/02/2025,February 2025,Thursday,M5,Solda Robotica,Manhã,Ana Souza,119.0,120,0,Sem parada,75.6
+23/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Maria Lima,127.0,140,0,Sem parada,85.4
+04/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Noite,Pedro Santos,133.0,140,0,Sem parada,88.5
+29/05/2025,May 2025,Thursday,M2,Fresadora,Tarde,Maria Lima,192.0,180,0,Sem parada,94.1
+07/04/2025,April 2025,Monday,M1,Torno CNC,Noite,Carlos Silva,149.0,160,0,Sem parada,80.6
+28/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Tarde,Carlos Silva,127.0,140,0,Sem parada,85.9
+11/02/2025,February 2025,Tuesday,M5,Solda Robotica,Manhã,Maria Lima,133.0,120,0,Sem parada,73.2
+02/04/2025,April 2025,Wednesday,M4,Injetora,Tarde,Ana Souza,209.0,200,0,Sem parada,80.3
+16/01/2025,January 2025,Thursday,M5,Solda Robotica,Tarde,Pedro Santos,106.0,120,52,Manutenção preventiva,68.6
+06/02/2025,February 2025,Thursday,M1,Torno CNC,Manhã,Ana Souza,162.0,160,0,Sem parada,68.3
+24/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Noite,Pedro Santos,132.0,140,0,Sem parada,101.3
+28/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Manhã,Carlos Silva,136.0,140,0,Sem parada,93.9
+04/06/2025,June 2025,Wednesday,M2,Fresadora,Manhã,Maria Lima,187.0,180,0,Sem parada,86.8
+30/04/2025,April 2025,Wednesday,M4,Injetora,Noite,Carlos Silva,187.0,200,19,Falha mecânica,94.7
+29/05/2025,May 2025,Thursday,M2,Fresadora,Manhã,Carlos Silva,,180,0,Sem parada,89.5
+30/04/2025,April 2025,Wednesday,M4,Injetora,Manhã,João Pereira,213.0,200,0,Sem parada,93.8
+18/03/2025,March 2025,Tuesday,M4,Injetora,Tarde,Carlos Silva,200.0,200,0,Sem parada,102.1
+01/04/2025,April 2025,Tuesday,M2,Fresadora,Tarde,Pedro Santos,195.0,180,0,Sem parada,94.8
+26/03/2025,March 2025,Wednesday,M5,Solda Robotica,Noite,João Pereira,119.0,120,0,Sem parada,70.1
+04/04/2025,April 2025,Friday,M1,Torno CNC,Tarde,Carlos Silva,150.0,160,0,Sem parada,70.3
+04/03/2025,March 2025,Tuesday,M2,Fresadora,Tarde,Pedro Santos,162.0,180,0,Sem parada,88.0
+14/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Tarde,João Pereira,163.0,140,0,Sem parada,80.2
+16/05/2025,May 2025,Friday,M5,Solda Robotica,Tarde,Maria Lima,114.0,120,0,Sem parada,68.9
+09/05/2025,May 2025,Friday,M1,Torno CNC,Tarde,Ana Souza,171.0,160,0,Sem parada,71.8
+10/02/2025,February 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,145.0,160,0,Sem parada,76.9
+28/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Manhã,João Pereira,127.0,140,0,Sem parada,88.4
+07/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Noite,Maria Lima,147.0,140,0,Sem parada,94.4
+17/03/2025,March 2025,Monday,M2,Fresadora,Tarde,Carlos Silva,180.0,180,0,Sem parada,81.4
+29/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Noite,Carlos Silva,150.0,140,0,Sem parada,94.6
+27/02/2025,February 2025,Thursday,M1,Torno CNC,Manhã,Carlos Silva,152.0,160,0,Sem parada,68.2
+28/01/2025,January 2025,Tuesday,M4,Injetora,Manhã,Maria Lima,213.0,200,0,Sem parada,90.7
+21/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Manhã,Maria Lima,148.0,140,0,Sem parada,93.1
+02/05/2025,May 2025,Friday,M4,Injetora,Manhã,Maria Lima,192.0,200,0,Sem parada,92.6
+20/06/2025,June 2025,Friday,M4,Injetora,Tarde,Maria Lima,182.0,200,0,Sem parada,93.0
+08/01/2025,January 2025,Wednesday,M5,Solda Robotica,Tarde,João Pereira,120.0,120,0,Sem parada,77.3
+03/01/2025,January 2025,Friday,M4,Injetora,Noite,Carlos Silva,223.0,200,-2,Sem parada,92.4
+12/06/2025,June 2025,Thursday,M2,Fresadora,Noite,Ana Souza,175.0,180,0,Sem parada,83.9
+24/06/2025,June 2025,Tuesday,M4,Injetora,Manhã,Maria Lima,194.0,200,0,Sem parada,88.3
+13/01/2025,January 2025,Monday,M4,Injetora,Noite,Ana Souza,148.0,200,0,Sem parada,89.9
+28/03/2025,March 2025,Friday,M1,Torno CNC,Tarde,Ana Souza,170.0,160,0,Sem parada,66.3
+28/04/2025,April 2025,Monday,M5,Solda Robotica,Noite,Pedro Santos,117.0,120,0,Sem parada,65.7
+28/04/2025,April 2025,Monday,M1,Torno CNC,Manhã,Ana Souza,,160,0,Sem parada,71.6
+20/06/2025,June 2025,Friday,M5,Solda Robotica,Tarde,Pedro Santos,143.0,120,0,Sem parada,71.3
+09/05/2025,May 2025,Friday,M2,Fresadora,Tarde,João Pereira,172.0,180,0,Sem parada,84.0
+15/05/2025,May 2025,Thursday,M4,Injetora,Tarde,Ana Souza,,200,0,Sem parada,92.9
+15/01/2025,January 2025,Wednesday,M5,Solda Robotica,Noite,Carlos Silva,125.0,120,0,Sem parada,73.1
+10/03/2025,March 2025,Monday,M2,Fresadora,Tarde,João Pereira,197.0,180,0,Sem parada,85.1
+28/01/2025,January 2025,Tuesday,M2,Fresadora,Noite,Maria Lima,169.0,180,40,Falha mecânica,82.9
+14/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Noite,Maria Lima,156.0,140,0,Sem parada,91.8
+20/05/2025,May 2025,Tuesday,M1,Torno CNC,Tarde,Carlos Silva,142.0,160,0,Sem parada,84.9
+20/06/2025,June 2025,Friday,M2,Fresadora,Tarde,Pedro Santos,177.0,180,0,Sem parada,86.7
+30/04/2025,April 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,,120,0,Sem parada,78.8
+13/03/2025,March 2025,Thursday,M5,Solda Robotica,Tarde,Pedro Santos,124.0,120,16,Manutenção preventiva,66.0
+19/03/2025,March 2025,Wednesday,M5,Solda Robotica,Noite,Pedro Santos,129.0,120,0,Sem parada,67.8
+03/02/2025,February 2025,Monday,M2,Fresadora,Manhã,Maria Lima,184.0,180,0,Sem parada,78.7
+25/06/2025,June 2025,Wednesday,M2,Fresadora,Noite,Pedro Santos,184.0,180,0,Sem parada,84.9
+24/02/2025,February 2025,Monday,M1,Torno CNC,Tarde,Pedro Santos,158.0,160,0,Sem parada,75.6
+26/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Ana Souza,158.0,140,0,Sem parada,94.5
+19/06/2025,June 2025,Thursday,M4,Injetora,Tarde,Carlos Silva,206.0,200,0,Sem parada,97.8
+13/05/2025,May 2025,Tuesday,M4,Injetora,Tarde,Ana Souza,204.0,200,0,Sem parada,87.4
+23/05/2025,May 2025,Friday,M4,Injetora,Noite,João Pereira,168.0,200,0,Sem parada,89.4
+29/04/2025,April 2025,Tuesday,M4,Injetora,Manhã,Ana Souza,180.0,200,0,Sem parada,95.3
+11/06/2025,June 2025,Wednesday,M5,Solda Robotica,Manhã,Pedro Santos,113.0,120,0,Sem parada,63.6
+12/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Noite,Ana Souza,146.0,140,0,Sem parada,60.9
+05/02/2025,February 2025,Wednesday,M1,Torno CNC,Manhã,Ana Souza,148.0,160,0,Sem parada,68.2
+31/01/2025,January 2025,Friday,M2,Fresadora,Manhã,Maria Lima,166.0,180,26,Setup de máquina,92.5
+15/04/2025,April 2025,Tuesday,M4,Injetora,Tarde,Pedro Santos,201.0,200,0,Sem parada,97.9
+09/06/2025,June 2025,Monday,M4,Injetora,Manhã,Maria Lima,196.0,200,0,Sem parada,105.2
+20/05/2025,May 2025,Tuesday,M5,Solda Robotica,Tarde,Pedro Santos,122.0,120,0,Sem parada,63.8
+18/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Maria Lima,132.0,140,0,Sem parada,95.1
+15/05/2025,May 2025,Thursday,M5,Solda Robotica,Manhã,Pedro Santos,105.0,120,0,Sem parada,73.8
+24/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Noite,Carlos Silva,128.0,140,49,Falha mecânica,88.8
+17/06/2025,June 2025,Tuesday,M5,Solda Robotica,Manhã,Ana Souza,128.0,120,13,Setup de máquina,75.7
+26/03/2025,March 2025,Wednesday,M2,Fresadora,Noite,João Pereira,173.0,180,0,Sem parada,85.7
+24/06/2025,June 2025,Tuesday,M2,Fresadora,Noite,Pedro Santos,192.0,180,0,Sem parada,80.9
+11/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Tarde,Maria Lima,130.0,140,0,Sem parada,100.4
+30/01/2025,January 2025,Thursday,M5,Solda Robotica,Tarde,Carlos Silva,111.0,120,34,Falha mecânica,69.9
+18/06/2025,June 2025,Wednesday,M2,Fresadora,Manhã,Ana Souza,168.0,180,0,Sem parada,90.4
+30/01/2025,January 2025,Thursday,M2,Fresadora,Manhã,Carlos Silva,191.0,180,0,Sem parada,85.4
+19/05/2025,May 2025,Monday,M4,Injetora,Noite,Maria Lima,191.0,200,0,Sem parada,89.7
+02/05/2025,May 2025,Friday,M2,Fresadora,Noite,Maria Lima,190.0,180,0,Sem parada,88.9
+05/06/2025,June 2025,Thursday,M5,Solda Robotica,Manhã,Ana Souza,,120,0,Sem parada,69.2
+16/01/2025,January 2025,Thursday,M1,Torno CNC,Noite,Ana Souza,172.0,160,0,Sem parada,74.3
+01/01/2025,January 2025,Wednesday,M5,Solda Robotica,Manhã,Pedro Santos,114.0,120,0,Sem parada,70.6
+16/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Manhã,João Pereira,142.0,140,0,Sem parada,87.5
+03/03/2025,March 2025,Monday,M2,Fresadora,Tarde,Carlos Silva,183.0,180,0,Sem parada,86.6
+24/01/2025,January 2025,Friday,M2,Fresadora,Noite,Carlos Silva,155.0,180,0,Sem parada,87.7
+21/04/2025,April 2025,Monday,M2,Fresadora,Manhã,João Pereira,173.0,180,0,Sem parada,80.7
+07/05/2025,May 2025,Wednesday,M4,Injetora,Noite,Maria Lima,,200,0,Sem parada,102.4
+04/03/2025,March 2025,Tuesday,M5,Solda Robotica,Manhã,Pedro Santos,,120,60,Falta de insumo,62.6
+24/01/2025,January 2025,Friday,M2,Fresadora,Manhã,João Pereira,187.0,180,-5,Sem parada,80.1
+20/03/2025,March 2025,Thursday,M2,Fresadora,Tarde,Maria Lima,184.0,180,0,Sem parada,83.7
+21/03/2025,March 2025,Friday,M5,Solda Robotica,Manhã,Maria Lima,127.0,120,0,Sem parada,61.9
+29/05/2025,May 2025,Thursday,M5,Solda Robotica,Manhã,Ana Souza,110.0,120,0,Sem parada,66.6
+14/01/2025,January 2025,Tuesday,M2,Fresadora,Manhã,Maria Lima,182.0,180,0,Sem parada,82.0
+25/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Noite,João Pereira,136.0,140,0,Sem parada,86.2
+16/06/2025,June 2025,Monday,M4,Injetora,Manhã,Ana Souza,198.0,200,0,Sem parada,88.5
+20/02/2025,February 2025,Thursday,M4,Injetora,Manhã,João Pereira,214.0,200,0,Sem parada,96.7
+02/04/2025,April 2025,Wednesday,M2,Fresadora,Tarde,Carlos Silva,195.0,180,0,Sem parada,86.1
+23/06/2025,June 2025,Monday,M5,Solda Robotica,Manhã,Maria Lima,129.0,120,0,Sem parada,69.2
+12/06/2025,June 2025,Thursday,M2,Fresadora,Manhã,Pedro Santos,184.0,180,42,Falta de insumo,88.3
+16/04/2025,April 2025,Wednesday,M5,Solda Robotica,Tarde,Pedro Santos,126.0,120,0,Sem parada,64.3
+21/02/2025,February 2025,Friday,M2,Fresadora,Manhã,João Pereira,214.0,180,0,Sem parada,84.7
+14/01/2025,January 2025,Tuesday,M2,Fresadora,Tarde,Pedro Santos,181.0,180,0,Sem parada,83.1
+05/06/2025,June 2025,Thursday,M5,Solda Robotica,Noite,Ana Souza,124.0,120,0,Sem parada,65.1
+19/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,152.0,140,0,Sem parada,81.3
+21/01/2025,January 2025,Tuesday,M5,Solda Robotica,Noite,Carlos Silva,115.0,120,0,Sem parada,64.7
+10/03/2025,March 2025,Monday,M2,Fresadora,Manhã,Maria Lima,172.0,180,0,Sem parada,87.9
+14/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Manhã,Carlos Silva,,140,0,Sem parada,83.2
+04/06/2025,June 2025,Wednesday,M5,Solda Robotica,Noite,Pedro Santos,109.0,120,-3,Sem parada,74.2
+15/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Noite,Pedro Santos,140.0,140,0,Sem parada,85.2
+07/02/2025,February 2025,Friday,M2,Fresadora,Tarde,Carlos Silva,181.0,180,0,Sem parada,90.3
+30/01/2025,January 2025,Thursday,M4,Injetora,Tarde,Pedro Santos,229.0,200,0,Sem parada,100.6
+09/04/2025,April 2025,Wednesday,M4,Injetora,Noite,Carlos Silva,199.0,200,0,Sem parada,93.7
+28/01/2025,January 2025,Tuesday,M5,Solda Robotica,Noite,João Pereira,115.0,120,0,Sem parada,71.9
+01/05/2025,May 2025,Thursday,M5,Solda Robotica,Manhã,Carlos Silva,114.0,120,0,Sem parada,69.1
+24/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Tarde,João Pereira,134.0,140,0,Sem parada,91.3
+02/01/2025,January 2025,Thursday,M4,Injetora,Tarde,Ana Souza,205.0,200,0,Sem parada,93.1
+17/06/2025,June 2025,Tuesday,M5,Solda Robotica,Noite,João Pereira,116.0,120,27,Falha mecânica,68.9
+07/03/2025,March 2025,Friday,M4,Injetora,Manhã,João Pereira,196.0,200,0,Sem parada,93.6
+28/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Tarde,Pedro Santos,154.0,140,0,Sem parada,97.0
+17/01/2025,January 2025,Friday,M5,Solda Robotica,Tarde,Carlos Silva,123.0,120,0,Sem parada,79.4
+11/02/2025,February 2025,Tuesday,M2,Fresadora,Noite,Maria Lima,216.0,180,0,Sem parada,82.3
+24/02/2025,February 2025,Monday,M2,Fresadora,Manhã,Maria Lima,164.0,180,0,Sem parada,77.8
+17/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Noite,Carlos Silva,150.0,140,0,Sem parada,93.2
+26/02/2025,February 2025,Wednesday,M2,Fresadora,Noite,Maria Lima,162.0,180,0,Sem parada,81.5
+16/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Noite,João Pereira,120.0,140,0,Sem parada,91.6
+15/04/2025,April 2025,Tuesday,M5,Solda Robotica,Noite,Ana Souza,118.0,120,0,Sem parada,74.6
+11/06/2025,June 2025,Wednesday,M2,Fresadora,Noite,Ana Souza,204.0,180,0,Sem parada,94.5
+20/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Manhã,Maria Lima,149.0,140,0,Sem parada,83.3
+01/01/2025,January 2025,Wednesday,M2,Fresadora,Manhã,Maria Lima,202.0,180,0,Sem parada,88.8
+15/04/2025,April 2025,Tuesday,M1,Torno CNC,Manhã,João Pereira,155.0,160,0,Sem parada,71.8
+21/04/2025,April 2025,Monday,M5,Solda Robotica,Manhã,Maria Lima,112.0,120,6,Setup de máquina,77.7
+13/02/2025,February 2025,Thursday,M1,Torno CNC,Noite,Ana Souza,165.0,160,0,Sem parada,72.5
+30/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Manhã,Pedro Santos,131.0,140,20,Falha mecânica,82.5
+01/01/2025,January 2025,Wednesday,M2,Fresadora,Noite,Pedro Santos,173.0,180,0,Sem parada,82.7
+21/01/2025,January 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,107.0,120,0,Sem parada,73.3
+05/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Manhã,Carlos Silva,145.0,140,0,Sem parada,95.2
+20/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,148.0,140,0,Sem parada,89.6
+22/01/2025,January 2025,Wednesday,M2,Fresadora,Manhã,João Pereira,178.0,180,0,Sem parada,79.8
+03/01/2025,January 2025,Friday,M4,Injetora,Manhã,João Pereira,196.0,200,11,Falha mecânica,85.1
+20/02/2025,February 2025,Thursday,M1,Torno CNC,Noite,Ana Souza,164.0,160,0,Sem parada,77.2
+23/01/2025,January 2025,Thursday,M1,Torno CNC,Noite,João Pereira,150.0,160,0,Sem parada,67.9
+25/03/2025,March 2025,Tuesday,M5,Solda Robotica,Tarde,Carlos Silva,116.0,120,0,Sem parada,66.0
+11/04/2025,April 2025,Friday,M5,Solda Robotica,Noite,Pedro Santos,106.0,120,38,Falta de insumo,72.9
+14/01/2025,January 2025,Tuesday,M1,Torno CNC,Tarde,João Pereira,174.0,160,0,Sem parada,75.1
+17/04/2025,April 2025,Thursday,M4,Injetora,Noite,,193.0,200,0,Sem parada,96.3
+09/06/2025,June 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,212.0,180,0,Sem parada,83.0
+18/06/2025,June 2025,Wednesday,M1,Torno CNC,Tarde,Pedro Santos,186.0,160,0,Sem parada,75.0
+21/05/2025,May 2025,Wednesday,M1,Torno CNC,Tarde,Pedro Santos,154.0,160,0,Sem parada,84.4
+19/03/2025,March 2025,Wednesday,M2,Fresadora,Tarde,Pedro Santos,165.0,180,0,Sem parada,90.7
+11/02/2025,February 2025,Tuesday,M4,Injetora,Tarde,Carlos Silva,213.0,200,0,Sem parada,97.5
+20/03/2025,March 2025,Thursday,M1,Torno CNC,Noite,João Pereira,128.0,160,53,Falha mecânica,80.9
+11/06/2025,June 2025,Wednesday,M2,Fresadora,Manhã,Maria Lima,195.0,180,0,Sem parada,83.1
+08/05/2025,May 2025,Thursday,M2,Fresadora,Noite,João Pereira,185.0,180,0,Sem parada,87.3
+19/05/2025,May 2025,Monday,M2,Fresadora,Tarde,Carlos Silva,177.0,180,0,Sem parada,76.8
+13/06/2025,June 2025,Friday,M5,Solda Robotica,Manhã,João Pereira,140.0,120,0,Sem parada,78.0
+24/02/2025,February 2025,Monday,M4,Injetora,Noite,,177.0,200,0,Sem parada,86.8
+09/06/2025,June 2025,Monday,M5,Solda Robotica,Tarde,Maria Lima,128.0,120,0,Sem parada,71.0
+26/06/2025,June 2025,Thursday,M5,Solda Robotica,Noite,Carlos Silva,126.0,120,0,Sem parada,74.1
+04/03/2025,March 2025,Tuesday,M1,Torno CNC,Tarde,Pedro Santos,159.0,160,0,Sem parada,77.4
+11/02/2025,February 2025,Tuesday,M1,Torno CNC,Tarde,Maria Lima,142.0,160,0,Sem parada,71.3
+17/06/2025,June 2025,Tuesday,M4,Injetora,Noite,Pedro Santos,236.0,200,0,Sem parada,87.6
+05/02/2025,February 2025,Wednesday,M1,Torno CNC,Tarde,João Pereira,143.0,160,13,Setup de máquina,80.3
+14/05/2025,May 2025,Wednesday,M2,Fresadora,Manhã,Ana Souza,169.0,180,0,Sem parada,83.8
+01/04/2025,April 2025,Tuesday,M2,Fresadora,Noite,Carlos Silva,162.0,180,0,Sem parada,87.5
+21/04/2025,April 2025,Monday,M1,Torno CNC,Manhã,Maria Lima,168.0,160,0,Sem parada,77.1
+29/01/2025,January 2025,Wednesday,M5,Solda Robotica,Noite,Carlos Silva,120.0,120,0,Sem parada,75.5
+06/06/2025,June 2025,Friday,M1,Torno CNC,Noite,Maria Lima,150.0,160,0,Sem parada,84.8
+11/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Ana Souza,147.0,140,0,Sem parada,99.2
+14/04/2025,April 2025,Monday,M4,Injetora,Noite,Pedro Santos,214.0,200,0,Sem parada,92.7
+30/01/2025,January 2025,Thursday,M2,Fresadora,Tarde,Maria Lima,161.0,180,0,Sem parada,78.5
+27/01/2025,January 2025,Monday,M4,Injetora,Noite,Maria Lima,213.0,200,0,Sem parada,93.4
+06/03/2025,March 2025,Thursday,M1,Torno CNC,Tarde,Maria Lima,187.0,160,0,Sem parada,72.0
+14/05/2025,May 2025,Wednesday,M1,Torno CNC,Manhã,João Pereira,146.0,160,21,Setup de máquina,79.2
+16/05/2025,May 2025,Friday,M1,Torno CNC,Manhã,João Pereira,153.0,160,0,Sem parada,76.8
+10/02/2025,February 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,170.0,180,0,Sem parada,82.3
+20/02/2025,February 2025,Thursday,M5,Solda Robotica,Tarde,Carlos Silva,114.0,120,42,Setup de máquina,64.7
+25/02/2025,February 2025,Tuesday,M4,Injetora,Manhã,João Pereira,208.0,200,0,Sem parada,90.2
+26/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Noite,Pedro Santos,124.0,140,48,Setup de máquina,91.1
+04/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Noite,Carlos Silva,133.0,140,32,Falha mecânica,94.9
+05/06/2025,June 2025,Thursday,M1,Torno CNC,Tarde,João Pereira,180.0,160,0,Sem parada,77.9
+06/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Noite,Carlos Silva,145.0,140,0,Sem parada,82.3
+27/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Tarde,,132.0,140,0,Sem parada,83.9
+16/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Manhã,João Pereira,153.0,140,0,Sem parada,84.6
+27/05/2025,May 2025,Tuesday,M2,Fresadora,Tarde,Ana Souza,181.0,180,0,Sem parada,82.9
+22/04/2025,April 2025,Tuesday,M4,Injetora,Noite,Carlos Silva,176.0,200,0,Sem parada,91.7
+22/01/2025,January 2025,Wednesday,M1,Torno CNC,Noite,Pedro Santos,153.0,160,0,Sem parada,71.0
+10/04/2025,April 2025,Thursday,M5,Solda Robotica,Noite,Pedro Santos,130.0,120,5,Falta de insumo,72.8
+18/04/2025,April 2025,Friday,M4,Injetora,Manhã,Ana Souza,211.0,200,0,Sem parada,99.2
+30/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Noite,João Pereira,118.0,140,37,Falha mecânica,93.3
+25/06/2025,June 2025,Wednesday,M2,Fresadora,Tarde,João Pereira,183.0,180,0,Sem parada,54.9
+07/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Ana Souza,128.0,140,0,Sem parada,92.4
+06/02/2025,February 2025,Thursday,M2,Fresadora,Manhã,,192.0,180,0,Sem parada,87.3
+24/02/2025,February 2025,Monday,M4,Injetora,Manhã,Maria Lima,215.0,200,0,Sem parada,93.4
+02/01/2025,January 2025,Thursday,M4,Injetora,Manhã,Ana Souza,205.0,200,0,Sem parada,86.2
+21/01/2025,January 2025,Tuesday,M1,Torno CNC,Tarde,Maria Lima,156.0,160,0,Sem parada,79.9
+20/05/2025,May 2025,Tuesday,M1,Torno CNC,Noite,Carlos Silva,151.0,160,56,Manutenção preventiva,75.5
+14/01/2025,January 2025,Tuesday,M4,Injetora,Manhã,Pedro Santos,204.0,200,0,Sem parada,91.9
+19/02/2025,February 2025,Wednesday,M4,Injetora,Noite,Carlos Silva,201.0,200,0,Sem parada,88.6
+18/03/2025,March 2025,Tuesday,M1,Torno CNC,Tarde,Ana Souza,171.0,160,0,Sem parada,71.7
+25/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Manhã,Pedro Santos,131.0,140,0,Sem parada,83.1
+08/04/2025,April 2025,Tuesday,M1,Torno CNC,Noite,Maria Lima,152.0,160,0,Sem parada,73.4
+08/01/2025,January 2025,Wednesday,M4,Injetora,Tarde,João Pereira,185.0,200,0,Sem parada,90.9
+12/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Manhã,Maria Lima,145.0,140,0,Sem parada,87.3
+27/01/2025,January 2025,Monday,M1,Torno CNC,Noite,Pedro Santos,128.0,160,0,Sem parada,71.0
+31/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Tarde,Maria Lima,138.0,140,0,Sem parada,92.2
+13/06/2025,June 2025,Friday,M5,Solda Robotica,Tarde,Ana Souza,126.0,120,0,Sem parada,65.9
+13/06/2025,June 2025,Friday,M1,Torno CNC,Manhã,Ana Souza,166.0,160,26,Setup de máquina,70.6
+08/04/2025,April 2025,Tuesday,m1,Torno CNC,Tarde,João Pereira,161.0,160,0,Sem parada,76.0
+19/06/2025,June 2025,Thursday,M4,Injetora,Manhã,Maria Lima,212.0,200,-3,Sem parada,92.8
+28/02/2025,February 2025,Friday,M1,Torno CNC,Manhã,Carlos Silva,167.0,160,0,Sem parada,75.4
+02/04/2025,April 2025,Wednesday,M4,Injetora,Manhã,João Pereira,196.0,200,0,Sem parada,100.7
+07/05/2025,May 2025,Wednesday,M1,Torno CNC,Tarde,Maria Lima,185.0,160,0,Sem parada,80.1
+18/06/2025,June 2025,Wednesday,M4,Injetora,Tarde,Maria Lima,178.0,200,0,Sem parada,96.8
+07/04/2025,April 2025,Monday,M4,Injetora,Tarde,Maria Lima,213.0,200,0,Sem parada,94.3
+05/05/2025,May 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,180.0,180,0,Sem parada,89.5
+14/04/2025,April 2025,Monday,M4,Injetora,Tarde,Maria Lima,179.0,200,0,Sem parada,98.0
+04/02/2025,February 2025,Tuesday,M1,Torno CNC,Noite,João Pereira,162.0,160,0,Sem parada,74.1
+27/05/2025,May 2025,Tuesday,M1,Torno CNC,Tarde,Pedro Santos,166.0,160,0,Sem parada,73.2
+15/04/2025,April 2025,Tuesday,M2,Fresadora,Manhã,Maria Lima,200.0,180,0,Sem parada,82.0
+07/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Manhã,Ana Souza,132.0,140,0,Sem parada,88.5
+21/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Tarde,Maria Lima,153.0,140,0,Sem parada,91.3
+02/05/2025,May 2025,Friday,M1,Torno CNC,Noite,João Pereira,167.0,160,0,Sem parada,78.3
+13/06/2025,June 2025,Friday,M2,Fresadora,Noite,João Pereira,187.0,180,0,Sem parada,72.5
+04/03/2025,March 2025,Tuesday,M2,Fresadora,Noite,Maria Lima,202.0,180,0,Sem parada,91.1
+04/02/2025,February 2025,Tuesday,M2,Fresadora,Tarde,Maria Lima,172.0,180,0,Sem parada,81.1
+08/01/2025,January 2025,Wednesday,M1,Torno CNC,Noite,João Pereira,163.0,160,0,Sem parada,71.4
+02/01/2025,January 2025,Thursday,M5,Solda Robotica,Manhã,Carlos Silva,129.0,120,0,Sem parada,74.7
+26/05/2025,May 2025,Monday,M5,Solda Robotica,Tarde,Ana Souza,118.0,120,0,Sem parada,66.2
+19/02/2025,February 2025,Wednesday,M1,Torno CNC,Manhã,Ana Souza,149.0,160,9,Falha mecânica,77.0
+16/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Manhã,Ana Souza,143.0,140,0,Sem parada,102.6
+06/01/2025,January 2025,Monday,M4,Injetora,Tarde,Maria Lima,169.0,200,0,Sem parada,134.9
+28/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Noite,Carlos Silva,165.0,140,0,Sem parada,92.0
+29/01/2025,January 2025,Wednesday,M1,Torno CNC,Noite,Ana Souza,165.0,160,0,Sem parada,84.4
+07/03/2025,March 2025,Friday,M5,Solda Robotica,Tarde,Carlos Silva,117.0,120,-3,Sem parada,78.0
+27/02/2025,February 2025,Thursday,M4,Injetora,Manhã,Pedro Santos,203.0,200,0,Sem parada,87.2
+01/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Tarde,João Pereira,120.0,140,0,Sem parada,87.2
+17/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Noite,Pedro Santos,141.0,140,0,Sem parada,98.1
+31/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Manhã,João Pereira,136.0,140,0,Sem parada,88.1
+06/01/2025,January 2025,Monday,M1,Torno CNC,Noite,Carlos Silva,154.0,160,0,Sem parada,67.7
+14/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Maria Lima,121.0,140,22,Manutenção preventiva,93.4
+10/01/2025,January 2025,Friday,M1,Torno CNC,Tarde,Maria Lima,172.0,160,0,Sem parada,78.3
+03/02/2025,February 2025,Monday,M2,Fresadora,Tarde,João Pereira,193.0,180,0,Sem parada,84.1
+22/01/2025,January 2025,Wednesday,M5,Solda Robotica,Tarde,Carlos Silva,125.0,120,0,Sem parada,41.6
+21/01/2025,January 2025,Tuesday,M2,Fresadora,Manhã,João Pereira,166.0,180,0,Sem parada,88.4
+23/04/2025,April 2025,Wednesday,M4,Injetora,Tarde,Ana Souza,216.0,200,0,Sem parada,100.8
+12/05/2025,May 2025,Monday,M4,Injetora,Tarde,Pedro Santos,198.0,200,0,Sem parada,91.8
+14/03/2025,March 2025,Friday,M5,Solda Robotica,Tarde,Pedro Santos,121.0,120,0,Sem parada,68.2
+11/04/2025,April 2025,Friday,M2,Fresadora,Tarde,João Pereira,176.0,180,0,Sem parada,87.3
+02/06/2025,June 2025,Monday,M1,Torno CNC,Manhã,João Pereira,160.0,160,0,Sem parada,89.3
+18/02/2025,February 2025,Tuesday,M5,Solda Robotica,Tarde,João Pereira,126.0,120,0,Sem parada,62.1
+22/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Maria Lima,138.0,140,0,Sem parada,88.9
+28/02/2025,February 2025,Friday,M5,Solda Robotica,Noite,Carlos Silva,109.0,120,0,Sem parada,59.2
+30/06/2025,June 2025,Monday,M5,Solda Robotica,Tarde,João Pereira,114.0,120,34,Falta de insumo,78.3
+19/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Noite,João Pereira,125.0,140,0,Sem parada,95.8
+16/05/2025,May 2025,Friday,M2,Fresadora,Noite,João Pereira,169.0,180,0,Sem parada,88.7
+26/02/2025,February 2025,Wednesday,M2,Fresadora,Manhã,Maria Lima,169.0,180,0,Sem parada,81.7
+18/04/2025,April 2025,Friday,M5,Solda Robotica,Noite,Maria Lima,120.0,120,0,Sem parada,66.7
+09/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Manhã,Pedro Santos,142.0,140,0,Sem parada,89.5
+07/01/2025,January 2025,Tuesday,M1,Torno CNC,Manhã,Pedro Santos,170.0,160,0,Sem parada,40.5
+27/05/2025,May 2025,Tuesday,M4,Injetora,Noite,Pedro Santos,198.0,200,0,Sem parada,92.0
+09/01/2025,January 2025,Thursday,M1,Torno CNC,Noite,Maria Lima,,160,0,Sem parada,78.6
+04/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Manhã,João Pereira,137.0,140,0,Sem parada,97.5
+27/01/2025,January 2025,Monday,M4,Injetora,Tarde,Ana Souza,204.0,200,0,Sem parada,105.4
+10/04/2025,April 2025,Thursday,M4,Injetora,Tarde,Maria Lima,197.0,200,0,Sem parada,103.3
+03/02/2025,February 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,116.0,120,0,Sem parada,69.7
+11/04/2025,April 2025,Friday,M4,Injetora,Tarde,Maria Lima,196.0,200,0,Sem parada,93.2
+30/06/2025,June 2025,Monday,M4,Injetora,Tarde,João Pereira,192.0,200,0,Sem parada,91.1
+20/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Tarde,Ana Souza,141.0,140,-3,Sem parada,99.7
+05/05/2025,May 2025,Monday,M4,Injetora,Manhã,Ana Souza,202.0,200,0,Sem parada,97.8
+10/01/2025,January 2025,Friday,M2,Fresadora,Noite,Pedro Santos,213.0,180,-4,Sem parada,75.7
+03/01/2025,January 2025,Friday,M5,Solda Robotica,Manhã,,112.0,120,0,Sem parada,67.5
+13/01/2025,January 2025,Monday,M2,Fresadora,Noite,Maria Lima,161.0,180,0,Sem parada,89.6
+20/01/2025,January 2025,Monday,M4,Injetora,Manhã,Carlos Silva,201.0,200,0,Sem parada,97.6
+06/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Tarde,Maria Lima,138.0,140,0,Sem parada,92.0
+20/02/2025,February 2025,Thursday,M2,Fresadora,Noite,Ana Souza,178.0,180,0,Sem parada,84.8
+07/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Noite,Pedro Santos,,140,0,Sem parada,88.4
+25/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,130.0,140,0,Sem parada,94.1
+20/05/2025,May 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,110.0,120,0,Sem parada,70.4
+17/01/2025,January 2025,Friday,M2,Fresadora,Manhã,Ana Souza,183.0,180,0,Sem parada,85.1
+14/01/2025,January 2025,Tuesday,M1,Torno CNC,Noite,Pedro Santos,147.0,160,0,Sem parada,77.3
+25/03/2025,March 2025,Tuesday,M5,Solda Robotica,Noite,Maria Lima,130.0,120,0,Sem parada,70.1
+17/03/2025,March 2025,Monday,M1,Torno CNC,Tarde,Pedro Santos,165.0,160,0,Sem parada,79.5
+13/01/2025,January 2025,Monday,M5,Solda Robotica,Manhã,Ana Souza,117.0,120,0,Sem parada,63.8
+08/01/2025,January 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,165.0,180,0,Sem parada,88.9
+20/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Ana Souza,148.0,140,0,Sem parada,91.4
+20/02/2025,February 2025,Thursday,M1,Torno CNC,Tarde,Carlos Silva,155.0,160,0,Sem parada,85.4
+26/05/2025,May 2025,Monday,M1,Torno CNC,Manhã,Ana Souza,136.0,160,0,Sem parada,78.8
+02/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Noite,Ana Souza,137.0,140,0,Sem parada,89.2
+16/01/2025,January 2025,Thursday,M1,Torno CNC,Manhã,,159.0,160,0,Sem parada,70.5
+23/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Noite,Maria Lima,128.0,140,0,Sem parada,89.0
+11/02/2025,February 2025,Tuesday,M4,Injetora,Noite,Pedro Santos,217.0,200,0,Sem parada,100.8
+12/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Tarde,Carlos Silva,138.0,140,0,Sem parada,81.1
+21/03/2025,March 2025,Friday,M2,Fresadora,Manhã,Pedro Santos,184.0,180,0,Sem parada,86.0
+02/06/2025,June 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,122.0,120,0,Sem parada,73.2
+09/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Tarde,Carlos Silva,141.0,140,-4,Sem parada,91.9
+27/06/2025,June 2025,Friday,M2,Fresadora,Manhã,João Pereira,174.0,180,0,Sem parada,84.4
+11/03/2025,March 2025,Tuesday,M1,Torno CNC,Noite,Ana Souza,149.0,160,0,Sem parada,78.2
+23/04/2025,April 2025,Wednesday,M4,Injetora,Noite,Carlos Silva,196.0,200,-5,Sem parada,94.8
+09/01/2025,January 2025,Thursday,M5,Solda Robotica,Manhã,Pedro Santos,106.0,120,0,Sem parada,65.3
+10/02/2025,February 2025,Monday,M5,Solda Robotica,Noite,Ana Souza,,120,0,Sem parada,80.1
+07/01/2025,January 2025,Tuesday,M5,Solda Robotica,Noite,João Pereira,125.0,120,0,Sem parada,71.5
+11/06/2025,June 2025,Wednesday,M4,Injetora,Tarde,João Pereira,198.0,200,0,Sem parada,94.6
+18/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Manhã,Pedro Santos,135.0,140,32,Falha mecânica,98.4
+27/03/2025,March 2025,Thursday,M2,Fresadora,Manhã,João Pereira,163.0,180,0,Sem parada,85.5
+04/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Noite,Carlos Silva,139.0,140,0,Sem parada,85.1
+30/05/2025,May 2025,Friday,M5,Solda Robotica,Noite,João Pereira,121.0,120,0,Sem parada,74.7
+16/06/2025,June 2025,Monday,M2,Fresadora,Noite,Carlos Silva,172.0,180,0,Sem parada,77.2
+12/03/2025,March 2025,Wednesday,M5,Solda Robotica,Manhã,Pedro Santos,106.0,120,41,Falta de insumo,75.4
+02/04/2025,April 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,109.0,120,15,Setup de máquina,72.0
+05/02/2025,February 2025,Wednesday,M5,Solda Robotica,Tarde,Maria Lima,109.0,120,16,Manutenção preventiva,68.8
+22/01/2025,January 2025,Wednesday,M4,Injetora,Tarde,Carlos Silva,195.0,200,0,Sem parada,83.5
+16/05/2025,May 2025,Friday,M2,Fresadora,Manhã,João Pereira,177.0,180,0,Sem parada,88.3
+24/01/2025,January 2025,Friday,M5,Solda Robotica,Manhã,João Pereira,113.0,120,0,Sem parada,70.2
+03/06/2025,June 2025,Tuesday,M4,Injetora,Noite,Pedro Santos,220.0,200,0,Sem parada,96.7
+10/01/2025,January 2025,Friday,M5,Solda Robotica,Manhã,Maria Lima,140.0,120,0,Sem parada,73.2
+26/05/2025,May 2025,Monday,M4,Injetora,Noite,João Pereira,195.0,200,0,Sem parada,89.0
+04/03/2025,March 2025,Tuesday,M5,Solda Robotica,Tarde,Ana Souza,95.0,120,0,Sem parada,74.7
+23/01/2025,January 2025,Thursday,M4,Injetora,Manhã,João Pereira,185.0,200,0,Sem parada,88.1
+12/05/2025,May 2025,Monday,M4,Injetora,Manhã,Carlos Silva,214.0,200,0,Sem parada,92.3
+30/06/2025,June 2025,Monday,M4,Injetora,Manhã,João Pereira,188.0,200,0,Sem parada,94.0
+09/01/2025,January 2025,Thursday,M2,Fresadora,Tarde,Carlos Silva,167.0,180,0,Sem parada,77.4
+03/01/2025,January 2025,Friday,M2,Fresadora,Manhã,Pedro Santos,178.0,180,0,Sem parada,90.0
+27/05/2025,May 2025,Tuesday,M5,Solda Robotica,Tarde,Ana Souza,113.0,120,0,Sem parada,66.4
+30/05/2025,May 2025,Friday,M4,Injetora,Noite,Ana Souza,182.0,200,0,Sem parada,104.6
+11/02/2025,February 2025,Tuesday,M5,Solda Robotica,Tarde,Maria Lima,118.0,120,0,Sem parada,70.7
+07/03/2025,March 2025,Friday,M4,Injetora,Noite,Maria Lima,213.0,200,0,Sem parada,92.1
+06/05/2025,May 2025,Tuesday,M1,Torno CNC,Tarde,João Pereira,163.0,160,0,Sem parada,72.3
+16/05/2025,May 2025,Friday,M5,Solda Robotica,Noite,Maria Lima,104.0,120,0,Sem parada,68.0
+01/01/2025,January 2025,Wednesday,M1,Torno CNC,Manhã,Carlos Silva,166.0,160,0,Sem parada,74.3
+30/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Noite,Carlos Silva,130.0,140,0,Sem parada,96.2
+14/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Manhã,Maria Lima,148.0,140,0,Sem parada,83.5
+14/04/2025,April 2025,Monday,M5,Solda Robotica,Tarde,Carlos Silva,115.0,120,0,Sem parada,69.7
+08/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Pedro Santos,150.0,140,0,Sem parada,92.1
+25/04/2025,April 2025,Friday,m5,Solda Robotica,Manhã,Carlos Silva,114.0,120,0,Sem parada,74.3
+05/03/2025,March 2025,Wednesday,M1,Torno CNC,Tarde,João Pereira,166.0,160,0,Sem parada,78.8
+12/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Noite,Pedro Santos,139.0,140,0,Sem parada,85.8
+08/04/2025,April 2025,Tuesday,M4,Injetora,Noite,João Pereira,209.0,200,0,Sem parada,89.3
+13/03/2025,March 2025,Thursday,M2,Fresadora,Noite,Ana Souza,179.0,180,0,Sem parada,93.9
+21/04/2025,April 2025,Monday,M2,Fresadora,Noite,Ana Souza,195.0,180,0,Sem parada,88.1
+25/04/2025,April 2025,Friday,M2,Fresadora,Noite,Pedro Santos,184.0,180,28,Setup de máquina,96.8
+23/05/2025,May 2025,Friday,M1,Torno CNC,Manhã,Carlos Silva,164.0,160,0,Sem parada,73.3
+15/05/2025,May 2025,Thursday,M1,Torno CNC,Manhã,João Pereira,131.0,160,0,Sem parada,64.4
+06/02/2025,February 2025,Thursday,M5,Solda Robotica,Noite,Ana Souza,132.0,120,0,Sem parada,65.5
+05/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,129.0,140,0,Sem parada,98.1
+28/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Manhã,Carlos Silva,136.0,140,0,Sem parada,86.9
+01/05/2025,May 2025,Thursday,M1,Torno CNC,Noite,Maria Lima,174.0,160,0,Sem parada,71.9
+09/01/2025,January 2025,Thursday,M5,Solda Robotica,Noite,Ana Souza,124.0,120,0,Sem parada,89.3
+05/03/2025,March 2025,Wednesday,M5,Solda Robotica,Tarde,Pedro Santos,113.0,120,0,Sem parada,75.2
+28/04/2025,April 2025,Monday,M5,Solda Robotica,Tarde,João Pereira,120.0,120,0,Sem parada,58.9
+19/03/2025,March 2025,Wednesday,M1,Torno CNC,Tarde,João Pereira,162.0,160,0,Sem parada,73.2
+07/01/2025,January 2025,Tuesday,M1,Torno CNC,Noite,Carlos Silva,167.0,160,0,Sem parada,86.0
+20/03/2025,March 2025,Thursday,m5,Solda Robotica,Manhã,João Pereira,117.0,120,24,Setup de máquina,68.8
+02/05/2025,May 2025,Friday,M1,Torno CNC,Manhã,João Pereira,153.0,160,41,Setup de máquina,69.3
+21/01/2025,January 2025,Tuesday,M5,Solda Robotica,Tarde,Carlos Silva,123.0,120,0,Sem parada,65.3
+14/01/2025,January 2025,Tuesday,M4,Injetora,Tarde,Ana Souza,196.0,200,0,Sem parada,92.5
+11/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Noite,João Pereira,121.0,140,0,Sem parada,90.9
+04/02/2025,February 2025,Tuesday,M5,Solda Robotica,Tarde,Carlos Silva,121.0,120,0,Sem parada,66.2
+22/05/2025,May 2025,Thursday,M4,Injetora,Noite,Carlos Silva,195.0,200,0,Sem parada,91.1
+17/04/2025,April 2025,Thursday,M1,Torno CNC,Noite,Ana Souza,154.0,160,0,Sem parada,77.3
+13/06/2025,June 2025,Friday,M5,Solda Robotica,Noite,Maria Lima,119.0,120,0,Sem parada,69.2
+15/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Manhã,Maria Lima,148.0,140,0,Sem parada,91.1
+26/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Manhã,Ana Souza,158.0,140,0,Sem parada,95.4
+24/04/2025,April 2025,Thursday,M4,Injetora,Tarde,Maria Lima,185.0,200,0,Sem parada,90.8
+01/01/2025,January 2025,Wednesday,M4,Injetora,Manhã,Ana Souza,185.0,200,0,Sem parada,87.9
+11/02/2025,February 2025,Tuesday,M5,Solda Robotica,Noite,João Pereira,131.0,120,0,Sem parada,65.9
+07/03/2025,March 2025,Friday,M2,Fresadora,Manhã,Pedro Santos,180.0,180,0,Sem parada,86.3
+24/01/2025,January 2025,Friday,M1,Torno CNC,Manhã,Ana Souza,163.0,160,0,Sem parada,74.7
+24/03/2025,March 2025,Monday,M5,Solda Robotica,Manhã,Maria Lima,117.0,120,0,Sem parada,65.8
+05/02/2025,February 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,113.0,120,25,Falta de insumo,73.1
+26/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Noite,Carlos Silva,107.0,140,36,Manutenção preventiva,86.4
+27/03/2025,March 2025,Thursday,M4,Injetora,Manhã,Ana Souza,215.0,200,0,Sem parada,97.1
+04/06/2025,June 2025,Wednesday,M1,Torno CNC,Manhã,Pedro Santos,164.0,160,0,Sem parada,70.3
+29/04/2025,April 2025,Tuesday,M1,Torno CNC,Tarde,João Pereira,164.0,160,-2,Sem parada,73.4
+12/02/2025,February 2025,Wednesday,M4,Injetora,Tarde,João Pereira,217.0,200,0,Sem parada,89.9
+03/06/2025,June 2025,Tuesday,M5,Solda Robotica,Manhã,Ana Souza,,120,54,Falta de insumo,64.6
+18/04/2025,April 2025,Friday,M5,Solda Robotica,Tarde,Ana Souza,120.0,120,18,Falha mecânica,70.2
+31/03/2025,March 2025,Monday,M5,Solda Robotica,Tarde,Carlos Silva,112.0,120,0,Sem parada,66.9
+17/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Manhã,João Pereira,140.0,140,0,Sem parada,86.8
+11/03/2025,March 2025,Tuesday,M2,Fresadora,Tarde,Ana Souza,167.0,180,0,Sem parada,82.8
+17/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Ana Souza,161.0,140,0,Sem parada,83.9
+21/03/2025,March 2025,Friday,M5,Solda Robotica,Tarde,Carlos Silva,108.0,120,7,Manutenção preventiva,64.7
+10/03/2025,March 2025,Monday,M4,Injetora,Noite,Pedro Santos,196.0,200,0,Sem parada,90.7
+19/02/2025,February 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,134.0,120,-5,Sem parada,74.3
+06/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Tarde,João Pereira,135.0,140,0,Sem parada,90.9
+06/05/2025,May 2025,Tuesday,M4,Injetora,Manhã,João Pereira,212.0,200,0,Sem parada,98.1
+05/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Noite,Ana Souza,127.0,140,0,Sem parada,94.5
+17/04/2025,April 2025,Thursday,M2,Fresadora,Noite,Pedro Santos,205.0,180,-3,Sem parada,59.9
+07/04/2025,April 2025,Monday,M4,Injetora,Noite,Ana Souza,,200,0,Sem parada,94.5
+04/02/2025,February 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,124.0,120,0,Sem parada,66.4
+04/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Ana Souza,141.0,140,0,Sem parada,88.3
+19/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Tarde,Pedro Santos,129.0,140,0,Sem parada,98.7
+03/02/2025,February 2025,Monday,M5,Solda Robotica,Manhã,Ana Souza,119.0,120,0,Sem parada,75.5
+01/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Maria Lima,169.0,140,0,Sem parada,82.5
+14/03/2025,March 2025,Friday,M2,Fresadora,Manhã,Carlos Silva,180.0,180,0,Sem parada,87.6
+11/03/2025,March 2025,Tuesday,M1,Torno CNC,Manhã,Pedro Santos,175.0,160,0,Sem parada,72.0
+08/04/2025,April 2025,Tuesday,M1,Torno CNC,Manhã,João Pereira,172.0,160,0,Sem parada,81.2
+01/04/2025,April 2025,Tuesday,M4,Injetora,Tarde,Pedro Santos,204.0,200,0,Sem parada,93.0
+19/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Manhã,João Pereira,145.0,140,0,Sem parada,97.6
+02/06/2025,June 2025,Monday,M2,Fresadora,Tarde,Ana Souza,183.0,180,0,Sem parada,75.7
+19/05/2025,May 2025,Monday,M2,Fresadora,Noite,Carlos Silva,197.0,180,0,Sem parada,88.9
+15/05/2025,May 2025,Thursday,M1,Torno CNC,Noite,Ana Souza,124.0,160,0,Sem parada,72.5
+03/06/2025,June 2025,Tuesday,M2,Fresadora,Noite,Maria Lima,167.0,180,0,Sem parada,85.2
+04/06/2025,June 2025,Wednesday,M5,Solda Robotica,Manhã,João Pereira,130.0,120,0,Sem parada,72.4
+25/03/2025,March 2025,Tuesday,M1,Torno CNC,Manhã,Maria Lima,160.0,160,0,Sem parada,83.5
+08/01/2025,January 2025,Wednesday,M2,Fresadora,Tarde,Pedro Santos,162.0,180,0,Sem parada,88.3
+21/04/2025,April 2025,Monday,M1,Torno CNC,Noite,Carlos Silva,132.0,160,0,Sem parada,80.5
+18/03/2025,March 2025,Tuesday,M2,Fresadora,Tarde,João Pereira,180.0,180,0,Sem parada,89.3
+25/04/2025,April 2025,Friday,M4,Injetora,Manhã,Ana Souza,178.0,200,-5,Sem parada,98.5
+04/03/2025,March 2025,Tuesday,M4,Injetora,Noite,Ana Souza,206.0,200,0,Sem parada,101.0
+19/05/2025,May 2025,Monday,M5,Solda Robotica,Tarde,Carlos Silva,111.0,120,47,Falta de insumo,67.1
+06/01/2025,January 2025,Monday,M5,Solda Robotica,Manhã,Maria Lima,118.0,120,0,Sem parada,71.5
+13/01/2025,January 2025,Monday,M5,Solda Robotica,Tarde,João Pereira,135.0,120,0,Sem parada,62.8
+17/04/2025,April 2025,Thursday,M1,Torno CNC,Manhã,Maria Lima,,160,0,Sem parada,71.6
+28/03/2025,March 2025,Friday,M2,Fresadora,Manhã,Maria Lima,194.0,180,0,Sem parada,90.6
+09/06/2025,June 2025,Monday,M1,Torno CNC,Tarde,João Pereira,159.0,160,0,Sem parada,74.6
+18/03/2025,March 2025,Tuesday,M5,Solda Robotica,Tarde,Pedro Santos,118.0,120,0,Sem parada,74.9
+23/04/2025,April 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,130.0,120,0,Sem parada,108.3
+17/02/2025,February 2025,Monday,M4,Injetora,Manhã,João Pereira,216.0,200,0,Sem parada,92.3
+10/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Noite,Pedro Santos,146.0,140,0,Sem parada,83.6
+03/02/2025,February 2025,Monday,M1,Torno CNC,Noite,João Pereira,155.0,160,36,Falha mecânica,73.5
+05/02/2025,February 2025,Wednesday,M4,Injetora,Noite,João Pereira,210.0,200,0,Sem parada,99.9
+07/04/2025,April 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,175.0,180,0,Sem parada,85.8
+25/03/2025,March 2025,Tuesday,M4,Injetora,Manhã,Pedro Santos,205.0,200,0,Sem parada,101.7
+19/03/2025,March 2025,Wednesday,M2,Fresadora,Manhã,Carlos Silva,182.0,180,0,Sem parada,91.6
+20/06/2025,June 2025,Friday,M1,Torno CNC,Tarde,Carlos Silva,164.0,160,0,Sem parada,76.6
+13/02/2025,February 2025,Thursday,M4,Injetora,Tarde,Maria Lima,196.0,200,0,Sem parada,96.8
+13/05/2025,May 2025,Tuesday,M5,Solda Robotica,Manhã,Pedro Santos,122.0,120,0,Sem parada,64.5
+10/06/2025,June 2025,Tuesday,M4,Injetora,Noite,Maria Lima,202.0,200,0,Sem parada,102.9
+03/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Tarde,Ana Souza,146.0,140,0,Sem parada,85.5
+16/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Tarde,Ana Souza,127.0,140,27,Falta de insumo,91.2
+17/04/2025,April 2025,Thursday,M4,Injetora,Manhã,Maria Lima,210.0,200,0,Sem parada,87.5
+03/01/2025,January 2025,Friday,m3,Prensa Hidráulica,Noite,Pedro Santos,140.0,140,0,Sem parada,88.5
+07/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Noite,Carlos Silva,163.0,140,0,Sem parada,84.5
+09/01/2025,January 2025,Thursday,M1,Torno CNC,Manhã,Pedro Santos,168.0,160,0,Sem parada,70.7
+24/06/2025,June 2025,Tuesday,M5,Solda Robotica,Manhã,Pedro Santos,107.0,120,11,Manutenção preventiva,69.1
+23/04/2025,April 2025,Wednesday,M2,Fresadora,Noite,Maria Lima,,180,0,Sem parada,92.7
+24/03/2025,March 2025,Monday,M2,Fresadora,Noite,Carlos Silva,141.0,180,0,Sem parada,88.4
+01/05/2025,May 2025,Thursday,M5,Solda Robotica,Tarde,João Pereira,114.0,120,0,Sem parada,59.0
+11/04/2025,April 2025,Friday,M5,Solda Robotica,Tarde,Ana Souza,106.0,120,-2,Sem parada,68.7
+18/04/2025,April 2025,Friday,M1,Torno CNC,Manhã,Pedro Santos,155.0,160,0,Sem parada,84.0
+02/05/2025,May 2025,Friday,M4,Injetora,Tarde,Carlos Silva,,200,0,Sem parada,97.3
+26/06/2025,June 2025,Thursday,M2,Fresadora,Manhã,Ana Souza,184.0,180,0,Sem parada,80.6
+17/02/2025,February 2025,Monday,M2,Fresadora,Tarde,Maria Lima,171.0,180,0,Sem parada,87.9
+31/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Noite,Ana Souza,113.0,140,52,Falha mecânica,98.8
+22/04/2025,April 2025,Tuesday,M2,Fresadora,Manhã,João Pereira,174.0,180,0,Sem parada,78.4
+02/01/2025,January 2025,Thursday,M5,Solda Robotica,Tarde,Carlos Silva,111.0,120,0,Sem parada,68.5
+24/04/2025,April 2025,Thursday,M1,Torno CNC,Noite,Ana Souza,162.0,160,0,Sem parada,73.2
+09/05/2025,May 2025,Friday,M2,Fresadora,Manhã,Maria Lima,165.0,180,38,Falha mecânica,87.3
+13/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Noite,Pedro Santos,137.0,140,0,Sem parada,100.3
+31/03/2025,March 2025,Monday,M1,Torno CNC,Manhã,Pedro Santos,166.0,160,0,Sem parada,75.0
+16/01/2025,January 2025,Thursday,M2,Fresadora,Tarde,João Pereira,185.0,180,0,Sem parada,82.2
+07/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,145.0,140,0,Sem parada,83.0
+22/04/2025,April 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,119.0,120,0,Sem parada,62.8
+28/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Noite,Carlos Silva,169.0,140,11,Falta de insumo,96.2
+26/03/2025,March 2025,Wednesday,M5,Solda Robotica,Manhã,Pedro Santos,121.0,120,0,Sem parada,72.2
+14/02/2025,February 2025,Friday,M4,Injetora,Noite,Ana Souza,184.0,200,0,Sem parada,94.8
+31/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Noite,João Pereira,111.0,140,43,Falha mecânica,84.4
+14/04/2025,April 2025,Monday,M1,Torno CNC,Noite,Pedro Santos,162.0,160,0,Sem parada,71.7
+07/04/2025,April 2025,Monday,M5,Solda Robotica,Manhã,Maria Lima,122.0,120,0,Sem parada,67.1
+25/02/2025,February 2025,Tuesday,M1,Torno CNC,Noite,Carlos Silva,150.0,160,0,Sem parada,73.6
+12/03/2025,March 2025,Wednesday,M1,Torno CNC,Manhã,João Pereira,155.0,160,42,Manutenção preventiva,72.2
+03/03/2025,March 2025,Monday,M5,Solda Robotica,Manhã,João Pereira,120.0,120,0,Sem parada,63.4
+22/01/2025,January 2025,Wednesday,M4,Injetora,Manhã,João Pereira,191.0,200,0,Sem parada,92.1
+10/03/2025,March 2025,Monday,M5,Solda Robotica,Manhã,Pedro Santos,114.0,120,0,Sem parada,72.9
+30/06/2025,June 2025,Monday,M2,Fresadora,Manhã,Pedro Santos,195.0,180,0,Sem parada,82.7
+28/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Maria Lima,134.0,140,0,Sem parada,86.5
+18/04/2025,April 2025,Friday,M1,Torno CNC,Tarde,Maria Lima,162.0,160,0,Sem parada,77.5
+13/05/2025,May 2025,Tuesday,M4,Injetora,Noite,Carlos Silva,223.0,200,0,Sem parada,89.2
+08/05/2025,May 2025,Thursday,M4,Injetora,Noite,Maria Lima,192.0,200,0,Sem parada,94.2
+13/06/2025,June 2025,Friday,M2,Fresadora,Tarde,Pedro Santos,198.0,180,0,Sem parada,73.9
+28/03/2025,March 2025,Friday,M2,Fresadora,Tarde,Maria Lima,164.0,180,0,Sem parada,82.9
+23/04/2025,April 2025,Wednesday,M4,Injetora,Manhã,Ana Souza,206.0,200,0,Sem parada,88.4
+10/04/2025,April 2025,Thursday,M1,Torno CNC,Manhã,João Pereira,165.0,160,0,Sem parada,75.1
+10/01/2025,January 2025,Friday,M2,Fresadora,Manhã,Maria Lima,168.0,180,0,Sem parada,83.8
+20/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,,140,59,Falha mecânica,85.2
+21/02/2025,February 2025,Friday,M5,Solda Robotica,Tarde,Ana Souza,119.0,120,43,Falha mecânica,63.9
+18/04/2025,April 2025,Friday,M5,Solda Robotica,Manhã,Maria Lima,128.0,120,0,Sem parada,72.9
+21/04/2025,April 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,189.0,180,0,Sem parada,83.0
+25/03/2025,March 2025,Tuesday,M2,Fresadora,Noite,João Pereira,159.0,180,0,Sem parada,84.6
+31/03/2025,March 2025,Monday,M1,Torno CNC,Noite,Maria Lima,158.0,160,0,Sem parada,73.1
+08/04/2025,April 2025,Tuesday,M5,Solda Robotica,Tarde,João Pereira,113.0,120,49,Manutenção preventiva,64.6
+01/05/2025,May 2025,Thursday,M5,Solda Robotica,Noite,Ana Souza,128.0,120,0,Sem parada,76.4
+05/05/2025,May 2025,Monday,M2,Fresadora,Manhã,Maria Lima,168.0,180,16,Setup de máquina,78.0
+27/05/2025,May 2025,Tuesday,M2,Fresadora,Manhã,Pedro Santos,152.0,180,0,Sem parada,91.6
+24/03/2025,March 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,121.0,120,0,Sem parada,72.8
+02/06/2025,June 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,138.0,160,0,Sem parada,80.3
+20/03/2025,March 2025,Thursday,M4,Injetora,Tarde,Pedro Santos,201.0,200,9,Setup de máquina,97.4
+10/03/2025,March 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,108.0,120,0,Sem parada,72.2
+07/03/2025,March 2025,Friday,M5,Solda Robotica,Manhã,João Pereira,118.0,120,0,Sem parada,71.4
+12/02/2025,February 2025,Wednesday,M2,Fresadora,Tarde,Maria Lima,189.0,180,0,Sem parada,95.8
+24/01/2025,January 2025,Friday,M4,Injetora,Manhã,João Pereira,204.0,200,0,Sem parada,90.5
+08/01/2025,January 2025,Wednesday,M1,Torno CNC,Manhã,Carlos Silva,163.0,160,0,Sem parada,76.7
+30/05/2025,May 2025,Friday,M1,Torno CNC,Tarde,Ana Souza,181.0,160,0,Sem parada,82.6
+11/02/2025,February 2025,Tuesday,M4,Injetora,Manhã,João Pereira,209.0,200,-5,Sem parada,100.5
+06/02/2025,February 2025,Thursday,M2,Fresadora,Noite,Maria Lima,180.0,180,14,Falta de insumo,86.0
+16/01/2025,January 2025,Thursday,M4,Injetora,Noite,João Pereira,213.0,200,0,Sem parada,94.2
+08/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Pedro Santos,133.0,140,0,Sem parada,83.9
+06/06/2025,June 2025,Friday,M1,Torno CNC,Manhã,Maria Lima,145.0,160,0,Sem parada,66.6
+07/05/2025,May 2025,Wednesday,M2,Fresadora,Manhã,João Pereira,182.0,180,0,Sem parada,85.1
+27/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Noite,Maria Lima,126.0,140,0,Sem parada,92.4
+25/02/2025,February 2025,Tuesday,M4,Injetora,Tarde,Maria Lima,201.0,200,0,Sem parada,88.3
+07/01/2025,January 2025,Tuesday,M1,Torno CNC,Tarde,Maria Lima,177.0,160,0,Sem parada,68.0
+01/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Manhã,Pedro Santos,139.0,140,0,Sem parada,90.3
+24/03/2025,March 2025,Monday,M1,Torno CNC,Noite,Carlos Silva,144.0,160,11,Falha mecânica,76.2
+15/05/2025,May 2025,Thursday,M1,Torno CNC,Tarde,Pedro Santos,152.0,160,0,Sem parada,77.3
+19/06/2025,June 2025,Thursday,M1,Torno CNC,Noite,Pedro Santos,165.0,160,0,Sem parada,76.3
+27/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Noite,Maria Lima,134.0,140,0,Sem parada,87.8
+03/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Manhã,João Pereira,136.0,140,9,Manutenção preventiva,97.8
+16/05/2025,May 2025,Friday,M5,Solda Robotica,Manhã,Maria Lima,128.0,120,0,Sem parada,77.4
+04/03/2025,March 2025,Tuesday,M1,Torno CNC,Noite,João Pereira,160.0,160,0,Sem parada,65.1
+12/06/2025,June 2025,Thursday,M4,Injetora,Manhã,Pedro Santos,197.0,200,0,Sem parada,93.2
+23/05/2025,May 2025,Friday,M1,Torno CNC,Tarde,Pedro Santos,158.0,160,0,Sem parada,72.4
+02/04/2025,April 2025,Wednesday,M1,Torno CNC,Noite,João Pereira,152.0,160,0,Sem parada,81.9
+22/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Manhã,Pedro Santos,133.0,140,0,Sem parada,91.1
+11/03/2025,March 2025,Tuesday,M2,Fresadora,Manhã,Maria Lima,178.0,180,0,Sem parada,87.1
+17/01/2025,January 2025,Friday,M4,Injetora,Noite,Maria Lima,166.0,200,0,Sem parada,92.4
+27/03/2025,March 2025,Thursday,M2,Fresadora,Tarde,Maria Lima,179.0,180,0,Sem parada,84.0
+12/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Pedro Santos,142.0,140,0,Sem parada,97.9
+05/03/2025,March 2025,Wednesday,M1,Torno CNC,Manhã,Carlos Silva,145.0,160,0,Sem parada,106.0
+12/03/2025,March 2025,Wednesday,M4,Injetora,Tarde,Carlos Silva,219.0,200,0,Sem parada,97.9
+19/06/2025,June 2025,Thursday,M5,Solda Robotica,Noite,Ana Souza,121.0,120,0,Sem parada,81.1
+26/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Tarde,Ana Souza,131.0,140,0,Sem parada,91.8
+10/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Noite,Ana Souza,148.0,140,0,Sem parada,91.9
+07/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Tarde,João Pereira,135.0,140,0,Sem parada,97.3
+14/04/2025,April 2025,Monday,M2,Fresadora,Manhã,Pedro Santos,186.0,180,0,Sem parada,85.1
+19/03/2025,March 2025,Wednesday,M1,Torno CNC,Manhã,Carlos Silva,167.0,160,0,Sem parada,76.6
+15/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Noite,Carlos Silva,116.0,140,0,Sem parada,98.6
+27/02/2025,February 2025,Thursday,M1,Torno CNC,Tarde,Maria Lima,158.0,160,0,Sem parada,87.9
+10/01/2025,January 2025,Friday,M4,Injetora,Manhã,Pedro Santos,,200,0,Sem parada,98.4
+07/02/2025,February 2025,Friday,M5,Solda Robotica,Manhã,João Pereira,119.0,120,0,Sem parada,71.2
+23/06/2025,June 2025,Monday,M1,Torno CNC,Noite,Pedro Santos,171.0,160,0,Sem parada,73.4
+01/04/2025,April 2025,Tuesday,M4,Injetora,Manhã,Carlos Silva,217.0,200,0,Sem parada,95.5
+26/02/2025,February 2025,Wednesday,M2,Fresadora,Tarde,João Pereira,159.0,180,0,Sem parada,93.7
+23/06/2025,June 2025,Monday,M4,Injetora,Manhã,Pedro Santos,206.0,200,0,Sem parada,95.2
+08/01/2025,January 2025,Wednesday,M5,Solda Robotica,Noite,Pedro Santos,105.0,120,49,Falha mecânica,83.6
+20/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Noite,Pedro Santos,128.0,140,0,Sem parada,86.6
+19/05/2025,May 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,168.0,160,0,Sem parada,74.0
+23/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Noite,João Pereira,134.0,140,0,Sem parada,96.8
+12/03/2025,March 2025,Wednesday,M2,Fresadora,Manhã,Pedro Santos,190.0,180,0,Sem parada,89.8
+17/02/2025,February 2025,Monday,M2,Fresadora,Manhã,Pedro Santos,205.0,180,0,Sem parada,88.2
+30/04/2025,April 2025,Wednesday,M1,Torno CNC,Tarde,Pedro Santos,183.0,160,0,Sem parada,76.9
+05/05/2025,May 2025,Monday,M2,Fresadora,Noite,Ana Souza,166.0,180,0,Sem parada,92.6
+01/01/2025,January 2025,Wednesday,M4,Injetora,Noite,Maria Lima,201.0,200,0,Sem parada,87.9
+06/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Manhã,João Pereira,143.0,140,0,Sem parada,83.6
+27/01/2025,January 2025,Monday,M5,Solda Robotica,Noite,Maria Lima,102.0,120,0,Sem parada,68.2
+10/04/2025,April 2025,Thursday,M1,Torno CNC,Tarde,Carlos Silva,168.0,160,0,Sem parada,78.0
+22/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Maria Lima,143.0,140,0,Sem parada,89.8
+06/06/2025,June 2025,Friday,M4,Injetora,Manhã,Ana Souza,208.0,200,0,Sem parada,91.4
+06/03/2025,March 2025,Thursday,M1,Torno CNC,Manhã,Maria Lima,168.0,160,0,Sem parada,72.6
+28/05/2025,May 2025,Wednesday,M2,Fresadora,Noite,João Pereira,171.0,180,0,Sem parada,87.3
+18/06/2025,June 2025,Wednesday,M5,Solda Robotica,Noite,João Pereira,105.0,120,0,Sem parada,66.8
+05/03/2025,March 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,114.0,120,0,Sem parada,79.1
+20/03/2025,March 2025,Thursday,M4,Injetora,Noite,Pedro Santos,210.0,200,0,Sem parada,100.5
+15/01/2025,January 2025,Wednesday,M4,Injetora,Manhã,Pedro Santos,180.0,200,57,Manutenção preventiva,94.3
+25/03/2025,March 2025,Tuesday,M4,Injetora,Tarde,Maria Lima,169.0,200,0,Sem parada,95.6
+22/05/2025,May 2025,Thursday,M4,Injetora,Tarde,,178.0,200,0,Sem parada,91.5
+24/01/2025,January 2025,Friday,M1,Torno CNC,Noite,Pedro Santos,152.0,160,0,Sem parada,78.8
+31/01/2025,January 2025,Friday,M2,Fresadora,Noite,Carlos Silva,197.0,180,0,Sem parada,74.6
+19/06/2025,June 2025,Thursday,M2,Fresadora,Manhã,Carlos Silva,175.0,180,0,Sem parada,86.9
+08/04/2025,April 2025,Tuesday,M2,Fresadora,Tarde,Ana Souza,177.0,180,0,Sem parada,82.7
+18/02/2025,February 2025,Tuesday,M2,Fresadora,Noite,João Pereira,176.0,180,0,Sem parada,76.7
+06/05/2025,May 2025,Tuesday,M5,Solda Robotica,Tarde,Carlos Silva,121.0,120,31,Manutenção preventiva,63.4
+04/04/2025,April 2025,Friday,M4,Injetora,Tarde,Carlos Silva,212.0,200,0,Sem parada,90.1
+13/03/2025,March 2025,Thursday,M2,Fresadora,Manhã,Ana Souza,187.0,180,0,Sem parada,82.3
+06/06/2025,June 2025,Friday,M4,Injetora,Noite,Maria Lima,203.0,200,0,Sem parada,100.1
+12/03/2025,March 2025,Wednesday,M4,Injetora,Noite,Pedro Santos,196.0,200,0,Sem parada,90.2
+28/04/2025,April 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,146.0,160,21,Falha mecânica,82.2
+23/04/2025,April 2025,Wednesday,M2,Fresadora,Manhã,João Pereira,161.0,180,0,Sem parada,89.1
+13/05/2025,May 2025,Tuesday,M4,Injetora,Manhã,Maria Lima,235.0,200,0,Sem parada,94.2
+27/06/2025,June 2025,Friday,M5,Solda Robotica,Tarde,João Pereira,131.0,120,0,Sem parada,71.9
+18/02/2025,February 2025,Tuesday,M4,Injetora,Noite,Pedro Santos,217.0,200,0,Sem parada,94.8
+02/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,123.0,140,0,Sem parada,86.4
+03/02/2025,February 2025,Monday,M4,Injetora,Noite,Pedro Santos,172.0,200,48,Manutenção preventiva,97.0
+30/04/2025,April 2025,Wednesday,M1,Torno CNC,Noite,Ana Souza,148.0,160,0,Sem parada,77.7
+02/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Tarde,Maria Lima,144.0,140,0,Sem parada,85.7
+02/06/2025,June 2025,Monday,M4,Injetora,Tarde,Pedro Santos,196.0,200,0,Sem parada,95.2
+31/01/2025,January 2025,Friday,M4,Injetora,Tarde,Maria Lima,211.0,200,0,Sem parada,89.4
+10/02/2025,February 2025,Monday,M4,Injetora,Noite,João Pereira,224.0,200,0,Sem parada,104.0
+13/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Noite,Ana Souza,122.0,140,0,Sem parada,86.5
+21/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Tarde,João Pereira,156.0,140,0,Sem parada,90.4
+26/03/2025,March 2025,Wednesday,M4,Injetora,Noite,Pedro Santos,196.0,200,0,Sem parada,91.7
+24/04/2025,April 2025,Thursday,M5,Solda Robotica,Manhã,Carlos Silva,126.0,120,0,Sem parada,77.4
+26/05/2025,May 2025,Monday,M1,Torno CNC,Tarde,Ana Souza,144.0,160,42,Falta de insumo,77.1
+04/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Manhã,João Pereira,155.0,140,0,Sem parada,83.5
+25/06/2025,June 2025,Wednesday,M4,Injetora,Manhã,Pedro Santos,210.0,200,0,Sem parada,92.2
+09/01/2025,January 2025,Thursday,M2,Fresadora,Manhã,João Pereira,186.0,180,0,Sem parada,84.6
+04/04/2025,April 2025,Friday,M2,Fresadora,Manhã,João Pereira,176.0,180,0,Sem parada,75.0
+10/04/2025,April 2025,Thursday,M2,Fresadora,Noite,Maria Lima,182.0,180,0,Sem parada,85.3
+11/04/2025,April 2025,Friday,M5,Solda Robotica,Manhã,Ana Souza,98.0,120,0,Sem parada,77.7
+23/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Noite,Pedro Santos,143.0,140,17,Setup de máquina,92.8
+02/05/2025,May 2025,Friday,M2,Fresadora,Manhã,Maria Lima,169.0,180,0,Sem parada,85.4
+06/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Manhã,Carlos Silva,162.0,140,0,Sem parada,90.7
+11/06/2025,June 2025,Wednesday,M4,Injetora,Noite,Pedro Santos,200.0,200,0,Sem parada,89.7
+03/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Manhã,Pedro Santos,153.0,140,0,Sem parada,93.5
+15/01/2025,January 2025,Wednesday,M2,Fresadora,Manhã,Ana Souza,198.0,180,0,Sem parada,82.0
+14/04/2025,April 2025,Monday,M2,Fresadora,Tarde,Pedro Santos,170.0,180,0,Sem parada,87.4
+05/06/2025,June 2025,Thursday,M1,Torno CNC,Manhã,Ana Souza,171.0,160,0,Sem parada,67.3
+30/06/2025,June 2025,Monday,M5,Solda Robotica,Manhã,João Pereira,116.0,120,0,Sem parada,36.4
+14/03/2025,March 2025,Friday,M4,Injetora,Manhã,Maria Lima,188.0,200,0,Sem parada,90.9
+24/02/2025,February 2025,Monday,M4,Injetora,Tarde,Ana Souza,160.0,200,0,Sem parada,106.5
+06/03/2025,March 2025,Thursday,M5,Solda Robotica,Tarde,Ana Souza,106.0,120,0,Sem parada,77.5
+23/04/2025,April 2025,Wednesday,m5,Solda Robotica,Manhã,Pedro Santos,103.0,120,7,Setup de máquina,72.6
+01/05/2025,May 2025,Thursday,M2,Fresadora,Noite,Pedro Santos,194.0,180,8,Falha mecânica,82.7
+30/05/2025,May 2025,Friday,M4,Injetora,Manhã,Pedro Santos,212.0,200,0,Sem parada,94.8
+29/04/2025,April 2025,Tuesday,M1,Torno CNC,Manhã,João Pereira,162.0,160,0,Sem parada,89.9
+14/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Tarde,Carlos Silva,135.0,140,0,Sem parada,80.6
+21/02/2025,February 2025,Friday,M2,Fresadora,Tarde,Carlos Silva,182.0,180,0,Sem parada,90.3
+17/04/2025,April 2025,Thursday,M1,Torno CNC,Tarde,Maria Lima,175.0,160,0,Sem parada,70.1
+15/04/2025,April 2025,Tuesday,M4,Injetora,Manhã,Ana Souza,176.0,200,43,Setup de máquina,98.4
+17/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Manhã,Maria Lima,,140,0,Sem parada,86.0
+18/02/2025,February 2025,Tuesday,M1,Torno CNC,Noite,Ana Souza,182.0,160,0,Sem parada,77.2
+28/02/2025,February 2025,Friday,M2,Fresadora,Manhã,Carlos Silva,178.0,180,0,Sem parada,80.5
+12/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Tarde,João Pereira,145.0,140,0,Sem parada,99.7
+11/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Ana Souza,141.0,140,0,Sem parada,95.1
+09/06/2025,June 2025,Monday,M1,Torno CNC,Noite,Maria Lima,185.0,160,0,Sem parada,68.1
+17/04/2025,April 2025,Thursday,M4,Injetora,Tarde,Pedro Santos,216.0,200,0,Sem parada,90.0
+14/03/2025,March 2025,Friday,M4,Injetora,Tarde,Maria Lima,203.0,200,0,Sem parada,100.7
+10/01/2025,January 2025,Friday,M4,Injetora,Noite,Ana Souza,192.0,200,20,Setup de máquina,91.7
+11/03/2025,March 2025,Tuesday,M2,Fresadora,Noite,Maria Lima,190.0,180,0,Sem parada,83.1
+03/06/2025,June 2025,Tuesday,M1,Torno CNC,Noite,João Pereira,148.0,160,0,Sem parada,81.8
+11/04/2025,April 2025,Friday,M1,Torno CNC,Tarde,Ana Souza,166.0,160,0,Sem parada,80.7
+19/03/2025,March 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,198.0,180,0,Sem parada,84.4
+10/01/2025,January 2025,Friday,M5,Solda Robotica,Noite,Maria Lima,110.0,120,14,Manutenção preventiva,74.3
+03/03/2025,March 2025,Monday,M4,Injetora,Noite,Maria Lima,222.0,200,0,Sem parada,97.8
+20/06/2025,June 2025,Friday,M5,Solda Robotica,Noite,Carlos Silva,132.0,120,0,Sem parada,69.2
+28/02/2025,February 2025,Friday,M2,Fresadora,Noite,Carlos Silva,195.0,180,0,Sem parada,88.0
+04/02/2025,February 2025,Tuesday,M4,Injetora,Manhã,João Pereira,226.0,200,0,Sem parada,100.1
+24/01/2025,January 2025,Friday,M5,Solda Robotica,Tarde,João Pereira,111.0,120,0,Sem parada,68.1
+03/03/2025,March 2025,Monday,M4,Injetora,Tarde,João Pereira,199.0,200,0,Sem parada,99.1
+28/03/2025,March 2025,Friday,M2,Fresadora,Noite,Ana Souza,164.0,180,0,Sem parada,83.9
+18/03/2025,March 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,107.0,120,9,Setup de máquina,72.1
+21/03/2025,March 2025,Friday,M4,Injetora,Noite,Ana Souza,199.0,200,0,Sem parada,93.5
+06/01/2025,January 2025,Monday,M1,Torno CNC,Tarde,João Pereira,151.0,160,0,Sem parada,73.4
+08/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Noite,Maria Lima,142.0,140,0,Sem parada,84.2
+04/06/2025,June 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,162.0,180,0,Sem parada,87.2
+03/04/2025,April 2025,Thursday,M1,Torno CNC,Tarde,João Pereira,150.0,160,5,Falta de insumo,79.3
+24/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Manhã,Maria Lima,132.0,140,0,Sem parada,80.8
+13/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Noite,João Pereira,128.0,140,0,Sem parada,91.5
+24/04/2025,April 2025,Thursday,M2,Fresadora,Tarde,Ana Souza,173.0,180,0,Sem parada,77.0
+30/06/2025,June 2025,Monday,M5,Solda Robotica,Noite,Maria Lima,121.0,120,0,Sem parada,75.0
+01/01/2025,January 2025,Wednesday,M2,Fresadora,Tarde,João Pereira,173.0,180,0,Sem parada,87.7
+03/04/2025,April 2025,Thursday,M5,Solda Robotica,Tarde,Maria Lima,120.0,120,0,Sem parada,65.9
+05/06/2025,June 2025,Thursday,M2,Fresadora,Manhã,João Pereira,160.0,180,0,Sem parada,84.3
+24/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Noite,Pedro Santos,121.0,140,0,Sem parada,90.2
+22/05/2025,May 2025,Thursday,M2,Fresadora,Tarde,Carlos Silva,166.0,180,0,Sem parada,84.0
+19/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,130.0,140,0,Sem parada,84.4
+11/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Noite,Pedro Santos,146.0,140,0,Sem parada,88.2
+03/04/2025,April 2025,Thursday,M5,Solda Robotica,Manhã,Pedro Santos,101.0,120,0,Sem parada,71.1
+10/04/2025,April 2025,Thursday,M5,Solda Robotica,Manhã,Ana Souza,107.0,120,0,Sem parada,66.9
+19/03/2025,March 2025,Wednesday,M5,Solda Robotica,Manhã,Pedro Santos,121.0,120,50,Falta de insumo,68.4
+11/06/2025,June 2025,Wednesday,M4,Injetora,Manhã,João Pereira,192.0,200,0,Sem parada,93.9
+29/01/2025,January 2025,Wednesday,M2,Fresadora,Tarde,João Pereira,154.0,180,0,Sem parada,92.5
+08/05/2025,May 2025,Thursday,M1,Torno CNC,Manhã,Maria Lima,175.0,160,0,Sem parada,83.4
+21/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Ana Souza,133.0,140,0,Sem parada,95.2
+29/01/2025,January 2025,Wednesday,M5,Solda Robotica,Tarde,Maria Lima,110.0,120,0,Sem parada,69.4
+14/01/2025,January 2025,Tuesday,M5,Solda Robotica,Noite,Pedro Santos,127.0,120,0,Sem parada,73.1
+17/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Noite,Ana Souza,130.0,140,47,Setup de máquina,97.0
+23/04/2025,April 2025,Wednesday,M5,Solda Robotica,Tarde,João Pereira,,120,0,Sem parada,69.7
+24/02/2025,February 2025,Monday,M2,Fresadora,Tarde,João Pereira,202.0,180,0,Sem parada,80.8
+06/01/2025,January 2025,Monday,M2,Fresadora,Noite,João Pereira,159.0,180,0,Sem parada,82.9
+21/05/2025,May 2025,Wednesday,M1,Torno CNC,Noite,Ana Souza,,160,0,Sem parada,68.3
+10/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Manhã,Ana Souza,132.0,140,33,Manutenção preventiva,103.0
+19/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Noite,Carlos Silva,128.0,140,0,Sem parada,87.5
+08/05/2025,May 2025,Thursday,M5,Solda Robotica,Manhã,Ana Souza,119.0,120,0,Sem parada,67.7
+15/04/2025,April 2025,Tuesday,M2,Fresadora,Noite,Ana Souza,170.0,180,0,Sem parada,89.0
+18/04/2025,April 2025,Friday,M4,Injetora,Noite,Carlos Silva,175.0,200,0,Sem parada,93.2
+13/02/2025,February 2025,Thursday,M2,Fresadora,Noite,Carlos Silva,161.0,180,0,Sem parada,89.4
+01/04/2025,April 2025,Tuesday,M4,Injetora,Noite,Pedro Santos,180.0,200,57,Setup de máquina,93.3
+03/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Noite,Maria Lima,135.0,140,15,Falha mecânica,90.0
+06/02/2025,February 2025,Thursday,M4,Injetora,Manhã,Pedro Santos,200.0,200,0,Sem parada,95.1
+18/02/2025,February 2025,Tuesday,M1,Torno CNC,Tarde,Pedro Santos,140.0,160,58,Setup de máquina,85.7
+30/01/2025,January 2025,Thursday,M2,Fresadora,Noite,Pedro Santos,175.0,180,0,Sem parada,93.3
+02/01/2025,January 2025,Thursday,M2,Fresadora,Tarde,Pedro Santos,160.0,180,0,Sem parada,86.0
+05/03/2025,March 2025,Wednesday,M4,Injetora,Manhã,João Pereira,192.0,200,0,Sem parada,90.6
+03/01/2025,January 2025,Friday,M2,Fresadora,Noite,João Pereira,185.0,180,0,Sem parada,92.7
+26/03/2025,March 2025,Wednesday,M1,Torno CNC,Noite,Maria Lima,136.0,160,0,Sem parada,67.1
+19/03/2025,March 2025,Wednesday,M1,Torno CNC,Noite,Ana Souza,164.0,160,0,Sem parada,73.5
+12/06/2025,June 2025,Thursday,M1,Torno CNC,Manhã,Carlos Silva,156.0,160,0,Sem parada,62.0
+07/02/2025,February 2025,Friday,M1,Torno CNC,Noite,Maria Lima,173.0,160,0,Sem parada,67.6
+27/03/2025,March 2025,Thursday,M2,Fresadora,Noite,Maria Lima,178.0,180,0,Sem parada,75.6
+19/02/2025,February 2025,Wednesday,M5,Solda Robotica,Manhã,Carlos Silva,129.0,120,0,Sem parada,67.5
+12/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Noite,Pedro Santos,156.0,140,0,Sem parada,93.2
+09/04/2025,April 2025,Wednesday,M5,Solda Robotica,Manhã,Pedro Santos,113.0,120,28,Manutenção preventiva,72.7
+22/04/2025,April 2025,Tuesday,m5,Solda Robotica,Noite,Pedro Santos,121.0,120,0,Sem parada,70.3
+23/01/2025,January 2025,Thursday,M2,Fresadora,Noite,Pedro Santos,179.0,180,0,Sem parada,92.4
+13/05/2025,May 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Ana Souza,157.0,140,0,Sem parada,88.6
+16/04/2025,April 2025,Wednesday,M1,Torno CNC,Noite,Maria Lima,143.0,160,0,Sem parada,76.8
+14/03/2025,March 2025,Friday,M2,Fresadora,Tarde,Carlos Silva,157.0,180,0,Sem parada,82.4
+27/06/2025,June 2025,Friday,M4,Injetora,Noite,Carlos Silva,216.0,200,0,Sem parada,87.9
+14/02/2025,February 2025,Friday,M4,Injetora,Manhã,João Pereira,174.0,200,0,Sem parada,98.8
+15/01/2025,January 2025,Wednesday,M2,Fresadora,Tarde,João Pereira,187.0,180,0,Sem parada,84.0
+01/04/2025,April 2025,Tuesday,M1,Torno CNC,Tarde,Maria Lima,146.0,160,0,Sem parada,76.2
+20/03/2025,March 2025,Thursday,M5,Solda Robotica,Tarde,Maria Lima,126.0,120,0,Sem parada,79.5
+02/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Manhã,João Pereira,140.0,140,0,Sem parada,97.1
+27/02/2025,February 2025,Thursday,M4,Injetora,Tarde,Carlos Silva,205.0,200,0,Sem parada,99.2
+05/03/2025,March 2025,Wednesday,M4,Injetora,Tarde,Pedro Santos,197.0,200,0,Sem parada,103.6
+21/05/2025,May 2025,Wednesday,M4,Injetora,Noite,Pedro Santos,193.0,200,0,Sem parada,100.8
+21/02/2025,February 2025,Friday,M5,Solda Robotica,Noite,João Pereira,114.0,120,43,Manutenção preventiva,73.5
+23/06/2025,June 2025,Monday,M1,Torno CNC,Manhã,,166.0,160,0,Sem parada,79.2
+02/01/2025,January 2025,Thursday,M1,Torno CNC,Noite,Ana Souza,170.0,160,0,Sem parada,108.9
+13/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Tarde,João Pereira,122.0,140,0,Sem parada,87.6
+06/05/2025,May 2025,Tuesday,M4,Injetora,Noite,Ana Souza,199.0,200,0,Sem parada,94.3
+30/04/2025,April 2025,Wednesday,M2,Fresadora,Tarde,Ana Souza,184.0,180,0,Sem parada,89.6
+26/06/2025,June 2025,Thursday,M5,Solda Robotica,Tarde,Carlos Silva,120.0,120,0,Sem parada,60.2
+27/03/2025,March 2025,Thursday,M5,Solda Robotica,Manhã,Pedro Santos,129.0,120,0,Sem parada,66.6
+02/04/2025,April 2025,Wednesday,M2,Fresadora,Noite,Pedro Santos,179.0,180,0,Sem parada,86.4
+26/06/2025,June 2025,Thursday,M4,Injetora,Manhã,João Pereira,184.0,200,0,Sem parada,89.9
+17/01/2025,January 2025,Friday,M4,Injetora,Tarde,Maria Lima,186.0,200,0,Sem parada,92.0
+16/04/2025,April 2025,Wednesday,M5,Solda Robotica,Noite,Carlos Silva,126.0,120,0,Sem parada,72.3
+03/04/2025,April 2025,Thursday,M1,Torno CNC,Noite,Pedro Santos,172.0,160,0,Sem parada,77.6
+26/06/2025,June 2025,Thursday,M1,Torno CNC,Manhã,Maria Lima,158.0,160,0,Sem parada,73.4
+30/05/2025,May 2025,Friday,M1,Torno CNC,Manhã,Carlos Silva,175.0,160,0,Sem parada,69.1
+26/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Manhã,João Pereira,131.0,140,0,Sem parada,94.5
+17/01/2025,January 2025,Friday,M1,Torno CNC,Manhã,Carlos Silva,166.0,160,0,Sem parada,82.7
+29/01/2025,January 2025,Wednesday,M1,Torno CNC,Tarde,Carlos Silva,171.0,160,0,Sem parada,51.8
+17/02/2025,February 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,156.0,160,0,Sem parada,71.6
+03/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,122.0,140,0,Sem parada,97.5
+04/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Ana Souza,163.0,140,0,Sem parada,84.9
+30/05/2025,May 2025,Friday,M2,Fresadora,Noite,Pedro Santos,164.0,180,0,Sem parada,88.8
+28/05/2025,May 2025,Wednesday,M5,Solda Robotica,Manhã,Carlos Silva,110.0,120,0,Sem parada,66.2
+18/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Maria Lima,134.0,140,0,Sem parada,97.9
+27/06/2025,June 2025,Friday,M5,Solda Robotica,Noite,João Pereira,110.0,120,0,Sem parada,68.4
+10/04/2025,April 2025,Thursday,M2,Fresadora,Tarde,Pedro Santos,149.0,180,36,Falha mecânica,77.7
+13/02/2025,February 2025,Thursday,M4,Injetora,Noite,Pedro Santos,179.0,200,0,Sem parada,102.2
+15/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,140.0,140,43,Falta de insumo,90.1
+25/04/2025,April 2025,Friday,M5,Solda Robotica,Tarde,Pedro Santos,110.0,120,25,Manutenção preventiva,69.8
+22/04/2025,April 2025,Tuesday,M4,Injetora,Tarde,João Pereira,170.0,200,0,Sem parada,90.4
+02/01/2025,January 2025,Thursday,M1,Torno CNC,Tarde,João Pereira,142.0,160,53,Falha mecânica,69.7
+23/05/2025,May 2025,Friday,M2,Fresadora,Noite,Pedro Santos,161.0,180,0,Sem parada,93.5
+10/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,137.0,140,0,Sem parada,97.4
+27/06/2025,June 2025,Friday,M1,Torno CNC,Tarde,João Pereira,149.0,160,0,Sem parada,75.5
+20/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Manhã,Carlos Silva,135.0,140,40,Setup de máquina,90.3
+23/05/2025,May 2025,Friday,M4,Injetora,Manhã,Ana Souza,203.0,200,0,Sem parada,93.8
+03/03/2025,March 2025,Monday,M5,Solda Robotica,Tarde,João Pereira,101.0,120,37,Falha mecânica,68.5
+28/05/2025,May 2025,Wednesday,M1,Torno CNC,Manhã,Ana Souza,170.0,160,0,Sem parada,73.2
+04/04/2025,April 2025,Friday,M5,Solda Robotica,Noite,Pedro Santos,115.0,120,16,Manutenção preventiva,61.2
+30/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Manhã,Pedro Santos,155.0,140,0,Sem parada,93.5
+21/05/2025,May 2025,Wednesday,M2,Fresadora,Tarde,Ana Souza,195.0,180,0,Sem parada,82.6
+31/03/2025,March 2025,Monday,M5,Solda Robotica,Noite,João Pereira,118.0,120,0,Sem parada,67.6
+19/06/2025,June 2025,Thursday,M2,Fresadora,Noite,Pedro Santos,172.0,180,0,Sem parada,84.1
+27/01/2025,January 2025,Monday,M5,Solda Robotica,Tarde,Carlos Silva,100.0,120,0,Sem parada,65.0
+17/03/2025,March 2025,Monday,M1,Torno CNC,Noite,Ana Souza,129.0,160,0,Sem parada,70.0
+28/05/2025,May 2025,Wednesday,M1,Torno CNC,Tarde,Carlos Silva,122.0,160,0,Sem parada,73.1
+22/01/2025,January 2025,Wednesday,M1,Torno CNC,Manhã,Pedro Santos,159.0,160,0,Sem parada,79.8
+02/01/2025,January 2025,Thursday,M4,Injetora,Noite,Maria Lima,189.0,200,0,Sem parada,98.1
+13/06/2025,June 2025,Friday,M1,Torno CNC,Tarde,Pedro Santos,181.0,160,0,Sem parada,66.3
+11/02/2025,February 2025,Tuesday,M1,Torno CNC,Noite,Maria Lima,159.0,160,0,Sem parada,84.0
+25/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Noite,João Pereira,129.0,140,0,Sem parada,96.5
+09/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Noite,Maria Lima,137.0,140,-3,Sem parada,88.8
+22/01/2025,January 2025,Wednesday,M2,Fresadora,Tarde,Pedro Santos,172.0,180,0,Sem parada,79.0
+03/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Tarde,João Pereira,110.0,140,0,Sem parada,94.1
+11/03/2025,March 2025,Tuesday,M5,Solda Robotica,Noite,João Pereira,129.0,120,0,Sem parada,73.0
+08/04/2025,April 2025,Tuesday,M4,Injetora,Tarde,Carlos Silva,205.0,200,0,Sem parada,96.5
+12/05/2025,May 2025,Monday,M2,Fresadora,Manhã,Carlos Silva,188.0,180,0,Sem parada,76.1
+13/02/2025,February 2025,Thursday,M2,Fresadora,Tarde,João Pereira,183.0,180,0,Sem parada,82.2
+03/06/2025,June 2025,Tuesday,M2,Fresadora,Tarde,Ana Souza,181.0,180,0,Sem parada,87.8
+26/06/2025,June 2025,Thursday,M5,Solda Robotica,Manhã,Pedro Santos,111.0,120,0,Sem parada,72.6
+05/03/2025,March 2025,Wednesday,M5,Solda Robotica,Manhã,João Pereira,134.0,120,0,Sem parada,69.0
+17/06/2025,June 2025,Tuesday,M1,Torno CNC,Manhã,Pedro Santos,156.0,160,0,Sem parada,81.6
+28/02/2025,February 2025,Friday,M4,Injetora,Manhã,Pedro Santos,203.0,200,0,Sem parada,93.5
+04/06/2025,June 2025,Wednesday,M4,Injetora,Manhã,Pedro Santos,217.0,200,0,Sem parada,106.6
+24/04/2025,April 2025,Thursday,M2,Fresadora,Manhã,Ana Souza,178.0,180,0,Sem parada,89.1
+18/04/2025,April 2025,Friday,M2,Fresadora,Manhã,João Pereira,192.0,180,0,Sem parada,81.9
+13/05/2025,May 2025,Tuesday,M2,Fresadora,Noite,Maria Lima,155.0,180,0,Sem parada,80.4
+22/05/2025,May 2025,Thursday,M5,Solda Robotica,Manhã,Maria Lima,136.0,120,0,Sem parada,65.7
+29/05/2025,May 2025,Thursday,M5,Solda Robotica,Noite,Maria Lima,128.0,120,-3,Sem parada,72.3
+01/05/2025,May 2025,Thursday,M4,Injetora,Tarde,Carlos Silva,150.0,200,54,Setup de máquina,98.1
+13/06/2025,June 2025,Friday,M4,Injetora,Tarde,Ana Souza,223.0,200,0,Sem parada,104.3
+17/03/2025,March 2025,Monday,M2,Fresadora,Noite,Pedro Santos,177.0,180,0,Sem parada,91.9
+15/01/2025,January 2025,Wednesday,M4,Injetora,Tarde,João Pereira,190.0,200,27,Manutenção preventiva,98.0
+31/03/2025,March 2025,Monday,M4,Injetora,Noite,Ana Souza,193.0,200,38,Manutenção preventiva,97.5
+22/04/2025,April 2025,Tuesday,M1,Torno CNC,Tarde,Carlos Silva,162.0,160,0,Sem parada,117.5
+18/03/2025,March 2025,Tuesday,M4,Injetora,Noite,Maria Lima,198.0,200,0,Sem parada,97.3
+02/06/2025,June 2025,Monday,M4,Injetora,Manhã,João Pereira,218.0,200,0,Sem parada,102.2
+24/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Tarde,Maria Lima,,140,28,Falha mecânica,96.9
+26/03/2025,March 2025,Wednesday,M5,Solda Robotica,Tarde,Ana Souza,102.0,120,33,Setup de máquina,77.1
+15/01/2025,January 2025,Wednesday,M1,Torno CNC,Noite,Pedro Santos,159.0,160,0,Sem parada,75.6
+16/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Noite,Ana Souza,147.0,140,-2,Sem parada,90.6
+10/06/2025,June 2025,Tuesday,M4,Injetora,Tarde,Maria Lima,202.0,200,0,Sem parada,91.9
+17/02/2025,February 2025,Monday,M5,Solda Robotica,Noite,Ana Souza,116.0,120,0,Sem parada,72.1
+16/04/2025,April 2025,Wednesday,M4,Injetora,Tarde,Ana Souza,205.0,200,0,Sem parada,92.6
+28/04/2025,April 2025,Monday,M2,Fresadora,Noite,Carlos Silva,188.0,180,0,Sem parada,89.8
+30/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Tarde,Carlos Silva,143.0,140,0,Sem parada,85.1
+09/01/2025,January 2025,Thursday,M5,Solda Robotica,Tarde,Pedro Santos,124.0,120,0,Sem parada,72.6
+15/05/2025,May 2025,Thursday,M2,Fresadora,Noite,Maria Lima,182.0,180,0,Sem parada,74.3
+15/05/2025,May 2025,Thursday,M2,Fresadora,Manhã,Ana Souza,172.0,180,0,Sem parada,91.9
+25/02/2025,February 2025,Tuesday,M1,Torno CNC,Tarde,Ana Souza,161.0,160,0,Sem parada,74.7
+10/06/2025,June 2025,Tuesday,M1,Torno CNC,Noite,Carlos Silva,137.0,160,0,Sem parada,80.3
+17/04/2025,April 2025,Thursday,M2,Fresadora,Manhã,Ana Souza,191.0,180,0,Sem parada,83.7
+06/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Noite,João Pereira,161.0,140,0,Sem parada,90.9
+15/01/2025,January 2025,Wednesday,M1,Torno CNC,Tarde,João Pereira,169.0,160,0,Sem parada,78.1
+06/02/2025,February 2025,Thursday,M5,Solda Robotica,Tarde,Pedro Santos,122.0,120,0,Sem parada,67.6
+25/06/2025,June 2025,Wednesday,M2,Fresadora,Manhã,Carlos Silva,181.0,180,0,Sem parada,95.2
+20/01/2025,January 2025,Monday,M5,Solda Robotica,Manhã,Carlos Silva,123.0,120,0,Sem parada,66.3
+20/06/2025,June 2025,Friday,M2,Fresadora,Manhã,Maria Lima,190.0,180,0,Sem parada,88.0
+15/04/2025,April 2025,Tuesday,m5,Solda Robotica,Manhã,Ana Souza,135.0,120,0,Sem parada,70.5
+06/06/2025,June 2025,Friday,M5,Solda Robotica,Noite,Carlos Silva,128.0,120,0,Sem parada,70.7
+01/01/2025,January 2025,Wednesday,M3,Prensa Hidráulica,Noite,Ana Souza,128.0,140,0,Sem parada,91.6
+04/04/2025,April 2025,Friday,M4,Injetora,Manhã,Carlos Silva,187.0,200,38,Falha mecânica,92.5
+11/06/2025,June 2025,Wednesday,M5,Solda Robotica,Noite,Ana Souza,131.0,120,0,Sem parada,76.9
+09/04/2025,April 2025,Wednesday,M4,Injetora,Tarde,Maria Lima,238.0,200,0,Sem parada,98.9
+12/02/2025,February 2025,Wednesday,M1,Torno CNC,Noite,João Pereira,162.0,160,0,Sem parada,75.2
+23/01/2025,January 2025,Thursday,M5,Solda Robotica,Tarde,João Pereira,114.0,120,0,Sem parada,65.7
+05/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Tarde,Maria Lima,132.0,140,0,Sem parada,94.3
+25/03/2025,March 2025,Tuesday,M4,Injetora,Noite,João Pereira,197.0,200,0,Sem parada,98.4
+12/06/2025,June 2025,Thursday,M2,Fresadora,Tarde,Carlos Silva,166.0,180,0,Sem parada,77.0
+24/03/2025,March 2025,Monday,M4,Injetora,Tarde,Maria Lima,226.0,200,0,Sem parada,98.7
+29/05/2025,May 2025,Thursday,M2,Fresadora,Noite,João Pereira,174.0,180,0,Sem parada,88.6
+19/06/2025,June 2025,Thursday,M5,Solda Robotica,Manhã,Pedro Santos,121.0,120,0,Sem parada,71.8
+27/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Noite,Carlos Silva,140.0,140,0,Sem parada,86.2
+03/02/2025,February 2025,Monday,M1,Torno CNC,Manhã,Pedro Santos,155.0,160,0,Sem parada,80.8
+03/06/2025,June 2025,Tuesday,M5,Solda Robotica,Noite,Pedro Santos,108.0,120,0,Sem parada,75.7
+24/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Tarde,João Pereira,130.0,140,5,Falta de insumo,81.0
+05/05/2025,May 2025,Monday,M1,Torno CNC,Tarde,Pedro Santos,149.0,160,0,Sem parada,71.7
+14/05/2025,May 2025,Wednesday,M5,Solda Robotica,Tarde,Ana Souza,111.0,120,0,Sem parada,66.7
+15/01/2025,January 2025,Wednesday,M1,Torno CNC,Manhã,Carlos Silva,149.0,160,0,Sem parada,72.2
+13/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,149.0,140,34,Falha mecânica,84.6
+28/02/2025,February 2025,Friday,M4,Injetora,Tarde,João Pereira,202.0,200,0,Sem parada,94.2
+27/06/2025,June 2025,Friday,M5,Solda Robotica,Manhã,Carlos Silva,110.0,120,0,Sem parada,68.0
+19/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Manhã,,126.0,140,8,Setup de máquina,89.8
+20/02/2025,February 2025,Thursday,M4,Injetora,Tarde,Maria Lima,215.0,200,0,Sem parada,80.5
+27/03/2025,March 2025,Thursday,M5,Solda Robotica,Tarde,Maria Lima,133.0,120,0,Sem parada,68.7
+14/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Noite,Pedro Santos,134.0,140,0,Sem parada,77.9
+12/06/2025,June 2025,Thursday,M5,Solda Robotica,Noite,João Pereira,121.0,120,11,Falta de insumo,67.3
+21/04/2025,April 2025,Monday,M1,Torno CNC,Tarde,Ana Souza,166.0,160,0,Sem parada,72.4
+14/01/2025,January 2025,Tuesday,M4,Injetora,Noite,Ana Souza,190.0,200,0,Sem parada,99.2
+04/06/2025,June 2025,Wednesday,M1,Torno CNC,Tarde,Maria Lima,162.0,160,0,Sem parada,69.9
+24/06/2025,June 2025,Tuesday,M2,Fresadora,Tarde,João Pereira,162.0,180,0,Sem parada,73.4
+06/02/2025,February 2025,Thursday,M5,Solda Robotica,Manhã,Pedro Santos,115.0,120,0,Sem parada,68.5
+31/03/2025,March 2025,Monday,M4,Injetora,Manhã,Maria Lima,180.0,200,0,Sem parada,95.7
+19/06/2025,June 2025,Thursday,M1,Torno CNC,Tarde,Pedro Santos,156.0,160,-1,Sem parada,78.7
+03/03/2025,March 2025,Monday,M5,Solda Robotica,Noite,Ana Souza,114.0,120,0,Sem parada,69.1
+08/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Tarde,João Pereira,111.0,140,-2,Sem parada,88.5
+12/02/2025,February 2025,Wednesday,M5,Solda Robotica,Tarde,João Pereira,114.0,120,0,Sem parada,71.9
+06/05/2025,May 2025,Tuesday,M5,Solda Robotica,Noite,João Pereira,125.0,120,-4,Sem parada,76.6
+17/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Manhã,Maria Lima,,140,0,Sem parada,94.8
+17/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Tarde,Maria Lima,130.0,140,0,Sem parada,92.6
+24/04/2025,April 2025,Thursday,M4,Injetora,Manhã,Pedro Santos,187.0,200,0,Sem parada,91.5
+26/02/2025,February 2025,Wednesday,M3,Prensa Hidráulica,Noite,João Pereira,132.0,140,0,Sem parada,91.4
+14/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Noite,Ana Souza,138.0,140,0,Sem parada,92.9
+12/03/2025,March 2025,Wednesday,M1,Torno CNC,Tarde,Pedro Santos,147.0,160,5,Falta de insumo,75.0
+23/05/2025,May 2025,Friday,M2,Fresadora,Tarde,Maria Lima,183.0,180,0,Sem parada,88.5
+02/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Maria Lima,145.0,140,0,Sem parada,93.2
+20/01/2025,January 2025,Monday,M1,Torno CNC,Noite,Ana Souza,175.0,160,0,Sem parada,72.7
+02/06/2025,June 2025,Monday,M5,Solda Robotica,Tarde,Ana Souza,111.0,120,0,Sem parada,68.1
+24/03/2025,March 2025,Monday,M5,Solda Robotica,Tarde,Carlos Silva,130.0,120,36,Manutenção preventiva,69.1
+27/01/2025,January 2025,Monday,M4,Injetora,Manhã,Pedro Santos,206.0,200,0,Sem parada,92.9
+28/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Noite,João Pereira,134.0,140,0,Sem parada,85.8
+13/06/2025,June 2025,Friday,M4,Injetora,Noite,Ana Souza,198.0,200,0,Sem parada,88.8
+06/02/2025,February 2025,Thursday,M4,Injetora,Tarde,Ana Souza,215.0,200,0,Sem parada,92.4
+13/01/2025,January 2025,Monday,M1,Torno CNC,Noite,Maria Lima,128.0,160,53,Manutenção preventiva,73.3
+23/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,151.0,140,0,Sem parada,91.4
+20/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Tarde,Carlos Silva,134.0,140,0,Sem parada,93.1
+16/05/2025,May 2025,Friday,M3,Prensa Hidráulica,Tarde,Pedro Santos,141.0,140,0,Sem parada,91.3
+19/03/2025,March 2025,Wednesday,M4,Injetora,Tarde,Pedro Santos,196.0,200,0,Sem parada,93.2
+23/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Manhã,Maria Lima,140.0,140,0,Sem parada,85.7
+14/05/2025,May 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,122.0,120,0,Sem parada,69.1
+20/06/2025,June 2025,Friday,M4,Injetora,Manhã,Maria Lima,219.0,200,0,Sem parada,94.6
+19/06/2025,June 2025,Thursday,M2,Fresadora,Tarde,Carlos Silva,178.0,180,0,Sem parada,87.3
+17/04/2025,April 2025,Thursday,M5,Solda Robotica,Tarde,João Pereira,125.0,120,0,Sem parada,69.1
+04/06/2025,June 2025,Wednesday,M4,Injetora,Noite,Carlos Silva,175.0,200,0,Sem parada,96.3
+14/05/2025,May 2025,Wednesday,M1,Torno CNC,Tarde,Pedro Santos,145.0,160,0,Sem parada,76.1
+05/02/2025,February 2025,Wednesday,M4,Injetora,Manhã,Ana Souza,189.0,200,0,Sem parada,104.1
+09/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Tarde,Pedro Santos,134.0,140,35,Setup de máquina,77.3
+20/03/2025,March 2025,Thursday,M5,Solda Robotica,Noite,Carlos Silva,118.0,120,0,Sem parada,65.1
+28/05/2025,May 2025,Wednesday,M5,Solda Robotica,Noite,Carlos Silva,129.0,120,0,Sem parada,72.6
+21/01/2025,January 2025,Tuesday,M4,Injetora,Manhã,Maria Lima,172.0,200,0,Sem parada,94.7
+28/02/2025,February 2025,Friday,M4,Injetora,Noite,Maria Lima,211.0,200,0,Sem parada,99.8
+01/01/2025,January 2025,Wednesday,M1,Torno CNC,Tarde,Carlos Silva,168.0,160,0,Sem parada,82.6
+10/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Tarde,João Pereira,134.0,140,0,Sem parada,95.4
+06/03/2025,March 2025,Thursday,M3,Prensa Hidráulica,Noite,Pedro Santos,124.0,140,0,Sem parada,85.1
+23/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Manhã,Pedro Santos,129.0,140,0,Sem parada,85.8
+31/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Manhã,Ana Souza,153.0,140,0,Sem parada,91.8
+03/06/2025,June 2025,Tuesday,M5,Solda Robotica,Tarde,João Pereira,136.0,120,0,Sem parada,65.3
+03/06/2025,June 2025,Tuesday,M1,Torno CNC,Tarde,Ana Souza,171.0,160,0,Sem parada,78.6
+06/06/2025,June 2025,Friday,M5,Solda Robotica,Tarde,João Pereira,112.0,120,0,Sem parada,70.4
+13/05/2025,May 2025,Tuesday,M1,Torno CNC,Manhã,Carlos Silva,147.0,160,27,Falha mecânica,79.2
+12/05/2025,May 2025,Monday,M5,Solda Robotica,Noite,Pedro Santos,123.0,120,0,Sem parada,60.4
+23/05/2025,May 2025,Friday,M2,Fresadora,Manhã,Pedro Santos,205.0,180,0,Sem parada,85.1
+01/05/2025,May 2025,Thursday,M1,Torno CNC,Tarde,João Pereira,159.0,160,0,Sem parada,81.1
+16/06/2025,June 2025,Monday,M4,Injetora,Tarde,Carlos Silva,203.0,200,0,Sem parada,91.2
+11/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Pedro Santos,118.0,140,56,Falha mecânica,95.2
+22/05/2025,May 2025,Thursday,M2,Fresadora,Noite,Carlos Silva,188.0,180,0,Sem parada,85.8
+16/04/2025,April 2025,Wednesday,M4,Injetora,Noite,Ana Souza,189.0,200,0,Sem parada,95.2
+28/04/2025,April 2025,Monday,M4,Injetora,Noite,Ana Souza,208.0,200,0,Sem parada,93.7
+18/06/2025,June 2025,Wednesday,M2,Fresadora,Tarde,Carlos Silva,160.0,180,0,Sem parada,82.9
+02/06/2025,June 2025,Monday,M4,Injetora,Noite,Ana Souza,185.0,200,0,Sem parada,100.9
+09/06/2025,June 2025,Monday,M1,Torno CNC,Manhã,Pedro Santos,139.0,160,0,Sem parada,71.0
+12/05/2025,May 2025,Monday,M1,Torno CNC,Noite,Pedro Santos,159.0,160,0,Sem parada,70.8
+04/03/2025,March 2025,Tuesday,M2,Fresadora,Manhã,Pedro Santos,166.0,180,0,Sem parada,84.3
+16/06/2025,June 2025,Monday,M3,Prensa Hidráulica,Tarde,João Pereira,119.0,140,0,Sem parada,89.8
+28/04/2025,April 2025,Monday,M5,Solda Robotica,Manhã,Maria Lima,118.0,120,0,Sem parada,71.6
+10/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Maria Lima,165.0,140,0,Sem parada,94.4
+09/06/2025,June 2025,Monday,M2,Fresadora,Noite,Ana Souza,187.0,180,0,Sem parada,87.8
+30/01/2025,January 2025,Thursday,M1,Torno CNC,Noite,Carlos Silva,147.0,160,0,Sem parada,66.7
+03/03/2025,March 2025,Monday,M2,Fresadora,Manhã,Carlos Silva,193.0,180,0,Sem parada,83.5
+14/05/2025,May 2025,Wednesday,M4,Injetora,Manhã,Ana Souza,208.0,200,0,Sem parada,101.1
+19/05/2025,May 2025,Monday,M4,Injetora,Manhã,Carlos Silva,218.0,200,0,Sem parada,89.5
+07/03/2025,March 2025,Friday,M2,Fresadora,Tarde,Pedro Santos,202.0,180,0,Sem parada,87.5
+09/05/2025,May 2025,Friday,M1,Torno CNC,Noite,Carlos Silva,163.0,160,0,Sem parada,79.1
+30/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Tarde,Carlos Silva,129.0,140,0,Sem parada,128.0
+01/04/2025,April 2025,Tuesday,M5,Solda Robotica,Manhã,João Pereira,117.0,120,31,Setup de máquina,68.2
+27/02/2025,February 2025,Thursday,M5,Solda Robotica,Manhã,Carlos Silva,131.0,120,0,Sem parada,64.0
+28/02/2025,February 2025,Friday,M1,Torno CNC,Noite,Ana Souza,162.0,160,0,Sem parada,67.9
+02/05/2025,May 2025,Friday,M1,Torno CNC,Tarde,Pedro Santos,157.0,160,0,Sem parada,75.0
+12/05/2025,May 2025,Monday,M2,Fresadora,Noite,Pedro Santos,182.0,180,0,Sem parada,98.5
+12/05/2025,May 2025,Monday,M5,Solda Robotica,Tarde,Maria Lima,124.0,120,0,Sem parada,71.8
+28/04/2025,April 2025,Monday,M2,Fresadora,Manhã,Ana Souza,175.0,180,0,Sem parada,83.6
+25/06/2025,June 2025,Wednesday,M5,Solda Robotica,Manhã,Ana Souza,96.0,120,30,Manutenção preventiva,72.4
+28/04/2025,April 2025,Monday,M4,Injetora,Manhã,Ana Souza,178.0,200,0,Sem parada,88.4
+20/05/2025,May 2025,Tuesday,M4,Injetora,Noite,João Pereira,201.0,200,0,Sem parada,93.9
+08/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Manhã,Maria Lima,140.0,140,0,Sem parada,92.8
+22/05/2025,May 2025,Thursday,M5,Solda Robotica,Noite,Maria Lima,99.0,120,40,Falha mecânica,68.0
+04/06/2025,June 2025,Wednesday,M5,Solda Robotica,Tarde,Pedro Santos,119.0,120,0,Sem parada,67.1
+07/05/2025,May 2025,Wednesday,M2,Fresadora,Tarde,Maria Lima,174.0,180,0,Sem parada,92.8
+24/06/2025,June 2025,Tuesday,M1,Torno CNC,Tarde,Maria Lima,139.0,160,0,Sem parada,36.1
+20/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Noite,João Pereira,140.0,140,0,Sem parada,89.2
+03/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Noite,Maria Lima,136.0,140,0,Sem parada,88.9
+17/06/2025,June 2025,Tuesday,M2,Fresadora,Noite,Maria Lima,210.0,180,0,Sem parada,91.7
+17/03/2025,March 2025,Monday,M1,Torno CNC,Manhã,Ana Souza,146.0,160,0,Sem parada,60.4
+03/03/2025,March 2025,Monday,M1,Torno CNC,Manhã,Pedro Santos,164.0,160,0,Sem parada,87.5
+04/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Tarde,Carlos Silva,98.0,140,33,Falta de insumo,90.9
+16/06/2025,June 2025,Monday,M4,Injetora,Noite,Ana Souza,164.0,200,0,Sem parada,101.0
+21/02/2025,February 2025,Friday,M1,Torno CNC,Tarde,Pedro Santos,171.0,160,0,Sem parada,77.5
+05/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,134.0,140,22,Falha mecânica,85.1
+24/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Tarde,Pedro Santos,158.0,140,0,Sem parada,95.0
+14/04/2025,April 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,140.0,120,0,Sem parada,68.8
+29/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,146.0,140,0,Sem parada,85.4
+10/06/2025,June 2025,Tuesday,M5,Solda Robotica,Manhã,Pedro Santos,126.0,120,0,Sem parada,64.3
+21/04/2025,April 2025,Monday,M5,Solda Robotica,Tarde,Pedro Santos,114.0,120,0,Sem parada,61.5
+18/02/2025,February 2025,Tuesday,M5,Solda Robotica,Noite,João Pereira,134.0,120,0,Sem parada,76.9
+09/04/2025,April 2025,Wednesday,M4,Injetora,Manhã,Carlos Silva,159.0,200,0,Sem parada,94.0
+20/02/2025,February 2025,Thursday,M1,Torno CNC,Manhã,Carlos Silva,155.0,160,0,Sem parada,73.3
+22/04/2025,April 2025,Tuesday,M4,Injetora,Manhã,Pedro Santos,214.0,200,0,Sem parada,100.2
+05/06/2025,June 2025,Thursday,M5,Solda Robotica,Tarde,Pedro Santos,105.0,120,60,Falta de insumo,59.4
+11/03/2025,March 2025,Tuesday,M5,Solda Robotica,Tarde,Ana Souza,139.0,120,0,Sem parada,76.0
+17/06/2025,June 2025,Tuesday,M3,Prensa Hidráulica,Noite,Maria Lima,132.0,140,0,Sem parada,85.4
+14/05/2025,May 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,172.0,180,0,Sem parada,87.4
+14/02/2025,February 2025,Friday,M2,Fresadora,Tarde,Pedro Santos,179.0,180,0,Sem parada,77.8
+09/01/2025,January 2025,Thursday,M2,Fresadora,Noite,Maria Lima,173.0,180,0,Sem parada,89.3
+07/04/2025,April 2025,Monday,M1,Torno CNC,Manhã,João Pereira,151.0,160,0,Sem parada,73.0
+21/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Noite,Pedro Santos,143.0,140,0,Sem parada,86.2
+29/04/2025,April 2025,Tuesday,M2,Fresadora,Tarde,Maria Lima,209.0,180,0,Sem parada,79.3
+11/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Pedro Santos,142.0,140,0,Sem parada,94.7
+21/03/2025,March 2025,Friday,M3,Prensa Hidráulica,Noite,Carlos Silva,133.0,140,0,Sem parada,94.0
+29/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Noite,Maria Lima,147.0,140,0,Sem parada,80.6
+10/06/2025,June 2025,Tuesday,M2,Fresadora,Tarde,Pedro Santos,186.0,180,0,Sem parada,90.5
+19/05/2025,May 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,,120,39,Falha mecânica,71.4
+25/03/2025,March 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,123.0,140,0,Sem parada,93.8
+28/05/2025,May 2025,Wednesday,M1,Torno CNC,Noite,Maria Lima,146.0,160,0,Sem parada,66.8
+08/04/2025,April 2025,Tuesday,M2,Fresadora,Manhã,Pedro Santos,188.0,180,0,Sem parada,91.0
+20/01/2025,January 2025,Monday,M4,Injetora,Noite,Maria Lima,175.0,200,0,Sem parada,101.4
+06/02/2025,February 2025,Thursday,M1,Torno CNC,Noite,Pedro Santos,167.0,160,0,Sem parada,80.4
+14/03/2025,March 2025,Friday,M5,Solda Robotica,Noite,Carlos Silva,112.0,120,0,Sem parada,70.4
+24/03/2025,March 2025,Monday,M1,Torno CNC,Manhã,João Pereira,158.0,160,0,Sem parada,74.2
+06/02/2025,February 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,127.0,140,0,Sem parada,95.3
+13/03/2025,March 2025,Thursday,M1,Torno CNC,Tarde,Carlos Silva,164.0,160,0,Sem parada,74.3
+16/06/2025,June 2025,Monday,M5,Solda Robotica,Tarde,,,120,48,Falha mecânica,75.4
+25/04/2025,April 2025,Friday,M4,Injetora,Noite,Pedro Santos,231.0,200,0,Sem parada,91.2
+07/04/2025,April 2025,Monday,M3,Prensa Hidráulica,Noite,Carlos Silva,134.0,140,0,Sem parada,94.4
+28/02/2025,February 2025,Friday,M5,Solda Robotica,Manhã,Pedro Santos,112.0,120,0,Sem parada,63.3
+20/06/2025,June 2025,Friday,M1,Torno CNC,Manhã,Maria Lima,155.0,160,0,Sem parada,71.4
+26/02/2025,February 2025,Wednesday,M5,Solda Robotica,Manhã,Carlos Silva,118.0,120,0,Sem parada,69.4
+13/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Tarde,Carlos Silva,133.0,140,0,Sem parada,84.1
+01/04/2025,April 2025,Tuesday,M1,Torno CNC,Manhã,Ana Souza,134.0,160,0,Sem parada,78.7
+27/05/2025,May 2025,Tuesday,M4,Injetora,Tarde,Ana Souza,213.0,200,0,Sem parada,84.4
+10/03/2025,March 2025,Monday,M2,Fresadora,Noite,Maria Lima,184.0,180,0,Sem parada,93.5
+05/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Noite,Maria Lima,139.0,140,0,Sem parada,85.3
+09/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Noite,Carlos Silva,130.0,140,0,Sem parada,90.8
+17/03/2025,March 2025,Monday,M4,Injetora,Manhã,João Pereira,,200,0,Sem parada,93.7
+12/06/2025,June 2025,Thursday,M4,Injetora,Noite,Carlos Silva,193.0,200,17,Setup de máquina,95.3
+29/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,120.0,140,10,Falha mecânica,80.6
+07/02/2025,February 2025,Friday,M1,Torno CNC,Tarde,João Pereira,178.0,160,0,Sem parada,76.0
+17/02/2025,February 2025,Monday,M3,Prensa Hidráulica,Tarde,Pedro Santos,147.0,140,0,Sem parada,92.0
+10/04/2025,April 2025,Thursday,M3,Prensa Hidráulica,Manhã,João Pereira,141.0,140,0,Sem parada,91.2
+09/04/2025,April 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,140.0,140,0,Sem parada,85.0
+27/03/2025,March 2025,Thursday,M5,Solda Robotica,Noite,Carlos Silva,122.0,120,0,Sem parada,71.3
+13/03/2025,March 2025,Thursday,M5,Solda Robotica,Noite,João Pereira,134.0,120,0,Sem parada,68.6
+20/01/2025,January 2025,Monday,M2,Fresadora,Noite,Pedro Santos,157.0,180,0,Sem parada,82.0
+13/01/2025,January 2025,Monday,M5,Solda Robotica,Noite,João Pereira,115.0,120,0,Sem parada,70.7
+09/04/2025,April 2025,Wednesday,M1,Torno CNC,Tarde,Pedro Santos,148.0,160,0,Sem parada,80.6
+03/01/2025,January 2025,Friday,M4,Injetora,Tarde,Ana Souza,196.0,200,0,Sem parada,96.8
+04/04/2025,April 2025,Friday,M5,Solda Robotica,Manhã,Maria Lima,130.0,120,0,Sem parada,83.8
+22/01/2025,January 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,208.0,180,0,Sem parada,85.2
+21/05/2025,May 2025,Wednesday,M5,Solda Robotica,Tarde,Carlos Silva,121.0,120,0,Sem parada,72.2
+05/02/2025,February 2025,Wednesday,M2,Fresadora,Manhã,Pedro Santos,187.0,180,0,Sem parada,85.9
+28/01/2025,January 2025,Tuesday,M2,Fresadora,Manhã,Maria Lima,183.0,180,0,Sem parada,88.9
+07/02/2025,February 2025,Friday,M5,Solda Robotica,Tarde,João Pereira,130.0,120,17,Falha mecânica,65.0
+09/06/2025,June 2025,Monday,M2,Fresadora,Manhã,Ana Souza,187.0,180,0,Sem parada,92.4
+06/02/2025,February 2025,Thursday,M1,Torno CNC,Tarde,,164.0,160,0,Sem parada,78.1
+25/02/2025,February 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Ana Souza,128.0,140,0,Sem parada,134.7
+22/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Tarde,João Pereira,148.0,140,0,Sem parada,79.8
+18/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Tarde,Ana Souza,139.0,140,0,Sem parada,93.3
+11/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Manhã,Pedro Santos,136.0,140,0,Sem parada,90.8
+20/05/2025,May 2025,Tuesday,M4,Injetora,Tarde,Pedro Santos,224.0,200,0,Sem parada,98.0
+03/03/2025,March 2025,Monday,M1,Torno CNC,Noite,Maria Lima,161.0,160,0,Sem parada,74.5
+17/04/2025,April 2025,Thursday,M5,Solda Robotica,Manhã,João Pereira,122.0,120,56,Falta de insumo,85.5
+08/05/2025,May 2025,Thursday,M1,Torno CNC,Noite,Pedro Santos,185.0,160,0,Sem parada,72.3
+18/02/2025,February 2025,Tuesday,M4,Injetora,Tarde,João Pereira,226.0,200,0,Sem parada,92.7
+07/01/2025,January 2025,Tuesday,M2,Fresadora,Tarde,Maria Lima,181.0,180,0,Sem parada,82.5
+01/01/2025,January 2025,Wednesday,M5,Solda Robotica,Noite,Maria Lima,114.0,120,-1,Sem parada,68.5
+21/04/2025,April 2025,Monday,M4,Injetora,Tarde,Pedro Santos,183.0,200,0,Sem parada,88.2
+09/04/2025,April 2025,Wednesday,M5,Solda Robotica,Noite,Carlos Silva,123.0,120,13,Setup de máquina,73.6
+14/02/2025,February 2025,Friday,M5,Solda Robotica,Manhã,João Pereira,119.0,120,0,Sem parada,64.2
+05/02/2025,February 2025,Wednesday,M2,Fresadora,Tarde,Pedro Santos,167.0,180,0,Sem parada,88.5
+17/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Tarde,Ana Souza,164.0,140,0,Sem parada,86.2
+12/03/2025,March 2025,Wednesday,M5,Solda Robotica,Tarde,Pedro Santos,138.0,120,0,Sem parada,77.7
+21/01/2025,January 2025,Tuesday,M3,Prensa Hidráulica,Manhã,Pedro Santos,136.0,140,0,Sem parada,93.6
+14/03/2025,March 2025,Friday,M4,Injetora,Noite,Carlos Silva,183.0,200,0,Sem parada,95.3
+10/04/2025,April 2025,Thursday,M4,Injetora,Noite,Carlos Silva,200.0,200,0,Sem parada,96.2
+24/03/2025,March 2025,Monday,M3,Prensa Hidráulica,Noite,Carlos Silva,138.0,140,0,Sem parada,94.8
+31/01/2025,January 2025,Friday,M3,Prensa Hidráulica,Tarde,Maria Lima,124.0,140,0,Sem parada,86.1
+16/06/2025,June 2025,Monday,M1,Torno CNC,Noite,Ana Souza,177.0,160,0,Sem parada,76.6
+07/03/2025,March 2025,Friday,M5,Solda Robotica,Noite,Pedro Santos,109.0,120,58,Falha mecânica,73.7
+12/06/2025,June 2025,Thursday,M3,Prensa Hidráulica,Noite,João Pereira,149.0,140,0,Sem parada,89.8
+28/01/2025,January 2025,Tuesday,M4,Injetora,Tarde,João Pereira,201.0,200,0,Sem parada,92.6
+11/06/2025,June 2025,Wednesday,M1,Torno CNC,Manhã,Maria Lima,153.0,160,0,Sem parada,68.7
+04/04/2025,April 2025,Friday,M4,Injetora,Noite,Pedro Santos,207.0,200,0,Sem parada,97.5
+30/04/2025,April 2025,Wednesday,M1,Torno CNC,Manhã,Carlos Silva,139.0,160,0,Sem parada,65.6
+12/06/2025,June 2025,Thursday,M4,Injetora,Tarde,Carlos Silva,,200,38,Manutenção preventiva,91.9
+20/05/2025,May 2025,Tuesday,M1,Torno CNC,Manhã,Pedro Santos,135.0,160,0,Sem parada,74.7
+12/02/2025,February 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,175.0,180,0,Sem parada,86.1
+30/06/2025,June 2025,Monday,M4,Injetora,Noite,Maria Lima,199.0,200,0,Sem parada,93.9
+18/03/2025,March 2025,Tuesday,M2,Fresadora,Noite,Pedro Santos,163.0,180,59,Falha mecânica,80.8
+24/01/2025,January 2025,Friday,M5,Solda Robotica,Noite,Pedro Santos,116.0,120,50,Falta de insumo,67.1
+03/04/2025,April 2025,Thursday,M2,Fresadora,Noite,Carlos Silva,191.0,180,0,Sem parada,88.8
+20/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Manhã,,140.0,140,0,Sem parada,90.2
+15/01/2025,January 2025,Wednesday,M4,Injetora,Noite,Carlos Silva,186.0,200,0,Sem parada,105.5
+28/05/2025,May 2025,Wednesday,M2,Fresadora,Tarde,Pedro Santos,194.0,180,12,Falha mecânica,86.6
+10/03/2025,March 2025,Monday,M4,Injetora,Manhã,Carlos Silva,220.0,200,0,Sem parada,98.4
+06/02/2025,February 2025,Thursday,M4,Injetora,Noite,Pedro Santos,201.0,200,0,Sem parada,92.7
+06/03/2025,March 2025,Thursday,M5,Solda Robotica,Manhã,Ana Souza,129.0,120,0,Sem parada,66.2
+21/05/2025,May 2025,Wednesday,M1,Torno CNC,Manhã,João Pereira,129.0,160,22,Setup de máquina,70.7
+17/06/2025,June 2025,Tuesday,M4,Injetora,Tarde,Maria Lima,217.0,200,0,Sem parada,98.0
+16/04/2025,April 2025,Wednesday,M2,Fresadora,Tarde,Maria Lima,142.0,180,0,Sem parada,86.0
+21/02/2025,February 2025,Friday,M4,Injetora,Tarde,Maria Lima,205.0,200,0,Sem parada,97.1
+13/05/2025,May 2025,Tuesday,M2,Fresadora,Manhã,Pedro Santos,197.0,180,0,Sem parada,84.7
+07/04/2025,April 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,153.0,160,0,Sem parada,75.8
+07/04/2025,April 2025,Monday,M2,Fresadora,Noite,Maria Lima,175.0,180,40,Setup de máquina,80.7
+13/05/2025,May 2025,Tuesday,M1,Torno CNC,Tarde,João Pereira,159.0,160,0,Sem parada,68.0
+28/05/2025,May 2025,Wednesday,M4,Injetora,Tarde,Maria Lima,184.0,200,0,Sem parada,98.0
+14/04/2025,April 2025,Monday,M4,Injetora,Manhã,João Pereira,194.0,200,0,Sem parada,95.0
+20/01/2025,January 2025,Monday,M4,Injetora,Tarde,Carlos Silva,211.0,200,0,Sem parada,89.4
+03/01/2025,January 2025,Friday,M2,Fresadora,Tarde,Pedro Santos,185.0,180,0,Sem parada,81.8
+13/03/2025,March 2025,Thursday,M4,Injetora,Tarde,Pedro Santos,,200,0,Sem parada,94.0
+17/02/2025,February 2025,Monday,M5,Solda Robotica,Tarde,Maria Lima,113.0,120,0,Sem parada,67.6
+15/05/2025,May 2025,Thursday,M4,Injetora,Noite,Pedro Santos,190.0,200,0,Sem parada,96.6
+19/05/2025,May 2025,Monday,M3,Prensa Hidráulica,Noite,Maria Lima,150.0,140,0,Sem parada,88.8
+27/06/2025,June 2025,Friday,M1,Torno CNC,Manhã,Maria Lima,147.0,160,0,Sem parada,77.1
+09/05/2025,May 2025,Friday,M4,Injetora,Tarde,Ana Souza,213.0,200,0,Sem parada,91.8
+09/01/2025,January 2025,Thursday,M1,Torno CNC,Tarde,Pedro Santos,146.0,160,0,Sem parada,77.4
+07/05/2025,May 2025,Wednesday,M5,Solda Robotica,Tarde,Ana Souza,129.0,120,0,Sem parada,76.7
+25/03/2025,March 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,112.0,120,39,Falha mecânica,66.2
+21/02/2025,February 2025,Friday,M4,Injetora,Manhã,Ana Souza,198.0,200,0,Sem parada,96.6
+08/05/2025,May 2025,Thursday,M2,Fresadora,Tarde,Carlos Silva,202.0,180,0,Sem parada,89.3
+13/03/2025,March 2025,Thursday,M4,Injetora,Noite,João Pereira,185.0,200,0,Sem parada,90.9
+23/01/2025,January 2025,Thursday,M1,Torno CNC,Tarde,Pedro Santos,139.0,160,0,Sem parada,76.0
+01/01/2025,January 2025,Wednesday,M5,Solda Robotica,Tarde,Carlos Silva,108.0,120,0,Sem parada,71.9
+30/01/2025,January 2025,Thursday,M1,Torno CNC,Manhã,João Pereira,138.0,160,0,Sem parada,82.6
+26/02/2025,February 2025,Wednesday,m1,Torno CNC,Manhã,Ana Souza,161.0,160,0,Sem parada,72.9
+05/02/2025,February 2025,Wednesday,M5,Solda Robotica,Manhã,Carlos Silva,125.0,120,0,Sem parada,62.1
+01/05/2025,May 2025,Thursday,M3,Prensa Hidráulica,Tarde,Pedro Santos,138.0,140,34,Manutenção preventiva,78.8
+16/01/2025,January 2025,Thursday,M1,Torno CNC,Tarde,João Pereira,160.0,160,0,Sem parada,71.6
+20/03/2025,March 2025,Thursday,M1,Torno CNC,Manhã,Pedro Santos,165.0,160,0,Sem parada,74.9
+02/01/2025,January 2025,Thursday,M2,Fresadora,Noite,Ana Souza,190.0,180,0,Sem parada,85.9
+03/03/2025,March 2025,Monday,M1,Torno CNC,Tarde,Ana Souza,159.0,160,0,Sem parada,79.2
+20/06/2025,June 2025,Friday,M5,Solda Robotica,Manhã,Ana Souza,125.0,120,0,Sem parada,65.7
+21/05/2025,May 2025,Wednesday,M3,Prensa Hidráulica,Noite,João Pereira,120.0,140,9,Manutenção preventiva,75.8
+17/04/2025,April 2025,Thursday,M5,Solda Robotica,Noite,Maria Lima,125.0,120,0,Sem parada,74.4
+22/05/2025,May 2025,Thursday,M5,Solda Robotica,Tarde,Ana Souza,114.0,120,0,Sem parada,71.0
+19/03/2025,March 2025,Wednesday,M3,Prensa Hidráulica,Manhã,Carlos Silva,116.0,140,0,Sem parada,87.0
+29/04/2025,April 2025,Tuesday,M3,Prensa Hidráulica,Tarde,Ana Souza,135.0,140,0,Sem parada,88.5
+29/05/2025,May 2025,Thursday,M1,Torno CNC,Manhã,Carlos Silva,172.0,160,0,Sem parada,77.6
+21/02/2025,February 2025,Friday,M3,Prensa Hidráulica,Tarde,,158.0,140,0,Sem parada,84.3
+25/06/2025,June 2025,Wednesday,M4,Injetora,Noite,Ana Souza,187.0,200,0,Sem parada,91.2
+05/03/2025,March 2025,Wednesday,M4,Injetora,Noite,Ana Souza,178.0,200,0,Sem parada,86.9
+31/03/2025,March 2025,Monday,M5,Solda Robotica,Manhã,Ana Souza,102.0,120,0,Sem parada,67.3
+17/01/2025,January 2025,Friday,M4,Injetora,Manhã,Pedro Santos,235.0,200,0,Sem parada,91.0
+18/06/2025,June 2025,Wednesday,M3,Prensa Hidráulica,Manhã,João Pereira,137.0,140,0,Sem parada,92.0
+02/04/2025,April 2025,Wednesday,M1,Torno CNC,Manhã,João Pereira,137.0,160,0,Sem parada,81.3
+06/03/2025,March 2025,Thursday,M4,Injetora,Manhã,Maria Lima,219.0,200,0,Sem parada,91.7
+20/05/2025,May 2025,Tuesday,M5,Solda Robotica,Noite,Carlos Silva,123.0,120,0,Sem parada,69.2
+09/06/2025,June 2025,Monday,M4,Injetora,Tarde,Maria Lima,189.0,200,0,Sem parada,93.0
+18/02/2025,February 2025,Tuesday,m1,Torno CNC,Manhã,Maria Lima,166.0,160,0,Sem parada,72.1
+11/04/2025,April 2025,Friday,M1,Torno CNC,Noite,Carlos Silva,180.0,160,0,Sem parada,69.9
+13/02/2025,February 2025,Thursday,M4,Injetora,Manhã,Ana Souza,199.0,200,0,Sem parada,96.2
+28/05/2025,May 2025,Wednesday,M4,Injetora,Manhã,Pedro Santos,198.0,200,0,Sem parada,92.9
+21/03/2025,March 2025,Friday,M1,Torno CNC,Tarde,Pedro Santos,132.0,160,0,Sem parada,79.2
+11/03/2025,March 2025,Tuesday,M5,Solda Robotica,Manhã,Carlos Silva,134.0,120,0,Sem parada,50.0
+23/01/2025,January 2025,Thursday,M5,Solda Robotica,Manhã,João Pereira,113.0,120,0,Sem parada,67.6
+02/01/2025,January 2025,Thursday,M3,Prensa Hidráulica,Manhã,Pedro Santos,138.0,140,0,Sem parada,88.5
+06/05/2025,May 2025,Tuesday,M1,Torno CNC,Noite,Carlos Silva,147.0,160,0,Sem parada,65.2
+12/02/2025,February 2025,Wednesday,M4,Injetora,Manhã,Ana Souza,,200,0,Sem parada,96.0
+21/04/2025,April 2025,Monday,M5,Solda Robotica,Noite,Carlos Silva,109.0,120,0,Sem parada,76.2
+27/01/2025,January 2025,Monday,M3,Prensa Hidráulica,Manhã,Ana Souza,153.0,140,0,Sem parada,91.3
+31/03/2025,March 2025,Monday,M4,Injetora,Tarde,Maria Lima,227.0,200,0,Sem parada,106.2
+24/04/2025,April 2025,Thursday,M1,Torno CNC,Manhã,Ana Souza,167.0,160,0,Sem parada,69.9
+05/02/2025,February 2025,Wednesday,M4,Injetora,Tarde,Maria Lima,211.0,200,0,Sem parada,92.2
+17/03/2025,March 2025,Monday,M4,Injetora,Tarde,João Pereira,195.0,200,0,Sem parada,87.2
+14/05/2025,May 2025,Wednesday,M5,Solda Robotica,Manhã,Ana Souza,119.0,120,0,Sem parada,65.5
+22/05/2025,May 2025,Thursday,M1,Torno CNC,Manhã,Maria Lima,128.0,160,0,Sem parada,71.7
+31/01/2025,January 2025,Friday,M5,Solda Robotica,Tarde,Maria Lima,117.0,120,0,Sem parada,68.1
+13/03/2025,March 2025,Thursday,M2,Fresadora,Tarde,Ana Souza,163.0,180,0,Sem parada,70.6
+05/05/2025,May 2025,Monday,M5,Solda Robotica,Manhã,Maria Lima,124.0,120,0,Sem parada,63.2
+06/06/2025,June 2025,Friday,M2,Fresadora,Noite,Pedro Santos,178.0,180,0,Sem parada,79.0
+13/01/2025,January 2025,Monday,M4,Injetora,Tarde,João Pereira,185.0,200,0,Sem parada,94.7
+06/06/2025,June 2025,Friday,M3,Prensa Hidráulica,Tarde,Pedro Santos,121.0,140,0,Sem parada,84.9
+24/03/2025,March 2025,Monday,M1,Torno CNC,Tarde,Pedro Santos,160.0,160,0,Sem parada,80.8
+15/04/2025,April 2025,Tuesday,M5,Solda Robotica,Tarde,Carlos Silva,109.0,120,8,Falha mecânica,63.3
+12/05/2025,May 2025,Monday,M1,Torno CNC,Tarde,Maria Lima,154.0,160,0,Sem parada,70.4
+08/01/2025,January 2025,Wednesday,M5,Solda Robotica,Manhã,Ana Souza,122.0,120,0,Sem parada,74.1
+19/05/2025,May 2025,Monday,M5,Solda Robotica,Manhã,João Pereira,131.0,120,0,Sem parada,68.7
+31/01/2025,January 2025,Friday,M1,Torno CNC,Manhã,Maria Lima,152.0,160,0,Sem parada,72.3
+25/04/2025,April 2025,Friday,M3,Prensa Hidráulica,Noite,Carlos Silva,137.0,140,0,Sem parada,97.3
+13/02/2025,February 2025,Thursday,M1,Torno CNC,Tarde,Ana Souza,141.0,160,0,Sem parada,64.0
+13/01/2025,January 2025,Monday,M1,Torno CNC,Tarde,Pedro Santos,166.0,160,0,Sem parada,79.3
+03/06/2025,June 2025,Tuesday,M2,Fresadora,Manhã,Pedro Santos,196.0,180,0,Sem parada,85.7
+08/04/2025,April 2025,Tuesday,M4,Injetora,Manhã,Maria Lima,184.0,200,20,Falha mecânica,102.3
+10/06/2025,June 2025,Tuesday,M5,Solda Robotica,Noite,Carlos Silva,113.0,120,10,Setup de máquina,67.9
+14/04/2025,April 2025,Monday,M1,Torno CNC,Manhã,João Pereira,139.0,160,0,Sem parada,77.3
+16/04/2025,April 2025,Wednesday,M2,Fresadora,Noite,Carlos Silva,186.0,180,0,Sem parada,87.0
+01/05/2025,May 2025,Thursday,M2,Fresadora,Tarde,João Pereira,168.0,180,0,Sem parada,84.7
+21/03/2025,March 2025,Friday,M2,Fresadora,Noite,João Pereira,187.0,180,-5,Sem parada,83.7
+16/05/2025,May 2025,Friday,M2,Fresadora,Tarde,Carlos Silva,181.0,180,0,Sem parada,91.5
+16/04/2025,April 2025,Wednesday,M1,Torno CNC,Tarde,Maria Lima,141.0,160,0,Sem parada,74.9
