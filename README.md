@@ -5,6 +5,34 @@ Análise completa de dados de produção de 5 máquinas industriais
 ao longo de 6 meses, identificando padrões de eficiência e
 gargalos operacionais.
 
+## 📊 Dashboard
+
+![Dashboard Industrial](Dashboard-Industrial.png)
+
+## 📝 Relatório Gerencial
+```
+==================================================
+   RELATÓRIO GERENCIAL — PRODUÇÃO INDUSTRIAL
+==================================================
+ Período   : 01/01/2025 a 30/06/2025
+ Registros : 1,935 turnos
+--------------------------------------------------
+  PRODUÇÃO
+    Total produzido  : 306,986 unidades
+    Média por turno  : 158.6 unidades
+--------------------------------------------------
+  EFICIÊNCIA
+    Eficiência geral : 96.4%
+    Turnos Ótimos    : 96.3%
+    Turnos Críticos  : 0.0%
+--------------------------------------------------
+  DESTAQUES
+     Máquina mais eficiente  : M2
+     Máquina menos eficiente : M3
+     Melhor operador         : Maria Lima
+     Pior mês de produção    : Fevereiro
+==================================================
+```
 ## Ferramentas utilizadas
 - Python, pandas, numpy
 - matplotlib, seaborn
